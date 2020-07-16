@@ -1,0 +1,1074 @@
+,Sale Date,Item Name,Quantity,Price,Shipping Discount,Order Shipping,Order Sales Tax,Item Total,Date Paid,Date Shipped,Ship City,Ship State,Ship Zipcode,Ship Country,Variations,Item Type
+0,2020-07-15,Mask - Unicorns,1,14.0,0.0,3.64,0.0,14.0,2020-07-15,,SARASOTA,FL,,United States,Kids,Mask
+1,2020-07-15,Mask - Cats,1,16.0,0.0,3.54,0.0,16.0,2020-07-15,,Washington,DC,,United States,Adults,Mask
+2,2020-07-15,Mask - Daisies,1,16.0,0.0,3.98,0.0,16.0,2020-07-15,,Anaheim,CA,,United States,Adults,Mask
+3,2020-07-14,Mask - Bananas on Pink,1,16.0,0.0,3.98,0.0,16.0,2020-07-14,,West Hollywood,CA,,United States,Teens,Mask
+4,2020-07-14,Mask - Bananas on Pink,1,16.0,0.0,3.64,0.0,16.0,2020-07-14,,Saint Paul,MN,,United States,Kids,Mask
+5,2020-07-14,Mask - Bananas on Blue,1,16.0,3.05,0.0,0.0,16.0,2020-07-14,,Brighton,CO,,United States,Adults,Mask
+6,2020-07-14,Mask - Bananas on Pink,1,17.0,0.0,0.0,0.0,17.0,2020-07-14,,Brighton,CO,,United States,Adults,Mask
+7,2020-07-14,Mask - Bees,1,15.0,0.0,0.0,0.0,15.0,2020-07-14,,Brighton,CO,,United States,Teens,Mask
+8,2020-07-13,Mask - Bananas on Pink,1,17.0,0.0,3.64,0.0,17.0,2020-07-13,2020-07-15,Orlando,FL,,United States,Teens,Mask
+9,2020-07-13,Mask - Bananas on Blue,1,16.0,0.0,3.85,0.0,16.0,2020-07-13,2020-07-15,LOUISVILLE,CO,,United States,Adults,Mask
+10,2020-07-12,Mask - Gray,1,13.0,0.0,2.78,0.0,13.0,2020-07-12,2020-07-14,Jacksonville,FL,,United States,Kids,Mask
+11,2020-07-12,Mask - Unicorns,1,14.0,0.0,0.0,0.0,14.0,2020-07-12,2020-07-14,Jacksonville,FL,,United States,Kids,Mask
+12,2020-07-12,Mask - Beautiful Garden,1,16.0,2.74,0.0,0.0,16.0,2020-07-12,2020-07-14,Norfolk,VA,,United States,Adults,Mask
+13,2020-07-12,Mask - Bananas on Pink,1,17.0,0.0,0.0,0.0,17.0,2020-07-12,2020-07-14,Norfolk,VA,,United States,Adults,Mask
+14,2020-07-12,Mask - Daisies,1,16.0,0.0,0.0,0.0,16.0,2020-07-12,2020-07-14,Norfolk,VA,,United States,Adults,Mask
+15,2020-07-12,Mask - Comic Book,1,17.5,0.0,0.0,0.0,17.5,2020-07-12,2020-07-14,Norfolk,VA,,United States,Adults,Mask
+16,2020-07-11,Mask - Dark Green,1,16.0,0.0,3.58,0.0,16.0,2020-07-11,2020-07-14,HUNTSVILLE,AL,,United States,Adults,Mask
+17,2020-07-11,Pads - Colored Plaids,1,50.0,3.98,0.0,0.0,50.0,2020-07-11,2020-07-14,Tumwater,WA,,United States,,Pads
+18,2020-07-09,Mask - Bananas on Pink,1,16.0,0.0,3.64,0.0,16.0,2020-07-09,2020-07-10,Madison,MS,,United States,Adults,Mask
+19,2020-07-09,Pads - Sunflowers on Acqua,1,50.0,2.76,0.0,0.0,50.0,2020-07-09,2020-07-10,CLARKSBURG,WV,,United States,,Pads
+20,2020-07-09,Mask - Beautiful Garden,1,16.0,4.46,0.0,0.0,16.0,2020-07-09,2020-07-10,Camas,WA,,United States,Adults,Mask
+21,2020-07-09,Mask - Gustav Klimt,1,16.0,0.0,0.0,0.0,16.0,2020-07-09,2020-07-10,Camas,WA,,United States,Adults,Mask
+22,2020-07-09,Mask - Unicorns,1,13.0,0.0,0.0,0.0,13.0,2020-07-09,2020-07-10,Camas,WA,,United States,pattern:3 - 6 years old,Mask
+23,2020-07-09,Napkins - Festival Animals,1,10.0,0.0,0.0,0.0,10.0,2020-07-09,2020-07-10,Camas,WA,,United States,,Napkins
+24,2020-07-09,Unpaper Towels - Rainbow,1,22.0,0.0,0.0,0.0,22.0,2020-07-09,2020-07-10,Camas,WA,,United States,,Unpaper Towels
+25,2020-07-08,Unpaper Towels - Oranges,1,18.0,4.73,0.0,0.0,18.0,2020-07-08,2020-07-10,Williamsburg,VA,,United States,,Unpaper Towels
+26,2020-07-08,Unpaper Towels - Lemons,1,18.0,0.0,0.0,0.0,18.0,2020-07-08,2020-07-10,Williamsburg,VA,,United States,,Unpaper Towels
+27,2020-07-08,Unpaper Towels - Rainbow,1,22.0,0.0,0.0,0.0,22.0,2020-07-08,2020-07-10,Williamsburg,VA,,United States,,Unpaper Towels
+28,2020-07-06,Burp Cloth - Dinosaurs,1,15.0,3.93,0.0,0.0,15.0,2020-07-06,2020-07-08,NEWPORT NEWS,VA,,United States,,Burp Cloth
+29,2020-07-06,Mask - Beautiful Garden on Yellow,1,17.5,0.0,0.0,0.0,17.5,2020-07-06,2020-07-08,NEWPORT NEWS,VA,,United States,Adults,Mask
+30,2020-07-06,Nursing Pads - Mom and Baby Sloths ll,1,18.0,0.0,0.0,0.0,18.0,2020-07-06,2020-07-08,NEWPORT NEWS,VA,,United States,,Nursing Pads
+31,2020-07-06,Mask - White Marble,1,17.5,0.0,0.0,0.0,17.5,2020-07-06,2020-07-08,NEWPORT NEWS,VA,,United States,Adults,Mask
+32,2020-07-06,Mask - Bananas on Blue,1,13.0,0.0,3.64,0.0,13.0,2020-07-06,2020-07-08,Key Biscayne,FL,,United States,Toddlers,Mask
+33,2020-07-06,Cotton Pads - White,1,15.0,0.0,3.98,0.0,15.0,2020-07-06,2020-07-08,SAN DIEGO,CA,,United States,,Cotton Pads
+34,2020-07-05,Mask - Sketch Art,1,16.0,0.0,3.98,0.0,16.0,2020-07-05,2020-07-07,Kaneohe,HI,,United States,Adults,Mask
+35,2020-07-04,Small Wet Bag- Soft Blue,1,10.0,0.0,4.03,0.0,10.0,2020-07-04,2020-07-07,New Providence,NJ,,United States,,Small Wet Bag
+36,2020-07-04,Mask - Birds on Gray and Yellow,1,16.0,0.0,3.64,0.0,16.0,2020-07-04,2020-07-07,Tolono,IL,,United States,Adults,Mask
+37,2020-07-03,Pads - Blue Patches,1,45.0,3.85,0.0,0.0,45.0,2020-07-03,2020-07-07,Arroyo Seco,NM,,United States,,Pads
+38,2020-07-03,Mask - Bananas on Blue,1,16.0,0.0,3.98,0.0,16.0,2020-07-03,2020-07-07,Los Angeles,CA,,United States,Adults,Mask
+39,2020-07-02,Napkins - Spaceship in Space,1,10.0,0.0,4.47,0.0,10.0,2020-07-02,2020-07-06,Placerville,CA,,United States,,Napkins
+40,2020-07-02,Napkins - Rinos,1,10.0,0.0,0.0,0.0,10.0,2020-07-02,2020-07-06,Placerville,CA,,United States,,Napkins
+41,2020-07-02,Mask - Nebula,1,14.0,2.78,0.0,0.0,14.0,2020-07-02,2020-07-06,Mooresville,IN,,United States,Kids,Mask
+42,2020-07-02,Mask - Bananas on Blue,2,15.0,0.0,0.0,0.0,30.0,2020-07-02,2020-07-06,Mooresville,IN,,United States,Teens,Mask
+43,2020-07-02,Mask - Bananas on Blue,1,13.0,0.0,3.58,0.0,13.0,2020-07-02,2020-07-03,LEXINGTON,MA,,United States,Toddlers,Mask
+44,2020-07-01,Mask - Bananas on Blue,1,14.0,0.0,3.58,0.0,14.0,2020-07-01,2020-07-03,Sudbury,MA,,United States,Kids,Mask
+45,2020-07-01,Mask - Bananas on Pink,1,16.0,0.0,2.93,0.0,16.0,2020-07-01,2020-07-03,Norman,OK,,United States,Adults,Mask
+46,2020-07-01,Mask - Gustav Klimt,1,16.0,0.0,0.0,0.0,16.0,2020-07-01,2020-07-03,Norman,OK,,United States,Adults,Mask
+47,2020-06-28,Mask - Sketch Art,1,16.0,3.21,0.0,0.0,16.0,2020-06-28,2020-06-30,Charlottesville,VA,,United States,Adults,Mask
+48,2020-06-28,Cotton Rounds - Sunflowers,1,18.0,0.0,0.0,0.0,18.0,2020-06-28,2020-06-30,Charlottesville,VA,,United States,,Cotton Rounds
+49,2020-06-28,Mask - Bananas on Blue,1,16.0,0.0,0.0,0.0,16.0,2020-06-28,2020-06-30,Charlottesville,VA,,United States,Adults,Mask
+50,2020-06-28,Mask - Nebula,1,16.0,0.0,0.0,0.0,16.0,2020-06-28,2020-06-30,Charlottesville,VA,,United States,Adults,Mask
+51,2020-06-28,Mask - Daisies,1,16.0,0.0,0.0,0.0,16.0,2020-06-28,2020-06-30,Charlottesville,VA,,United States,Adults,Mask
+52,2020-06-27,Mask - Bananas on Blue,1,16.0,0.0,9.22,0.0,16.0,2020-06-27,2020-06-29,Santa Cruz,CA,,United States,Adults,Mask
+53,2020-06-25,Mask - Music Notes,1,16.0,0.0,3.64,0.0,16.0,2020-06-25,2020-06-29,Sun City Center,FL,,United States,Adults,Mask
+54,2020-06-25,Mask - Beautiful Garden,1,16.0,0.0,3.56,0.0,16.0,2020-06-25,2020-06-29,Huntingdon Valley,PA,,United States,Adults,Mask
+55,2020-06-25,Mask - Daisies,1,16.0,0.0,3.73,0.0,16.0,2020-06-25,2020-06-29,Dallas,TX,,United States,Adults,Mask
+56,2020-06-25,Mask - Flowers on Yellow,1,14.0,0.0,3.18,0.0,14.0,2020-06-25,2020-06-29,Sacramento,CA,,United States,Kids,Mask
+57,2020-06-25,Mask - Beautiful Garden,1,14.0,0.0,0.0,0.0,14.0,2020-06-25,2020-06-29,Sacramento,CA,,United States,Kids,Mask
+58,2020-06-25,Mask - Cats,1,13.0,2.74,0.0,0.0,13.0,2020-06-25,2020-06-29,North Garden,VA,,United States,Toddlers,Mask
+59,2020-06-25,Mask - Cats,2,16.0,0.0,0.0,0.0,32.0,2020-06-25,2020-06-29,North Garden,VA,,United States,Adults,Mask
+60,2020-06-25,Mask - Music Notes,1,16.0,0.0,3.56,0.0,16.0,2020-06-25,2020-06-29,West Chester,PA,,United States,Adults,Mask
+61,2020-06-24,Mask - Bananas on Blue,1,14.0,0.0,3.98,0.0,14.0,2020-06-24,2020-06-29,Normandy Park,WA,,United States,Kids,Mask
+62,2020-06-24,Mask - Bananas on Blue,1,16.0,0.0,3.58,0.0,16.0,2020-06-24,2020-06-29,JACKSONVILLE BEACH,FL,,United States,Adults,Mask
+63,2020-06-24,Mask - Bananas on Blue,1,13.0,0.0,3.64,0.0,13.0,2020-06-24,2020-06-29,Orlando,FL,,United States,Toddlers,Mask
+64,2020-06-23,Mask - Darth Vader,1,16.0,3.18,0.0,0.0,16.0,2020-06-23,2020-06-24,Burbank,CA,,United States,Adults,Mask
+65,2020-06-23,Mask - Gray,1,15.0,0.0,0.0,0.0,15.0,2020-06-23,2020-06-24,Burbank,CA,,United States,Adults,Mask
+66,2020-06-23,Mask- Beautiful Flowers,1,17.5,0.0,0.0,0.0,17.5,2020-06-23,2020-06-24,Burbank,CA,,United States,Adults,Mask
+67,2020-06-23,Mask - Blue,1,12.0,0.0,3.56,0.0,12.0,2020-06-23,2020-06-24,Collingdale,PA,,United States,Toddlers,Mask
+68,2020-06-23,Pads - Rainbow Pastel,1,45.0,2.78,0.0,0.0,45.0,2020-06-23,2020-06-24,Gainesville,GA,,United States,,Pads
+69,2020-06-23,Mask - Sketch Art,1,16.0,0.0,3.58,0.0,16.0,2020-06-23,2020-06-23,Suwanee,GA,,United States,Adults,Mask
+70,2020-06-21,Pads - Rainbow Pastel,1,45.0,2.78,0.0,0.0,45.0,2020-06-21,2020-06-23,CALEDONIA,NY,,United States,,Pads
+71,2020-06-21,Mask - Gray,1,14.0,0.0,2.78,0.0,14.0,2020-06-21,2020-06-23,SALEM,MA,,United States,Teens,Mask
+72,2020-06-21,Mask - Bees,1,15.0,0.0,0.0,0.0,15.0,2020-06-21,2020-06-23,SALEM,MA,,United States,Teens,Mask
+73,2020-06-20,Mask - Bananas on Blue,1,16.0,0.0,3.98,0.0,16.0,2020-06-20,2020-06-23,Carlsbad,CA,,United States,Adults,Mask
+74,2020-06-19,Mask - Unicorns,1,15.0,0.0,2.74,0.0,15.0,2020-06-19,2020-06-23,GORDONSVILLE,VA,,United States,Teens,Mask
+75,2020-06-19,Mask - Cats,1,15.0,0.0,0.0,0.0,15.0,2020-06-19,2020-06-23,GORDONSVILLE,VA,,United States,Teens,Mask
+76,2020-06-19,Mask - Daisies,1,16.0,0.0,3.58,0.0,16.0,2020-06-19,2020-06-23,Covington,GA,,United States,Adults,Mask
+77,2020-06-19,Mask - Darth Vader,1,16.0,0.0,3.54,0.0,16.0,2020-06-19,2020-06-23,Virginia beach,VA,,United States,Adults,Mask
+78,2020-06-19,Unpaper Towels - Rainbow,1,22.0,4.01,0.0,0.0,22.0,2020-06-19,2020-06-19,Efland,NC,,United States,,Unpaper Towels
+79,2020-06-19,Unpaper Towels - Oranges,1,18.0,0.0,0.0,0.0,18.0,2020-06-19,2020-06-19,Efland,NC,,United States,,Unpaper Towels
+80,2020-06-17,Mask - Unicorns,1,15.0,3.67,0.0,0.0,15.0,2020-06-17,2020-06-19,Missoula,MT,,United States,Teens,Mask
+81,2020-06-17,Cotton Rounds - Rainbow Colors,1,18.0,0.0,0.0,0.0,18.0,2020-06-17,2020-06-19,Missoula,MT,,United States,,Cotton Rounds
+82,2020-06-17,Mask - Bananas on Pink,1,15.0,0.0,0.0,0.0,15.0,2020-06-17,2020-06-19,Missoula,MT,,United States,Teens,Mask
+83,2020-06-16,Mask - Dark Green,1,16.0,0.0,3.98,0.0,16.0,2020-06-16,2020-06-17,HENDERSON,NV,,United States,Adults,Mask
+84,2020-06-16,Unpaper Towels - Rainbow,1,22.0,0.0,3.58,0.0,22.0,2020-06-16,2020-06-17,Erving,MA,,United States,,Unpaper Towels
+85,2020-06-16,Mask - Blue,1,12.0,0.0,2.74,0.0,12.0,2020-06-16,2020-06-18,Williamsburg,VA,,United States,Toddlers,Mask
+86,2020-06-16,Mask - Green,1,12.0,0.0,0.0,0.0,12.0,2020-06-16,2020-06-18,Williamsburg,VA,,United States,Toddlers,Mask
+87,2020-06-16,Mask - Dark Gray,1,12.0,0.0,0.0,0.0,12.0,2020-06-16,2020-06-18,Williamsburg,VA,,United States,Toddlers,Mask
+88,2020-06-15,Cotton Squares - Gray Plaid,1,15.0,3.54,0.0,0.0,15.0,2020-06-15,2020-06-15,Williamsburg,VA,,United States,,Cotton Squares
+89,2020-06-12,Mask - Gustav Klimt,1,16.0,0.0,3.64,0.0,16.0,2020-06-12,2020-06-15,West Palm Beach,FL,,United States,Adults,Mask
+90,2020-06-12,Mask - Dark Green,1,16.0,0.0,3.98,0.0,16.0,2020-06-12,2020-06-15,San Francisco,CA,,United States,Adults,Mask
+91,2020-06-11,Napkins - Cats,1,10.0,0.0,3.98,0.0,10.0,2020-06-11,2020-06-15,Stansbury Park,UT,,United States,,Napkins
+92,2020-06-11,Mask - Dark Green,1,16.0,0.0,3.64,0.0,16.0,2020-06-11,2020-06-11,Valdosta,GA,,United States,Adults,Mask
+93,2020-06-10,Mask - Music Notes,1,16.0,0.0,2.78,0.0,16.0,2020-06-10,2020-06-11,Huntington,NY,,United States,Adults,Mask
+94,2020-06-10,Mask - Bananas on Pink,1,16.0,0.0,0.0,0.0,16.0,2020-06-10,2020-06-11,Huntington,NY,,United States,Adults,Mask
+95,2020-06-10,Mask - Gustav Klimt,1,16.0,0.0,3.64,0.0,16.0,2020-06-10,2020-06-11,West Palm Beach,FL,,United States,Adults,Mask
+96,2020-06-10,Pads - Pink Roses,1,50.0,4.11,0.0,0.0,50.0,2020-06-10,2020-06-11,Fair Play,MO,,United States,,Pads
+97,2020-06-10,Unpaper Towels - Rainbow,1,22.0,0.0,0.0,0.0,22.0,2020-06-10,2020-06-11,Fair Play,MO,,United States,,Unpaper Towels
+98,2020-06-09,Mask - Music Notes,1,16.0,0.0,3.64,0.0,16.0,2020-06-09,2020-06-11,Ofallon,MO,,United States,Adults,Mask
+99,2020-06-09,Mask - Music Notes,1,16.0,0.0,36.33,0.0,16.0,2020-06-09,2020-06-11,Thunder Bay,ON,,Canada,Adults,Mask
+100,2020-06-09,Mask - Dark Green,2,16.0,0.0,3.18,0.0,32.0,2020-06-09,2020-06-11,Bellingham,WA,,United States,Adults,Mask
+101,2020-06-09,Mask - Unicorns,1,13.0,0.0,3.54,0.0,13.0,2020-06-09,2020-06-11,Chesapeake,VA,,United States,pattern:3 - 6 years old,Mask
+102,2020-06-09,Unpaper Towels - Rainbow,1,22.0,4.05,0.0,0.0,22.0,2020-06-09,2020-06-09,ASHEVILLE,NC,,United States,,Unpaper Towels
+103,2020-06-09,Unpaper Towels - Oranges,1,18.0,0.0,0.0,0.0,18.0,2020-06-09,2020-06-09,ASHEVILLE,NC,,United States,,Unpaper Towels
+104,2020-06-08,Napkins - Dinosaurs,1,10.0,0.0,3.98,0.0,10.0,2020-06-08,2020-06-09,Placerville,CA,,United States,,Napkins
+105,2020-06-08,Unpaper Towels - Rainbow,1,22.0,0.0,3.56,0.0,22.0,2020-06-08,2020-06-08,Ephrata,PA,,United States,,Unpaper Towels
+106,2020-06-07,Strap - Black Stripes,2,2.64,0.0,3.98,0.0,5.28,2020-06-07,2020-06-09,Pasadena,CA,,United States,,Strap
+107,2020-06-06,Mask - Music Notes,1,16.0,0.0,3.58,0.0,16.0,2020-06-06,2020-06-09,Pepperell,MA,,United States,Adults,Mask
+108,2020-06-06,Unpaper Towels - Rainbow,1,22.0,0.0,3.58,0.0,22.0,2020-06-06,2020-06-08,Springfield,OH,,United States,,Unpaper Towels
+109,2020-06-06,Mask - Dark Green,3,16.0,2.84,0.0,0.0,48.0,2020-06-06,2020-06-08,Libertyville,IL,,United States,Adults,Mask
+110,2020-06-05,Mask -Flowers on Navy,1,15.0,2.74,0.0,0.0,15.0,2020-06-05,2020-06-09,Efland,NC,,United States,Teens,Mask
+111,2020-06-05,Mask - Bees,1,15.0,0.0,0.0,0.0,15.0,2020-06-05,2020-06-09,Efland,NC,,United States,Teens,Mask
+112,2020-06-05,Mask - Birds on Gray and Yellow,1,15.0,0.0,0.0,0.0,15.0,2020-06-05,2020-06-09,Efland,NC,,United States,Teens,Mask
+113,2020-06-05,Mask - Music Notes,1,15.0,0.0,3.58,0.0,15.0,2020-06-05,2020-06-09,Brooklyn Heights,OH,,United States,Teens,Mask
+114,2020-06-04,Mask - Gustav Klimt,1,16.0,0.0,3.58,0.0,16.0,2020-06-04,2020-06-08,Hauppauge,NY,,United States,Adults,Mask
+115,2020-06-04,Mask - Music Notes,1,16.0,0.0,3.58,0.0,16.0,2020-06-04,2020-06-08,Clifton Park,NY,,United States,Adults,Mask
+116,2020-06-03,Mask - Music Notes,1,16.0,0.0,3.98,0.0,16.0,2020-06-03,2020-06-04,Seattle,WA,,United States,Adults,Mask
+117,2020-06-03,Mask - Bananas on Pink,1,15.0,0.0,3.54,0.0,15.0,2020-06-03,2020-06-04,LEESBURG,VA,,United States,Teens,Mask
+118,2020-06-03,Mask - Gustav Klimt II,1,16.0,0.0,3.54,0.0,16.0,2020-06-03,2020-06-04,Locust Grove,VA,,United States,Adults,Mask
+119,2020-06-02,Scrunchie - Silver,1,8.0,0.0,12.44,0.0,8.0,2020-06-02,2020-06-02,Edmonton,AB,,Canada,,Scrunchie
+120,2020-06-02,Strap - Banana on Pink,1,2.0,0.0,9.22,0.0,2.0,2020-06-02,2020-06-02,Covina,CA,,United States,,Strap
+121,2020-06-02,Medium Wet Bag - Yellow Spring,1,18.0,0.0,0.0,0.0,18.0,2020-06-02,2020-06-02,Covina,CA,,United States,finish:with strap,Medium Wet Bag
+122,2020-06-02,Mask - Spring,1,16.0,0.0,3.85,0.0,16.0,2020-06-02,2020-06-04,GUAYNABO,PR,,United States,Adults,Mask
+123,2020-06-02,Mask - Bananas on Pink,1,16.0,0.0,3.21,0.0,16.0,2020-06-02,2020-06-04,Raleigh,NC,,United States,Adults,Mask
+124,2020-06-02,Cotton Rounds - White,1,18.0,0.0,0.0,0.0,18.0,2020-06-02,2020-06-04,Raleigh,NC,,United States,,Cotton Rounds
+125,2020-06-02,Mask - Dark Green,1,16.0,0.0,3.58,0.0,16.0,2020-06-02,2020-06-04,Lexington,SC,,United States,Adults,Mask
+126,2020-06-02,Mask - Darth Vader,1,16.0,2.84,0.0,0.0,16.0,2020-06-02,2020-06-04,Tampa,FL,,United States,Adults,Mask
+127,2020-06-02,Mask - Bananas on Blue,1,14.0,0.0,0.0,0.0,14.0,2020-06-02,2020-06-04,Tampa,FL,,United States,Kids,Mask
+128,2020-06-02,Mask - Sketch Art,1,16.0,0.0,0.0,0.0,16.0,2020-06-02,2020-06-04,Tampa,FL,,United States,Adults,Mask
+129,2020-06-02,Mask - Gustav Klimt,1,14.0,0.0,0.0,0.0,14.0,2020-06-02,2020-06-04,Tampa,FL,,United States,Kids,Mask
+130,2020-06-01,Mask - Music Notes,1,16.0,0.0,3.58,0.0,16.0,2020-06-01,2020-06-02,GENEVA,OH,,United States,Adults,Mask
+131,2020-06-01,Mask - Bananas on Blue,2,16.0,0.0,2.74,0.0,32.0,2020-06-01,2020-06-02,ASHBURN,VA,,United States,Adults,Mask
+132,2020-06-01,Mask - Gustav Klimt,1,16.0,0.0,3.46,0.0,16.0,2020-06-01,2020-06-02,Streamwood,IL,,United States,Adults,Mask
+133,2020-06-01,Mask- Beautiful Flowers,1,17.5,0.0,3.36,0.0,17.5,2020-06-01,2020-06-03,WILLIAMSBURG,VA,,United States,Adults,Mask
+134,2020-06-01,Unpaper Towels - Rainbow,1,22.0,0.0,12.26,0.0,22.0,2020-06-01,2020-06-01,Vancouver,BC,,Canada,,Unpaper Towels
+135,2020-05-31,Mask - Dark Green,1,16.0,0.0,2.84,0.0,16.0,2020-05-31,2020-06-01,Hartland,WI,,United States,Adults,Mask
+136,2020-05-31,Mask - Gustav Klimt,1,15.0,0.0,0.0,0.0,15.0,2020-05-31,2020-06-01,Hartland,WI,,United States,Teens,Mask
+137,2020-05-31,Mask - Bananas on Pink,1,16.0,0.0,3.8,0.0,16.0,2020-05-31,2020-06-01,Vista,CA,,United States,Adults,Mask
+138,2020-05-31,Mask - Dark Green,1,14.0,0.0,3.55,0.0,14.0,2020-05-31,2020-05-31,Meadows Place,TX,,United States,Kids,Mask
+139,2020-05-30,Mask - Comic Book,1,17.5,0.0,3.4,0.0,17.5,2020-05-30,2020-05-31,New Albany,OH,,United States,Adults,Mask
+140,2020-05-30,Mask - Daisies,1,16.0,0.0,2.78,0.0,16.0,2020-05-30,2020-06-01,Xenia,OH,,United States,Adults,Mask
+141,2020-05-30,Mask - Patriotic Flag,1,16.0,0.0,0.0,0.0,16.0,2020-05-30,2020-06-01,Xenia,OH,,United States,Adults,Mask
+142,2020-05-28,Mask - Unicorns,2,13.0,0.0,2.74,0.0,26.0,2020-05-28,2020-05-29,Annapolis,MD,,United States,pattern:3 - 6 years old,Mask
+143,2020-05-28,Mask - Dark Green,1,14.0,0.0,2.76,0.0,14.0,2020-05-28,2020-05-31,Hillsdale,NJ,,United States,Kids,Mask
+144,2020-05-28,Mask - Dark Green,1,15.0,0.0,0.0,0.0,15.0,2020-05-28,2020-05-31,Hillsdale,NJ,,United States,Teens,Mask
+145,2020-05-28,Mask - Unicorns,2,13.0,0.0,2.84,0.0,26.0,2020-05-28,2020-05-29,Doral,FL,,United States,pattern:3 - 6 years old,Mask
+146,2020-05-28,Mask - Fruits,1,16.0,2.74,0.0,0.0,16.0,2020-05-28,2020-05-29,Williamsburg,VA,,United States,Adults,Mask
+147,2020-05-28,Mask - Beautiful Garden,1,16.0,0.0,0.0,0.0,16.0,2020-05-28,2020-05-29,Williamsburg,VA,,United States,Adults,Mask
+148,2020-05-28,Mask - Birds on Gray and Yellow,1,16.0,0.0,0.0,0.0,16.0,2020-05-28,2020-05-29,Williamsburg,VA,,United States,Adults,Mask
+149,2020-05-28,Mask - Spring,1,16.0,0.0,0.0,0.0,16.0,2020-05-28,2020-05-29,Williamsburg,VA,,United States,Adults,Mask
+150,2020-05-28,Mask - Birds on Gray and Yellow,1,16.0,0.0,3.36,0.0,16.0,2020-05-28,2020-05-29,Washington,DC,,United States,Adults,Mask
+151,2020-05-28,Mask - Unicorns,2,13.0,0.0,3.05,0.0,26.0,2020-05-28,2020-05-29,Silver City,NM,,United States,pattern:3 - 6 years old,Mask
+152,2020-05-28,Mask - Fruits,1,16.0,0.0,3.05,0.0,16.0,2020-05-28,2020-05-29,Lakewood,CO,,United States,Adults,Mask
+153,2020-05-28,Mask - Darth Vader,1,16.0,0.0,0.0,0.0,16.0,2020-05-28,2020-05-29,Lakewood,CO,,United States,Adults,Mask
+154,2020-05-28,Mask - Music Notes,1,16.0,0.0,3.36,0.0,16.0,2020-05-28,2020-05-29,Goldsboro,NC,,United States,Adults,Mask
+155,2020-05-28,Mask - Dark Green,1,16.0,0.0,3.46,0.0,16.0,2020-05-28,2020-05-29,MAURICE,LA,,United States,Adults,Mask
+156,2020-05-28,Mask - Dark Green,1,16.0,0.0,3.36,0.0,16.0,2020-05-28,2020-05-29,Glen Burnie,MD,,United States,Adults,Mask
+157,2020-05-28,Mask- Beautiful Flowers,1,17.5,0.0,3.36,0.0,17.5,2020-05-28,2020-05-31,Portsmouth,VA,,United States,Adults,Mask
+158,2020-05-27,Mask - Sketch Art,2,16.0,0.0,2.78,0.0,32.0,2020-05-27,2020-05-28,Williamsville,NY,,United States,Adults,Mask
+159,2020-05-27,Scrunchie - Bananas on Pink,1,8.0,0.0,3.4,0.0,8.0,2020-05-27,2020-05-28,Noblesville,IN,,United States,,Scrunchie
+160,2020-05-27,Mask - Beautiful Garden,1,16.0,0.0,3.4,0.0,16.0,2020-05-27,2020-05-28,Mansfield,OH,,United States,Adults,Mask
+161,2020-05-27,Mask - Music Notes,1,16.0,0.0,3.67,0.0,16.0,2020-05-27,2020-05-28,Corrales,NM,,United States,Adults,Mask
+162,2020-05-27,Mask - Bananas on Pink,1,16.0,0.0,3.4,0.0,16.0,2020-05-27,2020-05-28,Avon,IN,,United States,Adults,Mask
+163,2020-05-27,Mask - Music Notes,1,16.0,0.0,3.4,0.0,16.0,2020-05-27,2020-05-28,Jacksonville,FL,,United States,Adults,Mask
+164,2020-05-26,Mask - Music Notes,1,16.0,0.0,3.46,0.0,16.0,2020-05-26,2020-05-27,Winter Haven,FL,,United States,Adults,Mask
+165,2020-05-26,Mask - Bananas on Pink,1,16.0,0.0,3.46,0.0,16.0,2020-05-26,2020-05-27,WAYZATA,MN,,United States,Adults,Mask
+166,2020-05-26,Strap - Black Stripes,1,2.0,0.0,12.26,0.0,2.0,2020-05-26,2020-05-27,St-Constant,QC,,Canada,,Strap
+167,2020-05-26,Mask - Daisies,1,16.0,2.84,0.0,0.0,16.0,2020-05-26,2020-05-27,Fair Play,MO,,United States,Adults,Mask
+168,2020-05-26,Mask - Green,1,13.0,0.0,0.0,0.0,13.0,2020-05-26,2020-05-27,Fair Play,MO,,United States,Kids,Mask
+169,2020-05-26,Mask - Beautiful Garden on Yellow,1,17.5,0.0,0.0,0.0,17.5,2020-05-26,2020-05-27,Fair Play,MO,,United States,Adults,Mask
+170,2020-05-26,Unpaper Towels - Rainbow,2,22.0,4.29,0.0,0.0,44.0,2020-05-26,2020-05-26,GIG HARBOR,WA,,United States,,Unpaper Towels
+171,2020-05-25,Strap - Banana on Pink,2,2.0,0.0,3.4,0.0,4.0,2020-05-25,2020-05-26,Richmond,KY,,United States,,Strap
+172,2020-05-25,Mask - Beautiful Garden,1,15.0,0.0,3.4,0.0,15.0,2020-05-25,2020-05-26,Tignall,GA,,United States,Teens,Mask
+173,2020-05-25,Mask - Beautiful Garden,1,16.0,2.74,0.0,0.0,16.0,2020-05-25,2020-05-26,VIRGINIA BEACH,VA,,United States,Adults,Mask
+174,2020-05-25,Mask - Flowers on Yellow,1,16.0,0.0,0.0,0.0,16.0,2020-05-25,2020-05-26,VIRGINIA BEACH,VA,,United States,Adults,Mask
+175,2020-05-25,Mask -Flowers on Navy,1,16.0,0.0,0.0,0.0,16.0,2020-05-25,2020-05-26,VIRGINIA BEACH,VA,,United States,Adults,Mask
+176,2020-05-25,Mask - Bees,1,16.0,0.0,0.0,0.0,16.0,2020-05-25,2020-05-26,VIRGINIA BEACH,VA,,United States,Adults,Mask
+177,2020-05-25,Mask - Beautiful Garden,1,16.0,0.0,3.8,0.0,16.0,2020-05-25,2020-05-25,Glendale,AZ,,United States,Adults,Mask
+178,2020-05-25,Mask - Black Stripes,1,13.0,2.74,0.0,0.0,13.0,2020-05-25,2020-05-27,Newport News,VA,,United States,Toddlers,Mask
+179,2020-05-25,Mask - Unicorns,1,14.0,0.0,0.0,0.0,14.0,2020-05-25,2020-05-27,Newport News,VA,,United States,Kids,Mask
+180,2020-05-25,Mask - Beautiful Garden,1,16.0,0.0,0.0,0.0,16.0,2020-05-25,2020-05-27,Newport News,VA,,United States,Adults,Mask
+181,2020-05-25,Unpaper Towels - Rainbow,1,22.0,0.0,3.38,0.0,22.0,2020-05-25,2020-05-25,Wilmington,DE,,United States,,Unpaper Towels
+182,2020-05-25,Mask - Dark Green,1,15.0,0.0,3.46,0.0,15.0,2020-05-25,2020-05-26,Northfield,IL,,United States,Teens,Mask
+183,2020-05-24,Mask - Dark Green,2,16.0,0.0,3.18,0.0,32.0,2020-05-24,2020-05-26,Sebastopol,CA,,United States,Adults,Mask
+184,2020-05-23,Mask - Beautiful Garden,1,15.0,0.0,3.36,0.0,15.0,2020-05-23,2020-05-26,Cary,NC,,United States,Teens,Mask
+185,2020-05-23,Mask - Bourbon,1,25.0,0.0,11.64,0.0,25.0,2020-05-23,2020-05-26,Scugog,ON,,Canada,Adults,Mask
+186,2020-05-23,Mask- Beautiful Flowers,1,17.5,0.0,0.0,0.0,17.5,2020-05-23,2020-05-26,Scugog,ON,,Canada,Adults,Mask
+187,2020-05-23,Mask - Unicorns,1,13.0,0.0,3.36,0.0,13.0,2020-05-23,2020-05-25,Arlington,VA,,United States,pattern:3 - 6 years old,Mask
+188,2020-05-23,Small Wet Bag- Soft Blue,1,10.0,0.0,14.4,0.0,10.0,2020-05-23,2020-05-25,Glis,,,Switzerland,,Small Wet Bag
+189,2020-05-23,Mask - Watermelon,1,14.0,3.18,0.0,0.0,14.0,2020-05-23,2020-05-26,Nine Mile Falls,WA,,United States,Kids,Mask
+190,2020-05-23,Mask - Beautiful Garden,1,16.0,0.0,0.0,0.0,16.0,2020-05-23,2020-05-26,Nine Mile Falls,WA,,United States,Adults,Mask
+191,2020-05-23,Mask - Gustav Klimt,1,14.0,0.0,0.0,0.0,14.0,2020-05-23,2020-05-26,Nine Mile Falls,WA,,United States,Kids,Mask
+192,2020-05-23,Mask - Spring,1,14.0,0.0,0.0,0.0,14.0,2020-05-23,2020-05-26,Nine Mile Falls,WA,,United States,Kids,Mask
+193,2020-05-22,Mask - Beautiful Garden,1,16.0,0.0,3.8,0.0,16.0,2020-05-22,2020-05-25,Flagstaff,AZ,,United States,Adults,Mask
+194,2020-05-22,Teething Ring - Watermelon,1,8.0,0.0,3.4,0.0,8.0,2020-05-22,2020-05-25,storrs,CT,,United States,,Teething Ring
+195,2020-05-22,Mask - Unicorns,1,13.0,0.0,3.4,0.0,13.0,2020-05-22,2020-05-25,Asheville,NC,,United States,pattern:3 - 6 years old,Mask
+196,2020-05-21,Mask - Beautiful Garden,1,15.0,2.74,0.0,0.0,15.0,2020-05-21,2020-05-22,BALTIMORE,MD,,United States,Teens,Mask
+197,2020-05-21,Mask - Birds on Gray and Yellow,1,15.0,0.0,0.0,0.0,15.0,2020-05-21,2020-05-22,BALTIMORE,MD,,United States,Teens,Mask
+198,2020-05-21,Mask - Watermelon,1,13.0,0.0,0.0,0.0,13.0,2020-05-21,2020-05-22,BALTIMORE,MD,,United States,Toddlers,Mask
+199,2020-05-21,Mask - Dark Green,1,16.0,0.0,3.55,0.0,16.0,2020-05-21,2020-05-21,Mesquite,TX,,United States,Adults,Mask
+200,2020-05-21,Mask - Tiles,1,17.5,0.0,3.36,0.0,17.5,2020-05-21,2020-05-21,Williamsburg,VA,,United States,Adults,Mask
+201,2020-05-20,Mask - Music Notes,1,16.0,0.0,3.4,0.0,16.0,2020-05-20,2020-05-20,Woburn,MA,,United States,Adults,Mask
+202,2020-05-20,Mask - Light Purple,1,15.0,0.0,2.74,0.0,15.0,2020-05-20,2020-05-20,HAMPTON,VA,,United States,Adults,Mask
+203,2020-05-20,Mask - Gustav Klimt,1,16.0,0.0,0.0,0.0,16.0,2020-05-20,2020-05-20,HAMPTON,VA,,United States,Adults,Mask
+204,2020-05-19,Mask - Packed Floral,1,17.5,0.0,3.4,0.0,17.5,2020-05-19,2020-05-20,Knoxville,TN,,United States,Adults,Mask
+205,2020-05-19,Mask - Dark Gray,1,15.0,2.74,0.0,0.0,15.0,2020-05-19,2020-05-20,Williamsburg,VA,,United States,Adults,Mask
+206,2020-05-19,Mask - Packed Floral,1,17.5,0.0,0.0,0.0,17.5,2020-05-19,2020-05-20,Williamsburg,VA,,United States,Adults,Mask
+207,2020-05-19,Mask - Birds on Gray and Yellow,1,16.0,0.0,0.0,0.0,16.0,2020-05-19,2020-05-20,Williamsburg,VA,,United States,Adults,Mask
+208,2020-05-19,Mask - Yellow,1,15.0,0.0,3.38,0.0,15.0,2020-05-19,2020-05-20,BROOKLYN,NY,,United States,Adults,Mask
+209,2020-05-19,Mask - Beautiful Garden,1,16.0,2.78,0.0,0.0,16.0,2020-05-19,2020-05-20,Ada,MI,,United States,Adults,Mask
+210,2020-05-19,Mask - Beautiful Garden,1,14.0,0.0,0.0,0.0,14.0,2020-05-19,2020-05-20,Ada,MI,,United States,Kids,Mask
+211,2020-05-19,Mask - Dark Gray,1,15.0,0.0,0.0,0.0,15.0,2020-05-19,2020-05-20,Ada,MI,,United States,Adults,Mask
+212,2020-05-19,Mask - Darth Vader,1,14.0,0.0,0.0,0.0,14.0,2020-05-19,2020-05-20,Ada,MI,,United States,Kids,Mask
+213,2020-05-19,Knot Bag - Rainbow,1,40.0,2.78,0.0,0.0,40.0,2020-05-19,2020-05-20,Massillon,OH,,United States,finish:small,Knot Bag
+214,2020-05-18,Cotton Pads - White,2,15.0,5.08,0.0,0.0,30.0,2020-05-18,2020-05-20,SALIDA,CA,,United States,,Cotton Pads
+215,2020-05-18,Unpaper Towels - Oranges,1,18.0,0.0,0.0,0.0,18.0,2020-05-18,2020-05-20,SALIDA,CA,,United States,,Unpaper Towels
+216,2020-05-18,Mask - Spring,1,16.0,0.0,2.93,0.0,16.0,2020-05-18,2020-05-20,Keller,TX,,United States,Adults,Mask
+217,2020-05-18,Mask - Blue,1,15.0,0.0,0.0,0.0,15.0,2020-05-18,2020-05-20,Keller,TX,,United States,Adults,Mask
+218,2020-05-18,Mask - Music Notes,1,16.0,0.0,3.8,0.0,16.0,2020-05-18,2020-05-20,Concord,CA,,United States,Adults,Mask
+219,2020-05-18,Mask - Music Notes,1,16.0,0.0,3.46,0.0,16.0,2020-05-18,2020-05-18,Mattoon,IL,,United States,Adults,Mask
+220,2020-05-18,Mask - Music Notes,1,16.0,0.0,3.4,0.0,16.0,2020-05-18,2020-05-18,Southbury,CT,,United States,Adults,Mask
+221,2020-05-18,Mask - Music Notes,1,16.0,0.0,3.18,0.0,16.0,2020-05-18,2020-05-18,Livermore,CA,,United States,Adults,Mask
+222,2020-05-18,Mask - Unicorns,1,16.0,0.0,0.0,0.0,16.0,2020-05-18,2020-05-18,Livermore,CA,,United States,Adults,Mask
+223,2020-05-17,Mask - Unicorns,1,13.0,2.74,0.0,0.0,13.0,2020-05-17,2020-05-18,DURHAM,NC,,United States,pattern:3 - 6 years old,Mask
+224,2020-05-17,Mask - Bananas on Blue,1,13.0,0.0,0.0,0.0,13.0,2020-05-17,2020-05-18,DURHAM,NC,,United States,Toddlers,Mask
+225,2020-05-17,Mask - Darth Vader,1,13.0,0.0,0.0,0.0,13.0,2020-05-17,2020-05-18,DURHAM,NC,,United States,Toddlers,Mask
+226,2020-05-17,Mask - Red,1,13.0,0.0,0.0,0.0,13.0,2020-05-17,2020-05-18,DURHAM,NC,,United States,Kids,Mask
+227,2020-05-17,Unpaper Towels - Lemons,1,18.0,4.46,0.0,0.0,18.0,2020-05-17,2020-05-18,San Jose,CA,,United States,,Unpaper Towels
+228,2020-05-17,Medium Wet Bag - Yellow Spring,1,18.0,0.0,0.0,0.0,18.0,2020-05-17,2020-05-18,San Jose,CA,,United States,finish:with strap,Medium Wet Bag
+229,2020-05-17,Pads - Sunflowers on Acqua,1,50.0,0.0,0.0,0.0,50.0,2020-05-17,2020-05-18,San Jose,CA,,United States,,Pads
+230,2020-05-17,Mask - Music Notes,1,16.0,0.0,3.46,0.0,16.0,2020-05-17,2020-05-17,Bunker Hill,IL,,United States,Adults,Mask
+231,2020-05-16,Mask - Bees,1,15.0,0.0,3.8,0.0,15.0,2020-05-16,2020-05-17,Concord,CA,,United States,Teens,Mask
+232,2020-05-16,Mask - Sketch Art,1,16.0,0.0,3.67,0.0,16.0,2020-05-16,2020-05-17,El Paso,TX,,United States,Adults,Mask
+233,2020-05-16,Mask - Gustav Klimt II,1,16.0,0.0,2.74,0.0,16.0,2020-05-16,2020-05-17,APEX,NC,,United States,Adults,Mask
+234,2020-05-16,Mask - Music Notes,1,16.0,0.0,0.0,0.0,16.0,2020-05-16,2020-05-17,APEX,NC,,United States,Adults,Mask
+235,2020-05-16,Mask - Spring,1,15.0,0.0,2.76,0.0,15.0,2020-05-16,2020-05-17,CHARLOTTE,NC,,United States,Teens,Mask
+236,2020-05-16,Mask - Music Notes,1,15.0,0.0,0.0,0.0,15.0,2020-05-16,2020-05-17,CHARLOTTE,NC,,United States,Teens,Mask
+237,2020-05-16,Mask - Bananas on Blue,1,16.0,0.0,8.18,0.0,16.0,2020-05-16,2020-05-16,Deerfield,MI,,United States,Adults,Mask
+238,2020-05-16,Mask - Comic Book,1,17.5,0.0,3.8,0.0,17.5,2020-05-16,2020-05-17,SAN RAFAEL,CA,,United States,Adults,Mask
+239,2020-05-16,Unpaper Towels - Rainbow,2,22.0,4.29,0.0,0.0,44.0,2020-05-16,2020-05-16,San Jose,CA,,United States,,Unpaper Towels
+240,2020-05-15,Mask - Dark Green,1,16.0,2.78,0.0,0.0,16.0,2020-05-15,2020-05-17,CHESHIRE,CT,,United States,Adults,Mask
+241,2020-05-15,Mask - White Marble,1,17.5,0.0,0.0,0.0,17.5,2020-05-15,2020-05-17,CHESHIRE,CT,,United States,Adults,Mask
+242,2020-05-15,Mask - Gray,1,15.0,0.0,0.0,0.0,15.0,2020-05-15,2020-05-17,CHESHIRE,CT,,United States,Adults,Mask
+243,2020-05-15,Mask - Beautiful Garden on Blue,1,17.5,0.0,0.0,0.0,17.5,2020-05-15,2020-05-17,CHESHIRE,CT,,United States,Adults,Mask
+244,2020-05-15,Mask - Beautiful Garden,3,16.0,2.78,0.0,0.0,48.0,2020-05-15,2020-05-17,Farmington Hills,MI,,United States,Adults,Mask
+245,2020-05-15,Mask - Gustav Klimt II,1,16.0,0.0,3.38,0.0,16.0,2020-05-15,2020-05-17,Dayton,NJ,,United States,Adults,Mask
+246,2020-05-15,Mask - Dark Green,1,16.0,0.0,3.4,0.0,16.0,2020-05-15,2020-05-16,Victor,NY,,United States,Adults,Mask
+247,2020-05-15,Mask - Bananas on Blue,1,13.0,0.0,3.8,0.0,13.0,2020-05-15,2020-05-17,sherwood,OR,,United States,Toddlers,Mask
+248,2020-05-15,Mask - Dark Green,1,16.0,0.0,3.38,0.0,16.0,2020-05-15,2020-05-16,New York,NY,,United States,Adults,Mask
+249,2020-05-14,Cotton Pads - White,1,15.0,0.0,3.4,0.0,15.0,2020-05-14,2020-05-17,Royal Oak,MI,,United States,,Cotton Pads
+250,2020-05-14,Mask - Bananas on Blue,1,16.0,3.18,0.0,0.0,16.0,2020-05-14,2020-05-15,Oakland,CA,,United States,Adults,Mask
+251,2020-05-14,Mask - Nebula,1,16.0,0.0,0.0,0.0,16.0,2020-05-14,2020-05-15,Oakland,CA,,United States,Adults,Mask
+252,2020-05-14,Mask - Daisies,1,16.0,0.0,0.0,0.0,16.0,2020-05-14,2020-05-15,Oakland,CA,,United States,Adults,Mask
+253,2020-05-14,Mask - Bananas on Pink,1,16.0,0.0,0.0,0.0,16.0,2020-05-14,2020-05-15,Oakland,CA,,United States,Adults,Mask
+254,2020-05-14,Mask - Music Notes,1,16.0,0.0,3.4,0.0,16.0,2020-05-14,2020-05-15,Scotia,NY,,United States,Adults,Mask
+255,2020-05-14,Mask - Bananas on Blue,1,14.0,0.0,3.67,0.0,14.0,2020-05-14,2020-05-15,Fort Collins,CO,,United States,Kids,Mask
+256,2020-05-14,Mask - Beautiful Garden,2,14.0,3.67,0.0,0.0,28.0,2020-05-14,2020-05-15,Philomath,OR,,United States,Kids,Mask
+257,2020-05-14,Mask - Beautiful Garden,1,16.0,0.0,0.0,0.0,16.0,2020-05-14,2020-05-15,Philomath,OR,,United States,Adults,Mask
+258,2020-05-14,Mask - Beautiful Garden,2,15.0,0.0,0.0,0.0,30.0,2020-05-14,2020-05-15,Philomath,OR,,United States,Teens,Mask
+259,2020-05-14,Mask - Spring,1,16.0,0.0,3.36,0.0,16.0,2020-05-14,2020-05-15,Washington,DC,,United States,Adults,Mask
+260,2020-05-14,Mask - Music Notes,1,16.0,0.0,12.26,0.0,16.0,2020-05-14,2020-05-15,longueuil,QC,,Canada,Adults,Mask
+261,2020-05-14,Mask - Bananas on Blue,1,16.0,0.0,3.36,0.0,16.0,2020-05-14,2020-05-15,Woodbridge,VA,,United States,Adults,Mask
+262,2020-05-14,Mask - Music Notes,1,16.0,0.0,3.4,0.0,16.0,2020-05-14,2020-05-15,Farmington Hills,MI,,United States,Adults,Mask
+263,2020-05-13,Mask - Daisies,1,16.0,0.0,3.4,0.0,16.0,2020-05-13,2020-05-13,Midland,MI,,United States,Adults,Mask
+264,2020-05-13,Mask - Music Notes,1,16.0,0.0,3.38,0.0,16.0,2020-05-13,2020-05-13,Huntersville,NC,,United States,Adults,Mask
+265,2020-05-13,Mask - Beautiful Garden,1,16.0,0.0,3.46,0.0,16.0,2020-05-13,2020-05-13,Bradenton,FL,,United States,Adults,Mask
+266,2020-05-13,Mask - Music Notes,4,16.0,2.84,0.0,0.0,64.0,2020-05-13,2020-05-13,Columbia,MO,,United States,Adults,Mask
+267,2020-05-13,Mask - Bananas on Pink,1,16.0,0.0,14.4,0.0,16.0,2020-05-13,2020-05-13,Alton,,,United Kingdom,Adults,Mask
+268,2020-05-12,Mask - Music Notes,1,15.0,0.0,3.4,0.0,15.0,2020-05-12,2020-05-13,Woodhaven,MI,,United States,Teens,Mask
+269,2020-05-12,Mask - White Marble,1,17.5,2.78,0.0,0.0,17.5,2020-05-12,2020-05-13,FORT OGLETHORPE,GA,,United States,Adults,Mask
+270,2020-05-12,Mask- Beautiful Flowers,1,17.5,0.0,0.0,0.0,17.5,2020-05-12,2020-05-13,FORT OGLETHORPE,GA,,United States,Adults,Mask
+271,2020-05-12,Mask - Music Notes,1,16.0,0.0,23.37,0.0,16.0,2020-05-12,2020-05-12,Lewisville,NC,,United States,Adults,Mask
+272,2020-05-12,Mask - Gray,1,15.0,0.0,2.74,0.0,15.0,2020-05-12,2020-05-12,Newport News,VA,,United States,Adults,Mask
+273,2020-05-12,Mask - Dark Green,1,16.0,0.0,0.0,0.0,16.0,2020-05-12,2020-05-12,Newport News,VA,,United States,Adults,Mask
+274,2020-05-12,Mask -Roses,1,16.0,2.78,0.0,0.0,16.0,2020-05-12,2020-05-12,XENIA,OH,,United States,Adults,Mask
+275,2020-05-12,Mask - Music Notes,1,16.0,0.0,0.0,0.0,16.0,2020-05-12,2020-05-12,XENIA,OH,,United States,Adults,Mask
+276,2020-05-12,Mask - Red,1,15.0,0.0,0.0,0.0,15.0,2020-05-12,2020-05-12,XENIA,OH,,United States,Adults,Mask
+277,2020-05-12,Mask - Music Notes,1,15.0,0.0,3.4,0.0,15.0,2020-05-12,2020-05-12,Lenoir City,TN,,United States,Teens,Mask
+278,2020-05-12,Mask - Dark Green,1,16.0,0.0,2.78,0.0,16.0,2020-05-12,2020-05-12,SCHOOLCRAFT,MI,,United States,Adults,Mask
+279,2020-05-12,Mask - Packed Floral,1,17.5,0.0,0.0,0.0,17.5,2020-05-12,2020-05-12,SCHOOLCRAFT,MI,,United States,Adults,Mask
+280,2020-05-12,Mask - Beautiful Garden,1,16.0,0.0,3.8,0.0,16.0,2020-05-12,2020-05-12,Phoenix,OR,,United States,Adults,Mask
+281,2020-05-11,Mask - Gustav Klimt II,1,16.0,0.0,3.46,0.0,16.0,2020-05-11,2020-05-12,Orlando,FL,,United States,Adults,Mask
+282,2020-05-11,Mask - Flowers on Yellow,1,16.0,3.18,0.0,0.0,16.0,2020-05-11,2020-05-12,Kirkland,WA,,United States,Adults,Mask
+283,2020-05-11,Mask - Beautiful Garden,2,16.0,0.0,0.0,0.0,32.0,2020-05-11,2020-05-12,Kirkland,WA,,United States,Adults,Mask
+284,2020-05-11,Mask - Blue,1,15.0,0.0,3.18,0.0,15.0,2020-05-11,2020-05-12,SAN DIEGO,CA,,United States,Adults,Mask
+285,2020-05-11,Mask - Gray,1,15.0,0.0,0.0,0.0,15.0,2020-05-11,2020-05-12,SAN DIEGO,CA,,United States,Adults,Mask
+286,2020-05-11,Mask - Bananas on Pink,1,16.0,0.0,14.4,0.0,16.0,2020-05-11,2020-05-12,Manchester,,,United Kingdom,Adults,Mask
+287,2020-05-11,Mask- Bananas on Blue,1,16.0,0.0,3.4,0.0,16.0,2020-05-11,2020-05-12,WILMINGTON,MA,,United States,Adults,Mask
+288,2020-05-11,Mask - Music Notes,1,15.0,0.0,3.8,0.0,15.0,2020-05-11,2020-05-12,Hanford,CA,,United States,Teens,Mask
+289,2020-05-11,Pads - Assorted Colors,1,50.0,2.78,0.0,0.0,50.0,2020-05-11,2020-05-11,TOLEDO,OH,,United States,,Pads
+290,2020-05-10,Mask - Beautiful Garden on Yellow,1,17.5,0.0,3.8,0.0,17.5,2020-05-10,2020-05-11,SAN FRANCISCO,CA,,United States,Adults,Mask
+291,2020-05-10,Mask - Beautiful Garden,1,16.0,2.74,0.0,0.0,16.0,2020-05-10,2020-05-10,Alexandria,VA,,United States,Adults,Mask
+292,2020-05-10,Mask- Bananas on Blue,1,14.0,0.0,0.0,0.0,14.0,2020-05-10,2020-05-10,Alexandria,VA,,United States,Kids,Mask
+293,2020-05-10,Mask - Gray,1,15.0,0.0,0.0,0.0,15.0,2020-05-10,2020-05-10,Alexandria,VA,,United States,Adults,Mask
+294,2020-05-10,Mask - Sketch Art,1,16.0,0.0,3.38,0.0,16.0,2020-05-10,2020-05-10,Fredericktown,PA,,United States,Adults,Mask
+295,2020-05-10,Mask - Music Notes,1,16.0,0.0,3.4,0.0,16.0,2020-05-10,2020-05-10,Montgomery,AL,,United States,Adults,Mask
+296,2020-05-09,Mask- Bananas on Blue,1,16.0,0.0,12.26,0.0,16.0,2020-05-09,2020-05-10,Pickering,ON,,Canada,Adults,Mask
+297,2020-05-09,Mask- Beautiful Flowers,1,17.5,0.0,3.8,0.0,17.5,2020-05-09,2020-05-11,San Francisco,CA,,United States,Adults,Mask
+298,2020-05-08,Mask - Music Notes,1,16.0,0.0,8.18,0.0,16.0,2020-05-08,2020-05-09,ROWLEY,MA,,United States,Adults,Mask
+299,2020-05-08,Medium Wet Bag - Old School,1,16.0,0.0,3.87,0.0,16.0,2020-05-08,2020-05-10,Leslie,MI,,United States,finish:with strap,Medium Wet Bag
+300,2020-05-08,Mask - Sketch Art,1,16.0,3.05,0.0,0.0,16.0,2020-05-08,2020-05-10,DENVER,CO,,United States,Adults,Mask
+301,2020-05-08,Mask - Blue and Gold,1,16.0,0.0,0.0,0.0,16.0,2020-05-08,2020-05-10,DENVER,CO,,United States,Adults,Mask
+302,2020-05-08,Mask - Sketch Art,1,16.0,0.0,0.0,0.0,16.0,2020-05-08,2020-05-10,DENVER,CO,,United States,Adults,Mask
+303,2020-05-08,Mask - Unicorns,1,14.0,3.18,0.0,0.0,14.0,2020-05-08,2020-05-11,Visalia,CA,,United States,Kids,Mask
+304,2020-05-08,Mask - FlowerS on Blue,1,15.0,0.0,0.0,0.0,15.0,2020-05-08,2020-05-11,Visalia,CA,,United States,Teens,Mask
+305,2020-05-08,Mask - Music Notes,1,14.0,0.0,0.0,0.0,14.0,2020-05-08,2020-05-11,Visalia,CA,,United States,Kids,Mask
+306,2020-05-08,Mask - White Marble,1,17.5,2.78,0.0,0.0,17.5,2020-05-08,2020-05-11,Nashville,TN,,United States,Adults,Mask
+307,2020-05-08,Mask- Beautiful Flowers,1,17.5,0.0,0.0,0.0,17.5,2020-05-08,2020-05-11,Nashville,TN,,United States,Adults,Mask
+308,2020-05-08,Mask - Music Notes,1,15.0,0.0,3.4,0.0,15.0,2020-05-08,2020-05-11,Foxboro,MA,,United States,Teens,Mask
+309,2020-05-08,Strap - Banana on Pink,1,2.0,0.0,3.46,0.0,2.0,2020-05-08,2020-05-10,Hermon,ME,,United States,,Strap
+310,2020-05-08,Mask - Bananas on Blue,1,15.0,0.0,3.05,0.0,15.0,2020-05-08,2020-05-08,Grand Junction,CO,,United States,Teens,Mask
+311,2020-05-08,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-05-08,2020-05-08,Grand Junction,CO,,United States,Teens,Mask
+312,2020-05-07,Cotton Pads - White,1,15.0,0.0,3.36,0.0,15.0,2020-05-07,2020-05-10,Washington,DC,,United States,,Cotton Pads
+313,2020-05-07,Mask - Music Notes,1,16.0,0.0,3.4,0.0,16.0,2020-05-07,2020-05-08,Columbus,OH,,United States,Adults,Mask
+314,2020-05-07,Mask - Darth Vader,2,16.0,0.0,3.18,0.0,32.0,2020-05-07,2020-05-08,Beaverton,OR,,United States,Adults,Mask
+315,2020-05-07,Mask - Music Notes,2,16.0,0.0,2.84,0.0,32.0,2020-05-07,2020-05-08,PALM COAST,FL,,United States,Adults,Mask
+316,2020-05-07,Mask - Music Notes,1,16.0,0.0,3.46,0.0,16.0,2020-05-07,2020-05-08,SAINT CHARLES,IL,,United States,Adults,Mask
+317,2020-05-06,Mask - Yellow,1,15.0,2.78,0.0,0.0,15.0,2020-05-06,2020-05-08,Greentown,IN,,United States,Adults,Mask
+318,2020-05-06,Mask - Dark Green,1,16.0,0.0,0.0,0.0,16.0,2020-05-06,2020-05-08,Greentown,IN,,United States,Adults,Mask
+319,2020-05-06,Mask - Bees,1,13.0,0.0,0.0,0.0,13.0,2020-05-06,2020-05-08,Greentown,IN,,United States,Toddlers,Mask
+320,2020-05-06,Mask - Gustav Klimt,1,15.0,0.0,0.0,0.0,15.0,2020-05-06,2020-05-08,Greentown,IN,,United States,Teens,Mask
+321,2020-05-06,Pads - Watercolor Rainbow,1,45.0,3.38,0.0,0.0,45.0,2020-05-06,2020-05-07,Martinsburg,WV,,United States,,Pads
+322,2020-05-05,Mask - Dark Green,1,16.0,0.0,3.38,0.0,16.0,2020-05-05,2020-05-06,Kenna,WV,,United States,Adults,Mask
+323,2020-05-05,Mask - Bananas on Blue,1,16.0,0.0,3.8,0.0,16.0,2020-05-05,2020-05-06,Carlsbad,CA,,United States,Adults,Mask
+324,2020-05-05,Mask - Roses,1,15.0,2.74,0.0,0.0,15.0,2020-05-05,2020-05-07,Efland,NC,,United States,Teens,Mask
+325,2020-05-05,Mask - Spring,1,15.0,0.0,0.0,0.0,15.0,2020-05-05,2020-05-07,Efland,NC,,United States,Teens,Mask
+326,2020-05-05,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-05-05,2020-05-07,Efland,NC,,United States,Teens,Mask
+327,2020-05-05,Mask - Beautiful Garden,1,16.0,0.0,3.46,0.0,16.0,2020-05-05,2020-05-05,OLATHE,KS,,United States,Adults,Mask
+328,2020-05-05,Mask - Music Notes,1,16.0,0.0,3.38,0.0,16.0,2020-05-05,2020-05-05,Green Brook,NJ,,United States,Adults,Mask
+329,2020-05-05,Mask - Unicorns,1,13.0,2.78,0.0,0.0,13.0,2020-05-05,2020-05-06,Lakeville,NY,,United States,Toddlers,Mask
+330,2020-05-05,Mask - Bananas on Blue,1,13.0,0.0,0.0,0.0,13.0,2020-05-05,2020-05-06,Lakeville,NY,,United States,Toddlers,Mask
+331,2020-05-05,Mask - Sketch Art,1,16.0,0.0,0.0,0.0,16.0,2020-05-05,2020-05-06,Lakeville,NY,,United States,Adults,Mask
+332,2020-05-05,Mask - Beautiful Garden,1,16.0,2.74,0.0,0.0,16.0,2020-05-05,2020-05-05,Herndon,VA,,United States,Adults,Mask
+333,2020-05-05,Mask - Beautiful Garden on Yellow,1,17.5,0.0,0.0,0.0,17.5,2020-05-05,2020-05-05,Herndon,VA,,United States,Adults,Mask
+334,2020-05-05,Mask - Dark Gray,1,15.0,0.0,0.0,0.0,15.0,2020-05-05,2020-05-05,Herndon,VA,,United States,Adults,Mask
+335,2020-05-05,Mask - Music Notes,5,16.0,3.67,0.0,0.0,80.0,2020-05-05,2020-05-05,San Jose,CA,,United States,Adults,Mask
+336,2020-05-04,Mask - Tiles,1,17.5,0.0,3.36,0.0,17.5,2020-05-04,2020-05-05,Williamsburg,VA,,United States,Adults,Mask
+337,2020-05-04,Unpaper Towels - Rainbow,1,22.0,0.0,3.38,0.0,22.0,2020-05-04,2020-05-06,Philadelphia,PA,,United States,,Unpaper Towels
+338,2020-05-04,Unpaper Towels - Rainbow,1,22.0,0.0,3.8,0.0,22.0,2020-05-04,2020-05-06,San Francisco,CA,,United States,,Unpaper Towels
+339,2020-05-04,Mask - Music Notes,1,16.0,0.0,3.8,0.0,16.0,2020-05-04,2020-05-05,Phoenix,AZ,,United States,Adults,Mask
+340,2020-05-04,Mask - Beautiful Garden,1,16.0,2.76,0.0,0.0,16.0,2020-05-04,2020-05-05,New York,NY,,United States,Adults,Mask
+341,2020-05-04,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-05-04,2020-05-05,New York,NY,,United States,Adults,Mask
+342,2020-05-04,Mask - Daisies,1,16.0,0.0,0.0,0.0,16.0,2020-05-04,2020-05-05,New York,NY,,United States,Adults,Mask
+343,2020-05-04,Small Wet Bag- Soft Blue,1,10.0,5.08,0.0,0.0,10.0,2020-05-04,2020-05-04,Kuna,ID,,United States,,Small Wet Bag
+344,2020-05-04,Pads - Geometric Pastel,1,45.0,0.0,0.0,0.0,45.0,2020-05-04,2020-05-04,Kuna,ID,,United States,,Pads
+345,2020-05-03,Mask - Bees,1,16.0,3.05,0.0,0.0,16.0,2020-05-03,2020-05-05,Longmont,CO,,United States,Adults,Mask
+346,2020-05-03,Mask - Unicorns,1,13.0,0.0,0.0,0.0,13.0,2020-05-03,2020-05-05,Longmont,CO,,United States,Toddlers,Mask
+347,2020-05-03,Mask - Sketch Art,2,15.0,0.0,0.0,0.0,30.0,2020-05-03,2020-05-05,Longmont,CO,,United States,Adults,Mask
+348,2020-05-03,Mask - Music Notes,1,16.0,0.0,3.46,0.0,16.0,2020-05-03,2020-05-04,Melbourne,FL,,United States,Adults,Mask
+349,2020-05-03,Mask - Music Notes,1,16.0,0.0,3.4,0.0,16.0,2020-05-03,2020-05-04,Charlestown,MA,,United States,Adults,Mask
+350,2020-05-03,Mask - Music Notes,1,16.0,0.0,3.8,0.0,16.0,2020-05-03,2020-05-04,FORTUNA,CA,,United States,Adults,Mask
+351,2020-05-02,Mask - Music Notes,1,16.0,0.0,3.38,0.0,16.0,2020-05-02,2020-05-03,Philadelphia,PA,,United States,Adults,Mask
+352,2020-05-02,Pads - Sunflowers on Acqua,1,45.0,3.31,0.0,0.0,45.0,2020-05-02,2020-05-03,Port Saint Lucie,FL,,United States,,Pads
+353,2020-05-02,Cotton Squares - Gray Plaid,1,15.0,0.0,0.0,0.0,15.0,2020-05-02,2020-05-03,Port Saint Lucie,FL,,United States,,Cotton Squares
+354,2020-05-02,Mask - Daisies,1,15.0,0.0,3.46,0.0,15.0,2020-05-02,2020-05-03,Monmouth,IL,,United States,Adults,Mask
+355,2020-05-02,Mask - Sketch Art,1,15.0,0.0,3.38,0.0,15.0,2020-05-02,2020-05-03,Wantage,NJ,,United States,Adults,Mask
+356,2020-05-02,Mask - Music Notes,2,15.0,0.0,3.18,0.0,30.0,2020-05-02,2020-05-03,HUNTINGTON BEACH,CA,,United States,Adults,Mask
+357,2020-05-02,Mask- Beautiful Flowers,1,17.5,0.0,2.84,0.0,17.5,2020-05-02,2020-05-04,Kenner,LA,,United States,Adults,Mask
+358,2020-05-02,Mask - Daisies,1,14.0,0.0,0.0,0.0,14.0,2020-05-02,2020-05-04,Kenner,LA,,United States,Teens,Mask
+359,2020-05-02,Mask - Flowers on Yellow,1,15.0,2.74,0.0,0.0,15.0,2020-05-02,2020-05-03,Washington,DC,,United States,Adults,Mask
+360,2020-05-02,Mask - Gray,1,15.0,0.0,0.0,0.0,15.0,2020-05-02,2020-05-03,Washington,DC,,United States,Adults,Mask
+361,2020-05-02,Mask - White Marble,1,17.5,0.0,0.0,0.0,17.5,2020-05-02,2020-05-03,Washington,DC,,United States,Adults,Mask
+362,2020-05-02,Mask - Tiles,1,17.5,0.0,0.0,0.0,17.5,2020-05-02,2020-05-03,Washington,DC,,United States,Adults,Mask
+363,2020-05-02,Napkins - Sloths,1,10.0,3.38,0.0,0.0,10.0,2020-05-02,2020-05-02,HOLMDEL,NJ,,United States,,Napkins
+364,2020-05-02,Mask - Music Notes,1,14.0,3.46,0.0,0.0,14.0,2020-05-02,2020-05-02,FARMINGTON,MN,,United States,Teens,Mask
+365,2020-05-01,Mask - Beautiful Garden,1,16.0,0.0,3.4,0.0,16.0,2020-05-01,2020-05-03,east wareham,MA,,United States,Adults,Mask
+366,2020-05-01,Mask - Music Notes,1,15.0,3.8,0.0,0.0,15.0,2020-05-01,2020-05-03,LATHROP,CA,,United States,Adults,Mask
+367,2020-05-01,Mask - Blue,1,15.0,3.4,0.0,0.0,15.0,2020-05-01,2020-05-03,WARSAW,IN,,United States,Adults,Mask
+368,2020-05-01,Linen Japanese Knot Bag,1,45.0,0.0,0.0,0.0,45.0,2020-05-01,2020-05-04,Newport News,VA,,United States,,Linen Japanese Knot Bag
+369,2020-05-01,Mask - Gustav Klimt II,1,16.0,0.0,3.46,0.0,16.0,2020-05-01,2020-05-03,Orlando,FL,,United States,Adults,Mask
+370,2020-05-01,Mask- Beautiful Flowers,1,17.5,2.84,0.0,0.0,17.5,2020-05-01,2020-05-03,Woodridge,IL,,United States,Adults,Mask
+371,2020-05-01,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-05-01,2020-05-03,Woodridge,IL,,United States,Adults,Mask
+372,2020-05-01,Mask - Beautiful Garden on Yellow,1,17.5,0.0,0.0,0.0,17.5,2020-05-01,2020-05-03,Woodridge,IL,,United States,Adults,Mask
+373,2020-05-01,Mask - Unicorns,1,15.0,0.0,2.78,0.0,15.0,2020-05-01,2020-05-03,WARSAW,IN,,United States,Adults,Mask
+374,2020-05-01,Mask - Music Notes,1,15.0,0.0,0.0,0.0,15.0,2020-05-01,2020-05-03,WARSAW,IN,,United States,Adults,Mask
+375,2020-05-01,Small Wet Bag- Soft Blue,1,10.0,0.0,4.01,0.0,10.0,2020-05-01,2020-05-02,Murchison,TX,,United States,,Small Wet Bag
+376,2020-04-30,Canopy - Dragon Scales,1,48.0,5.89,0.0,0.0,48.0,2020-04-30,2020-05-02,DAPHNE,AL,,United States,,Canopy
+377,2020-04-30,Mask - Music Notes,1,14.0,0.0,3.4,0.0,14.0,2020-04-30,2020-05-02,Mahopac,NY,,United States,Teens,Mask
+378,2020-04-30,Mask - Gustav Klimt Gold,1,16.0,2.76,0.0,1.92,16.0,2020-04-30,2020-05-03,New York,NY,,United States,Adults,Mask
+379,2020-04-30,Mask - Gustav Klimt II,1,16.0,0.0,0.0,0.0,16.0,2020-04-30,2020-05-03,New York,NY,,United States,Adults,Mask
+380,2020-04-30,Mask - Dark Green,1,16.0,0.0,0.0,0.0,16.0,2020-04-30,2020-05-03,New York,NY,,United States,Adults,Mask
+381,2020-04-30,Mask - Daisies,1,14.0,0.0,3.18,2.09,14.0,2020-04-30,2020-05-02,Port Orchard,WA,,United States,Teens,Mask
+382,2020-04-30,Mask - Gustav Klimt II,1,15.0,0.0,0.0,0.0,15.0,2020-04-30,2020-05-02,Port Orchard,WA,,United States,Teens,Mask
+383,2020-04-30,Mask - FlowerS on Blue,1,15.0,2.76,0.0,0.0,15.0,2020-04-30,2020-05-02,Pittsburgh,PA,,United States,Adults,Mask
+384,2020-04-30,Mask - Gustav Klimt,1,16.0,0.0,0.0,0.0,16.0,2020-04-30,2020-05-02,Pittsburgh,PA,,United States,Adults,Mask
+385,2020-04-30,Mask - Dark Green,1,16.0,0.0,0.0,0.0,16.0,2020-04-30,2020-05-02,Pittsburgh,PA,,United States,Adults,Mask
+386,2020-04-30,Mask - Flowers on Yellow,1,15.0,0.0,0.0,0.0,15.0,2020-04-30,2020-05-02,Pittsburgh,PA,,United States,Adults,Mask
+387,2020-04-29,Mask - Beautiful Garden on Yellow,1,17.5,2.84,0.0,0.0,17.5,2020-04-29,2020-05-02,Downers Grove,IL,,United States,Adults,Mask
+388,2020-04-29,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-04-29,2020-05-02,Downers Grove,IL,,United States,Adults,Mask
+389,2020-04-29,Mask - Blue and Gold,1,16.0,0.0,0.0,0.0,16.0,2020-04-29,2020-05-02,Downers Grove,IL,,United States,Adults,Mask
+390,2020-04-29,Mask- Beautiful Flowers,1,17.5,0.0,0.0,0.0,17.5,2020-04-29,2020-05-02,Downers Grove,IL,,United States,Adults,Mask
+391,2020-04-29,Mask - Beautiful Garden,1,15.0,0.0,3.4,0.0,15.0,2020-04-29,2020-05-02,Greentown,IN,,United States,Teens,Mask
+392,2020-04-29,Strap - Banana on Pink,1,2.0,0.0,3.4,0.0,2.0,2020-04-29,2020-05-02,NEW ALBANY,IN,,United States,,Strap
+393,2020-04-29,Strap - Black Stripes,1,2.0,0.0,0.0,0.0,2.0,2020-04-29,2020-05-02,NEW ALBANY,IN,,United States,,Strap
+394,2020-04-29,Mask - Tiles,1,17.5,3.21,0.0,0.0,17.5,2020-04-29,2020-05-02,Takoma Park,MD,,United States,Adults,Mask
+395,2020-04-29,Strap - Black Stripes,1,2.0,0.0,0.0,0.0,2.0,2020-04-29,2020-05-02,Takoma Park,MD,,United States,,Strap
+396,2020-04-29,Pads - Assorted Colors,1,50.0,0.0,0.0,0.0,50.0,2020-04-29,2020-05-02,Takoma Park,MD,,United States,,Pads
+397,2020-04-28,Mask - Comic Book,1,17.5,0.0,3.4,0.0,17.5,2020-04-28,2020-04-29,ETNA,OH,,United States,Adults,Mask
+398,2020-04-28,Mask- Beautiful Flowers,1,17.5,3.67,0.0,0.0,17.5,2020-04-28,2020-04-29,FORTUNA,CA,,United States,Adults,Mask
+399,2020-04-28,Mask - Beautiful Garden,1,16.0,0.0,0.0,0.0,16.0,2020-04-28,2020-04-29,FORTUNA,CA,,United States,Adults,Mask
+400,2020-04-28,Mask - Packed Floral,1,17.5,0.0,0.0,0.0,17.5,2020-04-28,2020-04-29,FORTUNA,CA,,United States,Adults,Mask
+401,2020-04-28,Mask - Daisies,2,15.0,0.0,0.0,0.0,30.0,2020-04-28,2020-04-29,FORTUNA,CA,,United States,Adults,Mask
+402,2020-04-28,Mask - Dark Green,1,16.0,2.76,0.0,0.0,16.0,2020-04-28,2020-04-29,Collingdale,PA,,United States,Adults,Mask
+403,2020-04-28,Mask - Blue,1,12.0,0.0,0.0,0.0,12.0,2020-04-28,2020-04-29,Collingdale,PA,,United States,Toddlers,Mask
+404,2020-04-28,Mask - Light Purple,1,15.0,0.0,0.0,0.0,15.0,2020-04-28,2020-04-29,Collingdale,PA,,United States,Adults,Mask
+405,2020-04-28,Mask - Beautiful Garden,1,16.0,0.0,3.36,0.0,16.0,2020-04-28,2020-04-28,Midlothian,VA,,United States,Adults,Mask
+406,2020-04-28,Mask - Sketch Art,1,15.0,0.0,3.4,0.0,15.0,2020-04-28,2020-04-28,Lexington,KY,,United States,Adults,Mask
+407,2020-04-28,Mask - Gustav Klimt Gold,1,16.0,0.0,3.67,0.0,16.0,2020-04-28,2020-04-28,Boulder,CO,,United States,Adults,Mask
+408,2020-04-27,Mask - Beautiful Garden,1,16.0,0.0,3.8,0.0,16.0,2020-04-27,2020-04-28,Wilsonville,OR,,United States,Adults,Mask
+409,2020-04-27,Mask - Music Notes,1,15.0,0.0,8.6,0.0,15.0,2020-04-27,2020-04-28,MISSOURI CITY,TX,,United States,Adults,Mask
+410,2020-04-27,Cotton Rounds - Sunflowers,1,18.0,3.25,0.0,0.0,18.0,2020-04-27,2020-04-28,SEBAGO,ME,,United States,,Cotton Rounds
+411,2020-04-27,Pads - Sunflowers on Acqua,1,45.0,0.0,0.0,0.0,45.0,2020-04-27,2020-04-28,SEBAGO,ME,,United States,,Pads
+412,2020-04-27,Mask - Gustav Klimt Gold,1,16.0,0.0,3.4,0.0,16.0,2020-04-27,2020-04-27,Columbus,OH,,United States,Adults,Mask
+413,2020-04-27,Unpaper Towels - Rainbow,1,22.0,4.8,0.0,0.0,22.0,2020-04-27,2020-04-27,Dumas,TX,,United States,,Unpaper Towels
+414,2020-04-27,Napkins - Hedgehogs,1,10.0,0.0,0.0,0.0,10.0,2020-04-27,2020-04-27,Dumas,TX,,United States,,Napkins
+415,2020-04-27,Napkins - Rinos,1,10.0,0.0,0.0,0.0,10.0,2020-04-27,2020-04-27,Dumas,TX,,United States,,Napkins
+416,2020-04-26,Unpaper Towels - Rainbow,1,22.0,0.0,3.38,0.0,22.0,2020-04-26,2020-04-26,LAMBERTVILLE,NJ,,United States,,Unpaper Towels
+417,2020-04-26,Mask - Beautiful Garden,1,16.0,0.0,3.8,0.0,16.0,2020-04-26,2020-04-26,Deming,WA,,United States,Adults,Mask
+418,2020-04-26,Mask- Beautiful Flowers,1,17.5,0.0,2.74,0.0,17.5,2020-04-26,2020-04-26,Williamsburg,VA,,United States,Adults,Mask
+419,2020-04-26,Mask - Dark Green,1,16.0,0.0,0.0,0.0,16.0,2020-04-26,2020-04-26,Williamsburg,VA,,United States,Adults,Mask
+420,2020-04-26,Mask - Gustav Klimt Gold,1,16.0,0.0,3.8,0.0,16.0,2020-04-26,2020-04-26,Irvine,CA,,United States,Adults,Mask
+421,2020-04-25,Mask - Music Notes,1,14.0,0.0,3.8,0.0,14.0,2020-04-25,2020-04-27,VISALIA,CA,,United States,Teens,Mask
+422,2020-04-25,Mask - Beautiful Garden on Yellow,2,17.5,2.74,0.0,0.0,35.0,2020-04-25,2020-04-26,Williamsburg,VA,,United States,Adults,Mask
+423,2020-04-25,Pads - Sunflowers on Acqua,1,45.0,2.74,0.0,0.0,45.0,2020-04-25,2020-04-26,DURHAM,NC,,United States,,Pads
+424,2020-04-25,Mask - Comic Book,1,17.5,0.0,3.38,0.0,17.5,2020-04-25,2020-04-26,New York,NY,,United States,Adults,Mask
+425,2020-04-25,Mask - Gray,1,15.0,0.0,3.36,0.0,15.0,2020-04-25,2020-04-26,Arlington,VA,,United States,Adults,Mask
+426,2020-04-25,Mask - Sketch Art,1,15.0,0.0,3.46,0.0,15.0,2020-04-25,2020-04-26,Downers Grove,IL,,United States,Adults,Mask
+427,2020-04-25,Mask - Bananas on Blue,1,14.0,0.0,3.4,0.0,14.0,2020-04-25,2020-04-27,South Windsor ,CT,,United States,Kids,Mask
+428,2020-04-25,Mask - Bananas on Blue,1,15.0,0.0,3.8,0.0,15.0,2020-04-25,2020-04-27,Hermosa Beach,CA,,United States,Teens,Mask
+429,2020-04-25,Mask- Beautiful Flowers,1,17.5,0.0,3.36,0.0,17.5,2020-04-25,2020-04-26,Williamsburg,VA,,United States,Adults,Mask
+430,2020-04-24,Mask - Beautiful Garden,1,16.0,0.0,2.74,0.0,16.0,2020-04-24,2020-04-26,Richmond,VA,,United States,Adults,Mask
+431,2020-04-24,Mask - Green,1,15.0,0.0,0.0,0.0,15.0,2020-04-24,2020-04-26,Richmond,VA,,United States,Adults,Mask
+432,2020-04-24,Mask - Beautiful Garden on Yellow,1,17.5,3.31,0.0,0.0,17.5,2020-04-24,2020-04-26,West Chicago,IL,,United States,Adults,Mask
+433,2020-04-24,Mask - White Marble,1,17.5,0.0,0.0,0.0,17.5,2020-04-24,2020-04-26,West Chicago,IL,,United States,Adults,Mask
+434,2020-04-24,Mask - Tiles,1,17.5,0.0,0.0,0.0,17.5,2020-04-24,2020-04-26,West Chicago,IL,,United States,Adults,Mask
+435,2020-04-24,Mask - Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-24,2020-04-26,West Chicago,IL,,United States,Adults,Mask
+436,2020-04-24,Mask - Blue and Gold,1,16.0,0.0,0.0,0.0,16.0,2020-04-24,2020-04-26,West Chicago,IL,,United States,Adults,Mask
+437,2020-04-24,Mask - Gray,1,15.0,0.0,3.4,0.0,15.0,2020-04-24,2020-04-26,OCALA,FL,,United States,Adults,Mask
+438,2020-04-24,Mask - Blue and Gold,1,16.0,3.18,0.0,0.0,16.0,2020-04-24,2020-04-26,Moraga,CA,,United States,Adults,Mask
+439,2020-04-24,Mask - Dark Green,1,16.0,0.0,0.0,0.0,16.0,2020-04-24,2020-04-26,Moraga,CA,,United States,Adults,Mask
+440,2020-04-24,Mask - Blue,1,15.0,0.0,0.0,0.0,15.0,2020-04-24,2020-04-26,Moraga,CA,,United States,Adults,Mask
+441,2020-04-24,Mask - Gustav Klimt II,1,16.0,0.0,2.78,0.0,16.0,2020-04-24,2020-04-26,Kalamazoo,MI,,United States,Adults,Mask
+442,2020-04-24,Mask - Beautiful Garden,1,16.0,0.0,0.0,0.0,16.0,2020-04-24,2020-04-26,Kalamazoo,MI,,United States,Adults,Mask
+443,2020-04-24,Mask - Bananas on Blue,1,16.0,2.93,0.0,0.0,16.0,2020-04-24,2020-04-26,SPRING,TX,,United States,Adults,Mask
+444,2020-04-24,Scrunchie - Bananas on Pink,1,8.0,0.0,0.0,0.0,8.0,2020-04-24,2020-04-26,SPRING,TX,,United States,,Scrunchie
+445,2020-04-24,Mask - Daisies,1,15.0,0.0,0.0,0.0,15.0,2020-04-24,2020-04-26,SPRING,TX,,United States,Adults,Mask
+446,2020-04-24,Mask - Gustav Klimt II,1,16.0,2.78,0.0,0.0,16.0,2020-04-24,2020-04-27,Warsaw,IN,,United States,Adults,Mask
+447,2020-04-24,Mask - Bananas on Blue,1,15.0,0.0,0.0,0.0,15.0,2020-04-24,2020-04-27,Warsaw,IN,,United States,Teens,Mask
+448,2020-04-24,Mask - Unicorns,1,15.0,0.0,0.0,0.0,15.0,2020-04-24,2020-04-27,Warsaw,IN,,United States,Adults,Mask
+449,2020-04-24,Mask - Gray,1,14.0,0.0,0.0,0.0,14.0,2020-04-24,2020-04-27,Warsaw,IN,,United States,Teens,Mask
+450,2020-04-24,Mask - Light Purple,1,15.0,0.0,2.84,0.0,15.0,2020-04-24,2020-04-25,Hoffman Estates,IL,,United States,Adults,Mask
+451,2020-04-24,Mask - Daisies,1,15.0,0.0,0.0,0.0,15.0,2020-04-24,2020-04-25,Hoffman Estates,IL,,United States,Adults,Mask
+452,2020-04-24,Mask - Gustav Klimt II,1,16.0,0.0,2.78,0.0,16.0,2020-04-24,2020-04-25,AMHERST,MA,,United States,Adults,Mask
+453,2020-04-24,Mask - Beautiful Garden,1,16.0,0.0,0.0,0.0,16.0,2020-04-24,2020-04-25,AMHERST,MA,,United States,Adults,Mask
+454,2020-04-24,Napkins - Sloths,1,10.0,4.55,0.0,0.0,10.0,2020-04-24,2020-04-24,Midlothian,VA,,United States,,Napkins
+455,2020-04-24,Unpaper Towels - Rainbow,1,22.0,0.0,0.0,0.0,22.0,2020-04-24,2020-04-24,Midlothian,VA,,United States,,Unpaper Towels
+456,2020-04-24,Napkins - Cats,2,10.0,0.0,0.0,0.0,20.0,2020-04-24,2020-04-24,Midlothian,VA,,United States,,Napkins
+457,2020-04-23,Scrunchie - Bananas on Pink,1,8.0,0.0,3.55,0.0,8.0,2020-04-23,2020-04-24,Austin,TX,,United States,,Scrunchie
+458,2020-04-23,Mask - Gustav Klimt Gold,1,16.0,2.78,0.0,0.0,16.0,2020-04-23,2020-04-24,XENIA,OH,,United States,Adults,Mask
+459,2020-04-23,Mask - Beautiful Garden,1,16.0,0.0,0.0,0.0,16.0,2020-04-23,2020-04-24,XENIA,OH,,United States,Adults,Mask
+460,2020-04-23,Mask - Music Notes,1,15.0,0.0,0.0,0.0,15.0,2020-04-23,2020-04-24,XENIA,OH,,United States,Adults,Mask
+461,2020-04-23,Mask - Unicorns,1,12.0,0.0,2.93,0.0,12.0,2020-04-23,2020-04-24,Houston,TX,,United States,Toddlers,Mask
+462,2020-04-23,Mask - Beautiful Garden,1,16.0,0.0,0.0,0.0,16.0,2020-04-23,2020-04-24,Houston,TX,,United States,Adults,Mask
+463,2020-04-23,Mask - Daisies,1,15.0,2.84,0.0,0.0,15.0,2020-04-23,2020-04-24,Fair Play,MO,,United States,Adults,Mask
+464,2020-04-23,Mask - Green,1,13.0,0.0,0.0,0.0,13.0,2020-04-23,2020-04-24,Fair Play,MO,,United States,Kids,Mask
+465,2020-04-23,Mask - White Marble,1,17.5,0.0,0.0,0.0,17.5,2020-04-23,2020-04-24,Fair Play,MO,,United States,Adults,Mask
+466,2020-04-22,Mask - Unicorns,1,13.0,0.0,2.78,0.0,13.0,2020-04-22,2020-04-24,Macomb,MI,,United States,Kids,Mask
+467,2020-04-22,Mask - Beautiful Garden,1,16.0,0.0,0.0,0.0,16.0,2020-04-22,2020-04-24,Macomb,MI,,United States,Adults,Mask
+468,2020-04-22,Mask - Blue and Gold,1,16.0,0.0,8.42,0.0,16.0,2020-04-22,2020-04-23,Irvine,CA,,United States,Adults,Mask
+469,2020-04-22,Mask - Beautiful Garden on Blue,1,17.5,0.0,0.0,0.0,17.5,2020-04-22,2020-04-23,Irvine,CA,,United States,Adults,Mask
+470,2020-04-22,Mask - Blue,1,15.0,3.18,0.0,0.0,15.0,2020-04-22,2020-04-24,Walnut Creek,CA,,United States,Adults,Mask
+471,2020-04-22,Mask - Unicorns,1,13.0,0.0,0.0,0.0,13.0,2020-04-22,2020-04-24,Walnut Creek,CA,,United States,Kids,Mask
+472,2020-04-22,Mask - Gustav Klimt Gold,1,16.0,0.0,0.0,0.0,16.0,2020-04-22,2020-04-24,Walnut Creek,CA,,United States,Adults,Mask
+473,2020-04-22,Mask - Sketch Art,1,15.0,0.0,3.55,0.0,15.0,2020-04-22,2020-04-24,Houston,TX,,United States,Adults,Mask
+474,2020-04-22,Cotton Rounds - Sunflowers,1,18.0,0.0,3.4,0.0,18.0,2020-04-22,2020-04-22,Jaffrey,NH,,United States,,Cotton Rounds
+475,2020-04-21,Mask - Music Notes,1,15.0,0.0,3.4,0.0,15.0,2020-04-21,2020-04-22,Valparaiso,IN,,United States,Adults,Mask
+476,2020-04-21,Mask - Bananas on Blue,1,16.0,0.0,3.8,0.0,16.0,2020-04-21,2020-04-22,seattle,WA,,United States,Adults,Mask
+477,2020-04-21,Mask - Bananas on Blue,1,16.0,0.0,3.36,0.0,16.0,2020-04-21,2020-04-22,Raleigh,NC,,United States,Adults,Mask
+478,2020-04-21,Mask - FlowerS on Blue,1,15.0,0.0,3.8,0.0,15.0,2020-04-21,2020-04-22,Carlsbad,CA,,United States,Adults,Mask
+479,2020-04-21,Mask - Daisies,1,15.0,0.0,3.18,0.0,15.0,2020-04-21,2020-04-22,San Francisco,CA,,United States,Adults,Mask
+480,2020-04-21,Mask - Dark Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-21,2020-04-22,San Francisco,CA,,United States,Adults,Mask
+481,2020-04-21,Mask - Tiles,1,17.5,0.0,3.18,0.0,17.5,2020-04-21,2020-04-22,Moraga,CA,,United States,Adults,Mask
+482,2020-04-21,Mask - Blue and Gold,1,16.0,0.0,0.0,0.0,16.0,2020-04-21,2020-04-22,Moraga,CA,,United States,Adults,Mask
+483,2020-04-21,Mask - FlowerS on Blue,1,15.0,0.0,3.4,0.0,15.0,2020-04-21,2020-04-22,Kalamazoo,MI,,United States,Adults,Mask
+484,2020-04-21,Mask - Gustav Klimt Gold,1,15.0,0.0,2.78,0.0,15.0,2020-04-21,2020-04-22,Sayville,NY,,United States,Teens,Mask
+485,2020-04-21,Mask - Gustav Klimt II,1,15.0,0.0,0.0,0.0,15.0,2020-04-21,2020-04-22,Sayville,NY,,United States,Teens,Mask
+486,2020-04-21,Mask - FlowerS on Blue,1,15.0,0.0,3.38,0.0,15.0,2020-04-21,2020-04-22,Philadelphia,PA,,United States,Adults,Mask
+487,2020-04-21,Teething Ring - Elephant,1,22.0,8.74,0.0,0.0,22.0,2020-04-21,2020-04-21,Pine Bush,NY,,United States,,Teething Ring
+488,2020-04-21,Teething Ring - Bees,1,7.0,0.0,0.0,0.0,7.0,2020-04-21,2020-04-21,Pine Bush,NY,,United States,,Teething Ring
+489,2020-04-21,Napkins - Hedgehogs,2,10.0,0.0,0.0,0.0,20.0,2020-04-21,2020-04-21,Pine Bush,NY,,United States,,Napkins
+490,2020-04-21,Napkins - Spaceship in Space,2,10.0,0.0,0.0,0.0,20.0,2020-04-21,2020-04-21,Pine Bush,NY,,United States,,Napkins
+491,2020-04-21,Napkins - Camping,1,10.0,0.0,0.0,0.0,10.0,2020-04-21,2020-04-21,Pine Bush,NY,,United States,,Napkins
+492,2020-04-21,Mask - Bananas on Blue,1,16.0,0.0,3.4,0.0,16.0,2020-04-21,2020-04-21,Colchester,VT,,United States,Adults,Mask
+493,2020-04-20,Mask - FlowerS on Blue,1,15.0,0.0,3.67,0.0,15.0,2020-04-20,2020-04-22,MCALLEN,TX,,United States,Adults,Mask
+494,2020-04-20,Mask - Music Notes,1,15.0,0.0,8.18,0.0,15.0,2020-04-20,2020-04-21,Dublin,GA,,United States,Adults,Mask
+495,2020-04-20,Mask - Tiles,1,17.5,0.0,3.18,0.0,17.5,2020-04-20,2020-04-21,SEATTLE,WA,,United States,Adults,Mask
+496,2020-04-20,Mask - Dark Green,1,16.0,0.0,0.0,0.0,16.0,2020-04-20,2020-04-21,SEATTLE,WA,,United States,Adults,Mask
+497,2020-04-20,Mask - White Marble,3,17.5,3.21,0.0,0.0,52.5,2020-04-20,2020-04-21,Ashburn,VA,,United States,Adults,Mask
+498,2020-04-20,Mask - Tiles,1,17.5,0.0,0.0,0.0,17.5,2020-04-20,2020-04-21,Ashburn,VA,,United States,Adults,Mask
+499,2020-04-20,Mask - Gustav Klimt Gold,1,14.0,0.0,0.0,0.0,14.0,2020-04-20,2020-04-21,Ashburn,VA,,United States,Kids,Mask
+500,2020-04-20,Mask- Beautiful Flowers,2,17.5,2.76,0.0,0.0,35.0,2020-04-20,2020-04-20,ALBURTIS,PA,,United States,Adults,Mask
+501,2020-04-20,Mask - Beautiful Garden on Yellow,1,17.5,3.18,0.0,0.0,17.5,2020-04-20,2020-04-21,INCLINE VILLAGE,NV,,United States,Adults,Mask
+502,2020-04-20,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-04-20,2020-04-21,INCLINE VILLAGE,NV,,United States,Adults,Mask
+503,2020-04-20,Mask - Unicorns,1,15.0,0.0,0.0,0.0,15.0,2020-04-20,2020-04-21,INCLINE VILLAGE,NV,,United States,Adults,Mask
+504,2020-04-20,Pads - Watercolor Rainbow,1,45.0,3.46,0.0,0.0,45.0,2020-04-20,2020-04-21,Grandview,MO,,United States,,Pads
+505,2020-04-20,Mask - Sketch Art,2,15.0,2.74,0.0,0.0,30.0,2020-04-20,2020-04-21,Washington,DC,,United States,Adults,Mask
+506,2020-04-20,Mask - Blue and Gold,2,16.0,0.0,0.0,0.0,32.0,2020-04-20,2020-04-21,Washington,DC,,United States,Adults,Mask
+507,2020-04-20,Mask - Daisies,1,14.0,0.0,2.76,0.0,14.0,2020-04-20,2020-04-21,PITTSBURGH,PA,,United States,Teens,Mask
+508,2020-04-20,Mask - Dark Green,1,16.0,0.0,0.0,0.0,16.0,2020-04-20,2020-04-21,PITTSBURGH,PA,,United States,Adults,Mask
+509,2020-04-20,Mask - Bananas on Blue,2,16.0,2.76,0.0,0.0,32.0,2020-04-20,2020-04-21,Brooklyn,NY,,United States,Adults,Mask
+510,2020-04-20,Mask - Light Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-20,2020-04-21,Brooklyn,NY,,United States,Adults,Mask
+511,2020-04-20,Mask- Beautiful Flowers,1,17.5,0.0,3.36,0.0,17.5,2020-04-20,2020-04-20,Arlington,VA,,United States,Adults,Mask
+512,2020-04-20,Mask - FlowerS on Blue,1,15.0,0.0,3.8,0.0,15.0,2020-04-20,2020-04-21,Poulsbo,WA,,United States,Adults,Mask
+513,2020-04-20,Mask - Bananas on Blue,1,16.0,0.0,3.46,0.0,16.0,2020-04-20,2020-04-20,Bloomington,MN,,United States,Adults,Mask
+514,2020-04-19,Mask - Music Notes,1,15.0,0.0,3.8,0.0,15.0,2020-04-19,2020-04-20,GILBERT,AZ,,United States,Adults,Mask
+515,2020-04-19,Mask - Daisies,1,15.0,0.0,2.74,0.0,15.0,2020-04-19,2020-04-19,Herndon,VA,,United States,Adults,Mask
+516,2020-04-19,Mask - Blue,1,15.0,0.0,0.0,0.0,15.0,2020-04-19,2020-04-19,Herndon,VA,,United States,Adults,Mask
+517,2020-04-19,Pads - Sunflowers on Acqua,1,45.0,3.18,0.0,0.0,45.0,2020-04-19,2020-04-19,San Jose,CA,,United States,,Pads
+518,2020-04-19,Mask - Light Purple,1,15.0,3.21,0.0,0.0,15.0,2020-04-19,2020-04-19,WILLIAMSBURG,VA,,United States,Adults,Mask
+519,2020-04-19,Mask - Blue,1,15.0,0.0,0.0,0.0,15.0,2020-04-19,2020-04-19,WILLIAMSBURG,VA,,United States,Adults,Mask
+520,2020-04-19,Mask - Dark Green,1,16.0,0.0,0.0,0.0,16.0,2020-04-19,2020-04-19,WILLIAMSBURG,VA,,United States,Adults,Mask
+521,2020-04-19,Mask - Green,1,15.0,0.0,0.0,0.0,15.0,2020-04-19,2020-04-19,WILLIAMSBURG,VA,,United States,Adults,Mask
+522,2020-04-19,Mask - Red,1,15.0,0.0,0.0,0.0,15.0,2020-04-19,2020-04-19,WILLIAMSBURG,VA,,United States,Adults,Mask
+523,2020-04-19,Mask - Beautiful Garden on Yellow,1,17.5,2.74,0.0,0.0,17.5,2020-04-19,2020-04-19,Efland,NC,,United States,Adults,Mask
+524,2020-04-19,Mask - Beautiful Garden on Yellow,1,17.5,0.0,0.0,0.0,17.5,2020-04-19,2020-04-19,Efland,NC,,United States,Adults,Mask
+525,2020-04-19,Mask - Daisies,1,14.0,0.0,0.0,0.0,14.0,2020-04-19,2020-04-19,Efland,NC,,United States,Teens,Mask
+526,2020-04-18,Mask - Blue and Gold,1,16.0,0.0,2.78,0.0,16.0,2020-04-18,2020-04-19,XENIA,OH,,United States,Adults,Mask
+527,2020-04-18,Mask - Gustav Klimt II,1,16.0,0.0,0.0,0.0,16.0,2020-04-18,2020-04-19,XENIA,OH,,United States,Adults,Mask
+528,2020-04-18,Mask - Dark Green,1,16.0,0.0,2.74,0.0,16.0,2020-04-18,2020-04-19,Williamsburg,VA,,United States,Adults,Mask
+529,2020-04-18,Mask - Light Purple,1,15.0,0.0,0.0,0.0,15.0,2020-04-18,2020-04-19,Williamsburg,VA,,United States,Adults,Mask
+530,2020-04-18,Mask - Sketch Art,1,15.0,0.0,2.76,0.0,15.0,2020-04-18,2020-04-19,New York,NY,,United States,Adults,Mask
+531,2020-04-18,Mask - FlowerS on Blue,1,15.0,0.0,0.0,0.0,15.0,2020-04-18,2020-04-19,New York,NY,,United States,Adults,Mask
+532,2020-04-18,Mask - Music Notes,1,15.0,2.76,0.0,0.0,15.0,2020-04-18,2020-04-19,SUNNYSIDE,NY,,United States,Adults,Mask
+533,2020-04-18,Mask - Red,1,15.0,0.0,0.0,0.0,15.0,2020-04-18,2020-04-19,SUNNYSIDE,NY,,United States,Adults,Mask
+534,2020-04-18,Mask - Green,1,15.0,0.0,0.0,0.0,15.0,2020-04-18,2020-04-19,SUNNYSIDE,NY,,United States,Adults,Mask
+535,2020-04-18,Pads - Assorted Colors,1,50.0,2.84,0.0,0.0,50.0,2020-04-18,2020-04-18,green bay,WI,,United States,,Pads
+536,2020-04-17,Pads - Rainbow Pastel,1,45.0,2.76,0.0,0.0,45.0,2020-04-17,2020-04-18,Marlton,NJ,,United States,,Pads
+537,2020-04-17,Mask - Music Notes,1,15.0,0.0,3.4,0.0,15.0,2020-04-17,2020-04-18,Mansfield Center,CT,,United States,Adults,Mask
+538,2020-04-17,Mask - FlowerS on Blue,1,15.0,0.0,3.46,0.0,15.0,2020-04-17,2020-04-18,Downers Grove,IL,,United States,Adults,Mask
+539,2020-04-17,Mask - Love Triangles,1,17.0,2.76,0.0,0.0,17.0,2020-04-17,2020-04-18,Sunnyside,NY,,United States,Adults,Mask
+540,2020-04-17,Mask - Black Stripes,1,15.0,0.0,0.0,0.0,15.0,2020-04-17,2020-04-18,Sunnyside,NY,,United States,Adults,Mask
+541,2020-04-17,Mask - Blue and Gold,1,16.0,0.0,0.0,0.0,16.0,2020-04-17,2020-04-18,Sunnyside,NY,,United States,Adults,Mask
+542,2020-04-16,Mask - Dark Gray,3,15.0,3.67,0.0,0.0,45.0,2020-04-16,2020-04-18,Foster City,CA,,United States,Adults,Mask
+543,2020-04-16,Mask - Light Gray,3,15.0,0.0,0.0,0.0,45.0,2020-04-16,2020-04-18,Foster City,CA,,United States,Adults,Mask
+544,2020-04-16,Mask - FlowerS on Blue,1,15.0,0.0,3.46,0.0,15.0,2020-04-16,2020-04-18,Des Peres,MO,,United States,Adults,Mask
+545,2020-04-16,Mask - Black Stripes,1,15.0,0.0,2.74,0.0,15.0,2020-04-16,2020-04-18,RALEIGH,NC,,United States,Adults,Mask
+546,2020-04-16,Mask - Green,1,15.0,0.0,0.0,0.0,15.0,2020-04-16,2020-04-18,RALEIGH,NC,,United States,Adults,Mask
+547,2020-04-16,Mask - FlowerS on Blue,1,15.0,2.74,0.0,0.0,15.0,2020-04-16,2020-04-18,Newport News,VA,,United States,Adults,Mask
+548,2020-04-16,Mask - Light Purple,1,15.0,0.0,0.0,0.0,15.0,2020-04-16,2020-04-18,Newport News,VA,,United States,Adults,Mask
+549,2020-04-16,Mask - Daisies,1,15.0,0.0,0.0,0.0,15.0,2020-04-16,2020-04-18,Newport News,VA,,United States,Adults,Mask
+550,2020-04-16,Mask - Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-16,2020-04-18,Newport News,VA,,United States,Adults,Mask
+551,2020-04-16,Mask - Dark Green,1,16.0,0.0,3.46,0.0,16.0,2020-04-16,2020-04-17,Metamora,IL,,United States,Adults,Mask
+552,2020-04-16,Mask - FlowerS on Blue,1,15.0,0.0,3.55,0.0,15.0,2020-04-16,2020-04-18,Cedar Park,TX,,United States,Adults,Mask
+553,2020-04-16,Mask - Sketch Art,1,15.0,0.0,3.38,0.0,15.0,2020-04-16,2020-04-17,New York,NY,,United States,Adults,Mask
+554,2020-04-16,Mask - Dark Green,1,16.0,0.0,3.18,0.0,16.0,2020-04-16,2020-04-17,Kirkland,WA,,United States,Adults,Mask
+555,2020-04-16,Mask - Light Purple,1,15.0,0.0,0.0,0.0,15.0,2020-04-16,2020-04-17,Kirkland,WA,,United States,Adults,Mask
+556,2020-04-16,Mask - Green,2,14.0,2.78,0.0,0.0,28.0,2020-04-16,2020-04-18,Boston,MA,,United States,Teens,Mask
+557,2020-04-16,Mask - Dark Green,1,15.0,0.0,0.0,0.0,15.0,2020-04-16,2020-04-18,Boston,MA,,United States,Teens,Mask
+558,2020-04-16,Cotton Pads - White,1,15.0,3.21,0.0,0.0,15.0,2020-04-16,2020-04-18,Westminster,MD,,United States,,Cotton Pads
+559,2020-04-16,Mask - Blue and Gold,1,16.0,0.0,0.0,0.0,16.0,2020-04-16,2020-04-18,Westminster,MD,,United States,Adults,Mask
+560,2020-04-16,Mask - FlowerS on Blue,1,15.0,0.0,0.0,0.0,15.0,2020-04-16,2020-04-18,Westminster,MD,,United States,Adults,Mask
+561,2020-04-16,Mask - Unicorns,1,14.0,0.0,3.36,0.0,14.0,2020-04-16,2020-04-18,newport news,VA,,United States,Teens,Mask
+562,2020-04-16,Mask - Music Notes,1,15.0,0.0,3.36,0.0,15.0,2020-04-16,2020-04-18,newport news,VA,,United States,Adults,Mask
+563,2020-04-16,Mask - Music Notes,1,15.0,2.74,0.0,0.0,15.0,2020-04-16,2020-04-17,Williamsburg,VA,,United States,Adults,Mask
+564,2020-04-16,Mask - Unicorns,1,15.0,0.0,0.0,0.0,15.0,2020-04-16,2020-04-17,Williamsburg,VA,,United States,Adults,Mask
+565,2020-04-16,Mask - Daisies,1,15.0,0.0,0.0,0.0,15.0,2020-04-16,2020-04-17,Williamsburg,VA,,United States,Adults,Mask
+566,2020-04-16,Mask - Love Triangles,1,17.0,2.74,0.0,0.0,17.0,2020-04-16,2020-04-17,Lanexa,VA,,United States,Adults,Mask
+567,2020-04-16,Mask - Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-16,2020-04-17,Lanexa,VA,,United States,Adults,Mask
+568,2020-04-16,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-04-16,2020-04-17,Lanexa,VA,,United States,Adults,Mask
+569,2020-04-16,Mask - Blue,1,15.0,0.0,0.0,0.0,15.0,2020-04-16,2020-04-17,Lanexa,VA,,United States,Adults,Mask
+570,2020-04-16,Mask - Music Notes,1,15.0,0.0,3.4,0.0,15.0,2020-04-16,2020-04-18,Birmingham,AL,,United States,Adults,Mask
+571,2020-04-16,Mask - Love Triangles,1,17.0,0.0,2.78,0.0,17.0,2020-04-16,2020-04-17,temple,GA,,United States,Adults,Mask
+572,2020-04-16,Mask - Daisies,1,15.0,0.0,0.0,0.0,15.0,2020-04-16,2020-04-17,temple,GA,,United States,Adults,Mask
+573,2020-04-16,Mask - Gray,2,15.0,2.74,0.0,0.0,30.0,2020-04-16,2020-04-17,Williamsburg,VA,,United States,Adults,Mask
+574,2020-04-16,Mask - Sketch Art,2,15.0,0.0,0.0,0.0,30.0,2020-04-16,2020-04-17,Williamsburg,VA,,United States,Adults,Mask
+575,2020-04-16,Mask - Daisies,1,15.0,0.0,2.93,0.0,15.0,2020-04-16,2020-04-16,Katy,TX,,United States,Adults,Mask
+576,2020-04-16,Mask - Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-16,2020-04-16,Katy,TX,,United States,Adults,Mask
+577,2020-04-16,Mask - Gray,1,15.0,0.0,7.97,0.0,15.0,2020-04-16,2020-04-16,Astoria,NY,,United States,Adults,Mask
+578,2020-04-15,Mask - Gray,1,14.0,0.0,3.55,0.0,14.0,2020-04-15,2020-04-16,Austin,TX,,United States,Teens,Mask
+579,2020-04-15,Unpaper Towels - Rainbow,1,22.0,0.0,3.46,0.0,22.0,2020-04-15,2020-04-16,Webster Groves,MO,,United States,,Unpaper Towels
+580,2020-04-15,Mask - Light Purple,1,15.0,0.0,3.36,0.0,15.0,2020-04-15,2020-04-17,Washington,DC,,United States,Adults,Mask
+581,2020-04-15,Mask - Music Notes,1,15.0,0.0,3.55,0.0,15.0,2020-04-15,2020-04-16,SEGUIN,TX,,United States,Adults,Mask
+582,2020-04-15,Mask - Gustav Klimt II,1,16.0,0.0,3.4,0.0,16.0,2020-04-15,2020-04-15,Bloomington,IN,,United States,Adults,Mask
+583,2020-04-15,Mask - Sketch Art,1,15.0,0.0,3.4,0.0,15.0,2020-04-15,2020-04-15,Lockport,NY,,United States,Adults,Mask
+584,2020-04-15,Mask - Gustav Klimt II,1,16.0,0.0,7.56,0.0,16.0,2020-04-15,2020-04-15,SARANAC LAKE,NY,,United States,Adults,Mask
+585,2020-04-15,Mask - FlowerS on Blue,1,15.0,0.0,0.0,0.0,15.0,2020-04-15,2020-04-15,SARANAC LAKE,NY,,United States,Adults,Mask
+586,2020-04-15,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-04-15,2020-04-15,SARANAC LAKE,NY,,United States,Adults,Mask
+587,2020-04-15,Mask - Dark Gray,1,15.0,0.0,3.36,0.0,15.0,2020-04-15,2020-04-15,Henrico,VA,,United States,Adults,Mask
+588,2020-04-15,Small Adult Mask,1,16.0,0.0,3.5,0.0,16.0,2020-04-15,2020-04-15,Austin,TX,,United States,,Small Adult Mask
+589,2020-04-14,Mask - Dark Green,1,16.0,0.0,2.74,0.0,16.0,2020-04-14,2020-04-15,Williamsburg,VA,,United States,Adults,Mask
+590,2020-04-14,Mask - Dark Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-14,2020-04-15,Williamsburg,VA,,United States,Adults,Mask
+591,2020-04-14,Mask - Dark Green,1,16.0,0.0,3.8,0.0,16.0,2020-04-14,2020-04-15,PORTLAND,OR,,United States,Adults,Mask
+592,2020-04-14,Mask - Music Notes,1,14.0,0.0,3.67,0.0,14.0,2020-04-14,2020-04-15,AURORA,CO,,United States,Teens,Mask
+593,2020-04-14,Mask - Music Notes,2,15.0,0.0,3.18,0.0,30.0,2020-04-14,2020-04-15,Sacramento,CA,,United States,Adults,Mask
+594,2020-04-14,Mask - Blue,3,15.0,2.78,0.0,0.0,45.0,2020-04-14,2020-04-15,Springboro,OH,,United States,Adults,Mask
+595,2020-04-14,Mask - Sketch Art,1,15.0,0.0,3.36,0.0,15.0,2020-04-14,2020-04-15,Fairfax,VA,,United States,Adults,Mask
+596,2020-04-14,Mask - Gray,1,15.0,0.0,3.18,0.0,15.0,2020-04-14,2020-04-15,LOS ANGELES,CA,,United States,Adults,Mask
+597,2020-04-14,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-04-14,2020-04-15,LOS ANGELES,CA,,United States,Adults,Mask
+598,2020-04-13,Pads - Assorted Colors,1,50.0,2.84,0.0,0.0,50.0,2020-04-13,2020-04-13,Germantown,TN,,United States,,Pads
+599,2020-04-13,Mask - Sketch Art,1,15.0,0.0,3.55,0.0,15.0,2020-04-13,2020-04-13,Wichita,KS,,United States,Adults,Mask
+600,2020-04-13,Mask - Gustav Klimt Gold,2,16.0,0.0,2.74,0.0,32.0,2020-04-13,2020-04-14,Williamsburg,VA,,United States,Adults,Mask
+601,2020-04-13,Mask - Dark Gray,1,15.0,2.74,0.0,0.0,15.0,2020-04-13,2020-04-14,Petersburg,VA,,United States,Adults,Mask
+602,2020-04-13,Mask - Bananas on Blue,1,16.0,0.0,0.0,0.0,16.0,2020-04-13,2020-04-14,Petersburg,VA,,United States,Adults,Mask
+603,2020-04-13,Mask - Light Purple,1,15.0,0.0,0.0,0.0,15.0,2020-04-13,2020-04-14,Petersburg,VA,,United States,Adults,Mask
+604,2020-04-13,Mask - Black Stripes,1,15.0,2.74,0.0,0.0,15.0,2020-04-13,2020-04-13,Newport News,VA,,United States,Adults,Mask
+605,2020-04-13,Mask - Music Notes,1,15.0,0.0,0.0,0.0,15.0,2020-04-13,2020-04-13,Newport News,VA,,United States,Adults,Mask
+606,2020-04-13,Mask - Sketch Art,2,15.0,0.0,0.0,0.0,30.0,2020-04-13,2020-04-13,Newport News,VA,,United States,Adults,Mask
+607,2020-04-13,Mask - Sketch Art,1,15.0,0.0,3.46,0.0,15.0,2020-04-13,2020-04-13,SHAWNEE,KS,,United States,Adults,Mask
+608,2020-04-13,Mask - Dark Green,1,16.0,3.18,0.0,0.0,16.0,2020-04-13,2020-04-14,Portland,OR,,United States,Adults,Mask
+609,2020-04-13,Mask - Blue and Gold,1,16.0,0.0,0.0,0.0,16.0,2020-04-13,2020-04-14,Portland,OR,,United States,Adults,Mask
+610,2020-04-13,Mask - Light Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-13,2020-04-14,Portland,OR,,United States,Adults,Mask
+611,2020-04-13,Unpaper Towels - Lemons,1,18.0,0.0,2.74,0.0,18.0,2020-04-13,2020-04-13,Williamsburg,VA,,United States,,Unpaper Towels
+612,2020-04-13,Mask - Bananas on Blue,1,16.0,0.0,0.0,0.0,16.0,2020-04-13,2020-04-13,Williamsburg,VA,,United States,Adults,Mask
+613,2020-04-13,Mask - Bananas on Blue,1,13.0,2.74,0.0,0.0,13.0,2020-04-13,2020-04-13,Alexandria,VA,,United States,Toddlers,Mask
+614,2020-04-13,Mask - Blue and Gold,1,16.0,0.0,0.0,0.0,16.0,2020-04-13,2020-04-13,Alexandria,VA,,United States,Adults,Mask
+615,2020-04-13,Mask - Music Notes,1,15.0,0.0,0.0,0.0,15.0,2020-04-13,2020-04-13,Alexandria,VA,,United States,Adults,Mask
+616,2020-04-13,Mask - Gustav Klimt,1,16.0,0.0,3.18,0.0,16.0,2020-04-13,2020-04-13,Santa Clara,CA,,United States,Teens and adults,Mask
+617,2020-04-13,Mask - Bananas on Blue,1,13.0,0.0,0.0,0.0,13.0,2020-04-13,2020-04-13,Santa Clara,CA,,United States,Toddlers,Mask
+618,2020-04-12,Mask - Red,1,15.0,0.0,3.8,0.0,15.0,2020-04-12,2020-04-13,Kirkland,WA,,United States,Teens and adults,Mask
+619,2020-04-12,Pads - Watercolor Rainbow,1,45.0,3.8,0.0,0.0,45.0,2020-04-12,2020-04-12,SAN DIEGO,CA,,United States,,Pads
+620,2020-04-12,Large Wet Bag - Gustav Klimt,1,22.0,0.0,3.87,0.0,22.0,2020-04-12,2020-04-12,Barberton,OH,,United States,,Large Wet Bag
+621,2020-04-12,Mask - Green,1,15.0,0.0,3.38,0.0,15.0,2020-04-12,2020-04-12,Morristown,NJ,,United States,Teens and adults,Mask
+622,2020-04-11,Mask - Black Stripes,1,15.0,0.0,3.36,0.0,15.0,2020-04-11,2020-04-11,Cockeysville,MD,,United States,Teens and adults,Mask
+623,2020-04-11,Mask - Gustav Klimt Gold,1,16.0,0.0,3.4,0.0,16.0,2020-04-11,2020-04-11,INDIANAPOLIS,IN,,United States,Teens and adults,Mask
+624,2020-04-11,Mask - Gustav Klimt II,1,16.0,3.25,0.0,0.0,16.0,2020-04-11,2020-04-13,LONGMEADOW,MA,,United States,Teens and adults,Mask
+625,2020-04-11,Mask - Red,2,12.0,0.0,0.0,0.0,24.0,2020-04-11,2020-04-13,LONGMEADOW,MA,,United States,Toddlers,Mask
+626,2020-04-11,Mask - Beautiful Garden,1,13.0,0.0,0.0,0.0,13.0,2020-04-11,2020-04-13,LONGMEADOW,MA,,United States,Toddlers,Mask
+627,2020-04-11,Mask - Blue and Gold,1,16.0,0.0,0.0,0.0,16.0,2020-04-11,2020-04-13,LONGMEADOW,MA,,United States,Teens and adults,Mask
+628,2020-04-11,Mask - Gray,2,14.0,3.05,0.0,0.0,28.0,2020-04-11,2020-04-11,Denver,CO,,United States,Kids,Mask
+629,2020-04-11,Mask - Light Gray,2,14.0,0.0,0.0,0.0,28.0,2020-04-11,2020-04-11,Denver,CO,,United States,Kids,Mask
+630,2020-04-11,Mask - Music Notes,1,15.0,0.0,3.18,0.0,15.0,2020-04-11,2020-04-12,San Jose,CA,,United States,Teens and adults,Mask
+631,2020-04-11,Mask - Blue and Gold,1,16.0,0.0,0.0,0.0,16.0,2020-04-11,2020-04-12,San Jose,CA,,United States,Teens and adults,Mask
+632,2020-04-11,Mask - Green,1,15.0,0.0,3.18,0.0,15.0,2020-04-11,2020-04-13,Lehi,UT,,United States,Teens and adults,Mask
+633,2020-04-11,Mask - Red,1,15.0,0.0,0.0,0.0,15.0,2020-04-11,2020-04-13,Lehi,UT,,United States,Teens and adults,Mask
+634,2020-04-11,Mask - Dark Green,2,15.0,2.74,0.0,0.0,30.0,2020-04-11,2020-04-12,Chevy Chase,MD,,United States,Teens and adults,Mask
+635,2020-04-11,Mask - Green,1,15.0,0.0,0.0,0.0,15.0,2020-04-11,2020-04-12,Chevy Chase,MD,,United States,Teens and adults,Mask
+636,2020-04-11,Mask - Dark Green,1,15.0,0.0,3.36,0.0,15.0,2020-04-11,2020-04-12,Lynchburg,VA,,United States,Teens and adults,Mask
+637,2020-04-11,Mask - Music Notes,1,15.0,2.84,0.0,0.0,15.0,2020-04-11,2020-04-13,Baton Rouge,LA,,United States,Teens and adults,Mask
+638,2020-04-11,Mask - Blue and Gold,1,16.0,0.0,0.0,0.0,16.0,2020-04-11,2020-04-13,Baton Rouge,LA,,United States,Teens and adults,Mask
+639,2020-04-11,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-04-11,2020-04-13,Baton Rouge,LA,,United States,Teens and adults,Mask
+640,2020-04-11,Mask - Dark Green,1,15.0,0.0,0.0,0.0,15.0,2020-04-11,2020-04-13,Baton Rouge,LA,,United States,Teens and adults,Mask
+641,2020-04-11,Pads - Grey Triangles,1,45.0,3.46,0.0,0.0,45.0,2020-04-11,2020-04-11,Miami,FL,,United States,,Pads
+642,2020-04-11,Mask - Sketch Art,2,15.0,2.84,0.0,0.0,30.0,2020-04-11,2020-04-11,Edina,MN,,United States,Teens and adults,Mask
+643,2020-04-11,Mask - Ivory,1,15.0,0.0,0.0,0.0,15.0,2020-04-11,2020-04-11,Edina,MN,,United States,Teens and adults,Mask
+644,2020-04-11,Mask - Beautiful Garden,1,16.0,0.0,2.74,0.0,16.0,2020-04-11,2020-04-11,GLEN ALLEN,VA,,United States,Teens and adults,Mask
+645,2020-04-11,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-04-11,2020-04-11,GLEN ALLEN,VA,,United States,Teens and adults,Mask
+646,2020-04-11,Mask - Gustav Klimt,1,16.0,0.0,2.78,0.0,16.0,2020-04-11,2020-04-13,Dothan,AL,,United States,Teens and adults,Mask
+647,2020-04-11,Mask - Dark Green,1,14.0,0.0,0.0,0.0,14.0,2020-04-11,2020-04-13,Dothan,AL,,United States,Kids,Mask
+648,2020-04-11,Mask - Beautiful Garden,1,16.0,0.0,3.36,0.0,16.0,2020-04-11,2020-04-11,Williamsburg,VA,,United States,Teens and adults,Mask
+649,2020-04-11,Mask - Dark Gray,1,15.0,0.0,3.36,0.0,15.0,2020-04-11,2020-04-11,Newport News,VA,,United States,Teens and adults,Mask
+650,2020-04-11,Mask - Red,1,15.0,0.0,3.46,0.0,15.0,2020-04-11,2020-04-11,New Orleans,LA,,United States,Teens and adults,Mask
+651,2020-04-10,Mask - Light Purple,1,12.0,0.0,3.18,0.0,12.0,2020-04-10,2020-04-11,Burbank,CA,,United States,Toddlers,Mask
+652,2020-04-10,Mask - Blue,1,12.0,0.0,0.0,0.0,12.0,2020-04-10,2020-04-11,Burbank,CA,,United States,Toddlers,Mask
+653,2020-04-10,Mask - Dark Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-10,2020-04-11,Burbank,CA,,United States,Teens and adults,Mask
+654,2020-04-10,Mask - Music Notes,1,15.0,0.0,0.0,0.0,15.0,2020-04-10,2020-04-11,Burbank,CA,,United States,Teens and adults,Mask
+655,2020-04-10,Mask - Blue,1,15.0,2.76,0.0,0.0,15.0,2020-04-10,2020-04-12,Pittsburgh,PA,,United States,Teens and adults,Mask
+656,2020-04-10,Mask - Beautiful Garden,1,16.0,0.0,0.0,0.0,16.0,2020-04-10,2020-04-12,Pittsburgh,PA,,United States,Teens and adults,Mask
+657,2020-04-10,Mask - Bananas on Blue,1,16.0,0.0,0.0,0.0,16.0,2020-04-10,2020-04-12,Pittsburgh,PA,,United States,Teens and adults,Mask
+658,2020-04-10,Mask - Yellow,1,15.0,0.0,0.0,0.0,15.0,2020-04-10,2020-04-12,Pittsburgh,PA,,United States,Teens and adults,Mask
+659,2020-04-10,Mask - Bananas on Blue,1,16.0,0.0,3.8,0.0,16.0,2020-04-10,2020-04-11,Honolulu,HI,,United States,Teens and adults,Mask
+660,2020-04-10,Mask - Gustav Klimt,1,16.0,0.0,2.84,0.0,16.0,2020-04-10,2020-04-11,DENHAM SPRINGS,LA,,United States,Teens and adults,Mask
+661,2020-04-10,Mask - Dark Green,1,15.0,0.0,0.0,0.0,15.0,2020-04-10,2020-04-11,DENHAM SPRINGS,LA,,United States,Teens and adults,Mask
+662,2020-04-10,Unpaper Towels - Oranges,1,18.0,3.93,0.0,0.0,18.0,2020-04-10,2020-04-11,St. Anthony,MN,,United States,,Unpaper Towels
+663,2020-04-10,Unpaper Towels - Lemons,1,18.0,0.0,0.0,0.0,18.0,2020-04-10,2020-04-11,St. Anthony,MN,,United States,,Unpaper Towels
+664,2020-04-10,Mask - Beautiful Garden,1,16.0,0.0,3.4,0.0,16.0,2020-04-10,2020-04-11,SCHOOLCRAFT,MI,,United States,Teens and adults,Mask
+665,2020-04-10,Mask - Gray,1,15.0,0.0,2.84,0.0,15.0,2020-04-10,2020-04-11,PENSACOLA,FL,,United States,Teens and adults,Mask
+666,2020-04-10,Mask - Light Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-10,2020-04-11,PENSACOLA,FL,,United States,Teens and adults,Mask
+667,2020-04-10,Mask - Beautiful Garden,1,16.0,0.0,3.36,0.0,16.0,2020-04-10,2020-04-11,WILLIAMSBURG,VA,,United States,Teens and adults,Mask
+668,2020-04-10,Mask - Light Purple,1,12.0,2.74,0.0,0.0,12.0,2020-04-10,2020-04-13,Silver Spring,MD,,United States,Toddlers,Mask
+669,2020-04-10,Mask - Blue,1,15.0,0.0,0.0,0.0,15.0,2020-04-10,2020-04-13,Silver Spring,MD,,United States,Teens and adults,Mask
+670,2020-04-10,Mask - Green,1,15.0,0.0,0.0,0.0,15.0,2020-04-10,2020-04-13,Silver Spring,MD,,United States,Teens and adults,Mask
+671,2020-04-10,Mask - Yellow,1,12.0,0.0,0.0,0.0,12.0,2020-04-10,2020-04-13,Silver Spring,MD,,United States,Toddlers,Mask
+672,2020-04-10,Mask - Gray,1,15.0,0.0,2.74,0.0,15.0,2020-04-10,2020-04-11,Kensington,MD,,United States,Teens and adults,Mask
+673,2020-04-10,Mask - Light Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-10,2020-04-11,Kensington,MD,,United States,Teens and adults,Mask
+674,2020-04-10,Mask - Light Purple,1,15.0,3.25,0.0,0.0,15.0,2020-04-10,2020-04-11,Spartanburg,SC,,United States,Teens and adults,Mask
+675,2020-04-10,Mask - Beautiful Garden,1,16.0,0.0,0.0,0.0,16.0,2020-04-10,2020-04-11,Spartanburg,SC,,United States,Teens and adults,Mask
+676,2020-04-10,Napkins - Sloths,1,10.0,0.0,0.0,0.0,10.0,2020-04-10,2020-04-11,Spartanburg,SC,,United States,,Napkins
+677,2020-04-10,Mask - Light Purple,1,15.0,0.0,3.38,0.0,15.0,2020-04-10,2020-04-10,Sunnyside,NY,,United States,Teens and adults,Mask
+678,2020-04-10,Mask - Music Notes,1,15.0,2.78,0.0,0.0,15.0,2020-04-10,2020-04-10,Watertown,MA,,United States,Teens and adults,Mask
+679,2020-04-10,Mask - Bananas on Blue,1,16.0,0.0,0.0,0.0,16.0,2020-04-10,2020-04-10,Watertown,MA,,United States,Teens and adults,Mask
+680,2020-04-10,Mask - Black Stripes,1,15.0,0.0,0.0,0.0,15.0,2020-04-10,2020-04-10,Watertown,MA,,United States,Teens and adults,Mask
+681,2020-04-10,Mask - Bananas on Blue,1,16.0,0.0,2.93,0.0,16.0,2020-04-10,2020-04-10,ALLEN,TX,,United States,Teens and adults,Mask
+682,2020-04-10,Mask - Gustav Klimt,1,16.0,0.0,0.0,0.0,16.0,2020-04-10,2020-04-10,ALLEN,TX,,United States,Teens and adults,Mask
+683,2020-04-09,Pads - Pink Roses,1,45.0,3.87,0.0,0.0,45.0,2020-04-09,2020-04-10,Lowville,NY,,United States,,Pads
+684,2020-04-09,Pads - Grey Triangles,1,45.0,0.0,0.0,0.0,45.0,2020-04-09,2020-04-10,Lowville,NY,,United States,,Pads
+685,2020-04-09,Mask - Bananas on Pink on Pink,1,15.0,0.0,3.8,0.0,15.0,2020-04-09,2020-04-10,Soldotna,AK,,United States,Kids,Mask
+686,2020-04-09,Mask - Dark Green,1,15.0,0.0,3.36,0.0,15.0,2020-04-09,2020-04-11,Newport News,VA,,United States,Teens and adults,Mask
+687,2020-04-09,Mask - Bananas on Pink on Pink,1,13.0,0.0,3.38,0.0,13.0,2020-04-09,2020-04-10,Brooklyn,NY,,United States,Toddlers,Mask
+688,2020-04-09,Mask - Bananas on Pink on Pink,1,15.0,0.0,3.36,0.0,15.0,2020-04-09,2020-04-10,Suffolk,VA,,United States,Kids,Mask
+689,2020-04-09,Mask - Bananas on Blue,1,16.0,2.74,0.0,0.0,16.0,2020-04-09,2020-04-10,Williamsburg,VA,,United States,Teens and adults,Mask
+690,2020-04-09,Mask - Yellow,1,15.0,0.0,0.0,0.0,15.0,2020-04-09,2020-04-10,Williamsburg,VA,,United States,Teens and adults,Mask
+691,2020-04-09,Mask - Black Stripes,1,15.0,0.0,0.0,0.0,15.0,2020-04-09,2020-04-10,Williamsburg,VA,,United States,Teens and adults,Mask
+692,2020-04-09,Mask - Gustav Klimt II,1,16.0,0.0,0.0,0.0,16.0,2020-04-09,2020-04-10,Williamsburg,VA,,United States,Teens and adults,Mask
+693,2020-04-09,Mask - Beautiful Garden,1,16.0,2.74,0.0,0.0,16.0,2020-04-09,2020-04-10,WILLIAMSBURG,VA,,United States,Teens and adults,Mask
+694,2020-04-09,Mask - Bananas on Blue,1,16.0,0.0,0.0,0.0,16.0,2020-04-09,2020-04-10,WILLIAMSBURG,VA,,United States,Teens and adults,Mask
+695,2020-04-09,Mask - Blue and Gold,1,16.0,0.0,0.0,0.0,16.0,2020-04-09,2020-04-10,WILLIAMSBURG,VA,,United States,Teens and adults,Mask
+696,2020-04-09,Mask - Sketch Art,1,15.0,0.0,2.74,0.0,15.0,2020-04-09,2020-04-10,Arlington,VA,,United States,Teens and adults,Mask
+697,2020-04-09,Mask - Dark Green,1,15.0,0.0,0.0,0.0,15.0,2020-04-09,2020-04-10,Arlington,VA,,United States,Teens and adults,Mask
+698,2020-04-09,Mask - Bananas on Pink on Pink,1,13.0,0.0,2.74,0.0,13.0,2020-04-09,2020-04-10,Silver Spring,MD,,United States,Toddlers,Mask
+699,2020-04-09,Mask - Blue,1,15.0,0.0,0.0,0.0,15.0,2020-04-09,2020-04-10,Silver Spring,MD,,United States,Teens and adults,Mask
+700,2020-04-09,Mask - Dark Gray,1,15.0,0.0,2.74,0.0,15.0,2020-04-09,2020-04-10,Herndon,VA,,United States,Teens and adults,Mask
+701,2020-04-09,Mask - Sketch Art,1,14.0,0.0,0.0,0.0,14.0,2020-04-09,2020-04-10,Herndon,VA,,United States,Kids,Mask
+702,2020-04-09,Mask - Gustav Klimt II,1,16.0,0.0,2.78,0.0,16.0,2020-04-09,2020-04-09,Columbus,OH,,United States,Teens and adults,Mask
+703,2020-04-09,Mask - Beautiful Garden,1,16.0,0.0,0.0,0.0,16.0,2020-04-09,2020-04-09,Columbus,OH,,United States,Teens and adults,Mask
+704,2020-04-09,Mask - Bananas on Pink on Pink,1,16.0,0.0,3.4,0.0,16.0,2020-04-09,2020-04-09,ALLSTON,MA,,United States,Teens and adults,Mask
+705,2020-04-09,Mask - Bananas on Pink on Pink,1,16.0,0.0,3.38,0.0,16.0,2020-04-09,2020-04-09,BROOKLYN,NY,,United States,Teens and adults,Mask
+706,2020-04-09,Mask - Ivory,1,15.0,3.18,0.0,0.0,15.0,2020-04-09,2020-04-09,Los Angeles,CA,,United States,Teens and adults,Mask
+707,2020-04-09,Mask - Dark Green,1,15.0,0.0,0.0,0.0,15.0,2020-04-09,2020-04-09,Los Angeles,CA,,United States,Teens and adults,Mask
+708,2020-04-09,Mask - Red,1,12.0,0.0,0.0,0.0,12.0,2020-04-09,2020-04-09,Los Angeles,CA,,United States,Toddlers,Mask
+709,2020-04-09,Mask - Bananas on Pink on Pink,1,16.0,0.0,3.67,0.0,16.0,2020-04-09,2020-04-09,STEAMBOAT SPRINGS,CO,,United States,Teens and adults,Mask
+710,2020-04-09,Mask - Music Notes,1,15.0,0.0,3.46,0.0,15.0,2020-04-09,2020-04-09,Miami,FL,,United States,Teens and adults,Mask
+711,2020-04-09,Mask - Sketch Art,1,15.0,0.0,2.76,0.0,15.0,2020-04-09,2020-04-09,Flushing,NY,,United States,Teens and adults,Mask
+712,2020-04-09,Mask - Beautiful Garden,1,16.0,0.0,2.84,0.0,16.0,2020-04-09,2020-04-09,St.Louis,MO,,United States,Teens and adults,Mask
+713,2020-04-09,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-04-09,2020-04-09,St.Louis,MO,,United States,Teens and adults,Mask
+714,2020-04-09,Pads - Assorted Colors,1,50.0,2.74,0.0,0.0,50.0,2020-04-09,2020-04-09,Fort Meade,MD,,United States,,Pads
+715,2020-04-08,Mask - Gray,1,15.0,0.0,3.18,0.0,15.0,2020-04-08,2020-04-09,CARLSBAD,CA,,United States,Teens and adults,Mask
+716,2020-04-08,Mask - Dark Green,1,15.0,0.0,0.0,0.0,15.0,2020-04-08,2020-04-09,CARLSBAD,CA,,United States,Teens and adults,Mask
+717,2020-04-08,Mask - Gray,1,15.0,0.0,2.74,0.0,15.0,2020-04-08,2020-04-09,North Bethesda,MD,,United States,Teens and adults,Mask
+718,2020-04-08,Mask - Blue,1,15.0,0.0,0.0,0.0,15.0,2020-04-08,2020-04-09,North Bethesda,MD,,United States,Teens and adults,Mask
+719,2020-04-08,Mask - Beautiful Garden,1,16.0,0.0,2.93,0.0,16.0,2020-04-08,2020-04-09,Altus,OK,,United States,Teens and adults,Mask
+720,2020-04-08,Mask - Gustav Klimt,1,16.0,3.18,0.0,0.0,16.0,2020-04-08,2020-04-09,Northridge,CA,,United States,Teens and adults,Mask
+721,2020-04-08,Mask - Gustav Klimt II,1,16.0,0.0,0.0,0.0,16.0,2020-04-08,2020-04-09,Northridge,CA,,United States,Teens and adults,Mask
+722,2020-04-08,Mask - Flowers,1,16.0,0.0,0.0,0.0,16.0,2020-04-08,2020-04-09,Northridge,CA,,United States,Teens and adults,Mask
+723,2020-04-08,Mask - Flowers,1,16.0,0.0,3.18,0.0,16.0,2020-04-08,2020-04-08,San Miguel,CA,,United States,Teens and adults,Mask
+724,2020-04-08,Mask - Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-08,2020-04-08,San Miguel,CA,,United States,Teens and adults,Mask
+725,2020-04-08,Mask - Flowers,1,16.0,0.0,2.74,0.0,16.0,2020-04-08,2020-04-08,Chesapeake,VA,,United States,Teens and adults,Mask
+726,2020-04-08,Mask - Dark Green,1,15.0,0.0,2.84,0.0,15.0,2020-04-08,2020-04-08,CHICAGO,IL,,United States,Teens and adults,Mask
+727,2020-04-08,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-04-08,2020-04-08,CHICAGO,IL,,United States,Teens and adults,Mask
+728,2020-04-08,Mask - Beautiful Garden,1,16.0,0.0,3.18,0.0,16.0,2020-04-08,2020-04-08,LOS GATOS,CA,,United States,Teens and adults,Mask
+729,2020-04-08,Mask - Beautiful Garden,1,16.0,0.0,2.84,0.0,16.0,2020-04-08,2020-04-08,Golden Valley,MN,,United States,Teens and adults,Mask
+730,2020-04-08,Mask - Light Gray,1,15.0,0.0,2.74,0.0,15.0,2020-04-08,2020-04-08,WASHINGTON,DC,,United States,Teens and adults,Mask
+731,2020-04-08,Mask - Dark Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-08,2020-04-08,WASHINGTON,DC,,United States,Teens and adults,Mask
+732,2020-04-08,Unpaper Towels - Lemons,1,18.0,0.0,2.78,0.0,18.0,2020-04-08,2020-04-08,Eatonton,GA,,United States,,Unpaper Towels
+733,2020-04-08,Mask - Sketch Art,1,12.0,0.0,3.18,0.0,12.0,2020-04-08,2020-04-09,Sacramento,CA,,United States,Toddlers,Mask
+734,2020-04-08,One Mask Beautiful Garden,1,16.0,0.0,0.0,0.0,16.0,2020-04-08,2020-04-08,Kirkland,WA,,United States,,One Mask Beautiful Garden
+735,2020-04-08,Unpaper Towels - Rainbow,1,22.0,3.18,0.0,0.0,22.0,2020-04-08,2020-04-08,Los Angeles,CA,,United States,,Unpaper Towels
+736,2020-04-08,Mask - Beautiful Garden,1,16.0,0.0,0.0,0.0,16.0,2020-04-08,2020-04-08,Los Angeles,CA,,United States,Teens and adults,Mask
+737,2020-04-08,Mask - Dark Green,1,15.0,0.0,2.74,0.0,15.0,2020-04-08,2020-04-08,ARLINGTON,VA,,United States,Teens and adults,Mask
+738,2020-04-08,Mask - Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-08,2020-04-08,ARLINGTON,VA,,United States,Teens and adults,Mask
+739,2020-04-08,Unpaper Towels - Lemons,1,18.0,0.0,2.74,0.0,18.0,2020-04-08,2020-04-08,Williamsburg,VA,,United States,,Unpaper Towels
+740,2020-04-07,Mask - Blue,1,15.0,2.74,0.0,0.0,15.0,2020-04-07,2020-04-08,Ashburn,VA,,United States,Teens and adults,Mask
+741,2020-04-07,Mask - Sketch Art,2,15.0,0.0,0.0,0.0,30.0,2020-04-07,2020-04-08,Ashburn,VA,,United States,Teens and adults,Mask
+742,2020-04-07,Mask - Flowers,1,16.0,0.0,0.0,0.0,16.0,2020-04-07,2020-04-08,Ashburn,VA,,United States,Teens and adults,Mask
+743,2020-04-07,Mask - Sketch Art,1,15.0,0.0,8.42,0.0,15.0,2020-04-07,2020-04-07,SALT LAKE CITY,UT,,United States,Teens and adults,Mask
+744,2020-04-07,Mask - Gustav Klimt II,1,15.0,0.0,2.74,0.0,15.0,2020-04-07,2020-04-07,Richmond,VA,,United States,Teens and adults,Mask
+745,2020-04-07,Pads - Sunflowers on Acqua,1,45.0,3.52,0.0,0.0,45.0,2020-04-07,2020-04-07,MONTROSE,CO,,United States,,Pads
+746,2020-04-07,Strap - Banana on Pink,1,2.0,0.0,0.0,0.0,2.0,2020-04-07,2020-04-07,MONTROSE,CO,,United States,,Strap
+747,2020-04-06,Mask - Blue,2,15.0,0.0,2.78,0.0,30.0,2020-04-06,2020-04-07,Hingham,MA,,United States,Teens and adults,Mask
+748,2020-04-06,Mask - Bananas on Pink,1,15.0,0.0,2.78,0.0,15.0,2020-04-06,2020-04-07,Belmont,MA,,United States,Teens and adults,Mask
+749,2020-04-06,Mask - Bananas on Pink,1,15.0,0.0,2.78,0.0,15.0,2020-04-06,2020-04-06,CHARLESTON,SC,,United States,Teens and adults,Mask
+750,2020-04-06,Mask - Gray,2,12.0,0.0,2.78,0.0,24.0,2020-04-06,2020-04-06,Hingham,MA,,United States,Toddlers,Mask
+751,2020-04-06,Strap - Banana on Pink,1,2.0,0.0,3.26,0.0,2.0,2020-04-06,2020-04-06,New York,NY,,United States,,Strap
+752,2020-04-05,Unpaper Towels - Rainbow,1,22.0,0.0,2.93,0.0,22.0,2020-04-05,2020-04-07,Houston,TX,,United States,,Unpaper Towels
+753,2020-04-05,Mask - Yellow,1,14.0,0.0,2.84,0.0,14.0,2020-04-05,2020-04-05,Casselberry,FL,,United States,Kids,Mask
+754,2020-04-05,Mask - Blue,1,14.0,0.0,2.74,0.0,14.0,2020-04-05,2020-04-05,Cabin John,MD,,United States,pattern:7 - 13 years old,Mask
+755,2020-04-05,Mask - Red,1,15.0,0.0,7.8,0.0,15.0,2020-04-05,2020-04-05,Chicago,IL,,United States,Teens and adults,Mask
+756,2020-04-05,Mask - Green,1,12.0,0.0,2.76,0.0,12.0,2020-04-05,2020-04-05,PHILADELPHIA,PA,,United States,Toddlers,Mask
+757,2020-04-05,Unpaper Towels - Rainbow,2,22.0,3.25,0.0,0.0,44.0,2020-04-05,2020-04-05,Fenton,MI,,United States,,Unpaper Towels
+758,2020-04-05,Mask - Yellow,1,14.0,0.0,2.74,0.0,14.0,2020-04-05,2020-04-05,Washington,DC,,United States,Kids,Mask
+759,2020-04-04,Mask - Dark Green,1,12.0,0.0,2.74,0.0,12.0,2020-04-04,2020-04-05,WASHINGTON,DC,,United States,Toddlers,Mask
+760,2020-04-04,Mask - Black Stripes,1,15.0,0.0,2.74,0.0,15.0,2020-04-04,2020-04-04,Adelphi,MD,,United States,Teens and adults,Mask
+761,2020-04-04,Three Masks,1,45.0,0.0,0.0,0.0,45.0,2020-04-04,2020-04-06,New Orleans,LA,,United States,,Three Masks
+762,2020-04-04,Pads - Cat Lady,1,45.0,3.67,0.0,0.0,45.0,2020-04-04,2020-04-04,San Francisco,CA,,United States,,Pads
+763,2020-04-04,Pads - Blue Patches,1,45.0,0.0,0.0,0.0,45.0,2020-04-04,2020-04-04,San Francisco,CA,,United States,,Pads
+764,2020-04-04,5 Reusable Masks,1,75.0,0.0,0.0,0.0,75.0,2020-04-04,2020-04-06,HOUSTON,TX,,United States,,5 Reusable Masks
+765,2020-04-04,Mask - Gray,1,12.0,0.0,2.78,0.0,12.0,2020-04-04,2020-04-04,Sanford,ME,,United States,Toddlers,Mask
+766,2020-04-04,Mask - Green,1,12.0,0.0,2.93,0.0,12.0,2020-04-04,2020-04-06,HOUSTON,TX,,United States,Toddlers,Mask
+767,2020-04-04,Knot Bag - Rainbow,1,45.0,2.74,0.0,0.0,45.0,2020-04-04,2020-04-04,ROANOKE,VA,,United States,finish:medium,Knot Bag
+768,2020-04-04,3 Masks,1,45.0,0.0,0.0,0.0,45.0,2020-04-04,2020-04-06,Lexington,KY,,United States,,3 Masks
+769,2020-04-04,Unpaper Towels - Rainbow,1,22.0,3.25,0.0,0.0,22.0,2020-04-04,2020-04-04,Barberton,OH,,United States,,Unpaper Towels
+770,2020-04-04,Pads - Assorted Colors,1,50.0,0.0,0.0,0.0,50.0,2020-04-04,2020-04-04,Barberton,OH,,United States,,Pads
+771,2020-04-03,Mask - Yellow,1,15.0,0.0,2.84,0.0,15.0,2020-04-03,2020-04-05,CHICAGO,IL,,United States,Teens and adults,Mask
+772,2020-04-03,Mask - Blue and Gold,1,15.0,0.0,0.0,0.0,15.0,2020-04-03,2020-04-05,CHICAGO,IL,,United States,Teens and adults,Mask
+773,2020-04-03,Mask - Dark Green,1,14.0,0.0,2.84,0.0,14.0,2020-04-03,2020-04-05,CHICAGO,IL,,United States,Kids,Mask
+774,2020-04-03,Reusable Masks,1,30.0,0.0,3.5,0.0,30.0,2020-04-03,2020-04-06,Merced,CA,,United States,,Reusable Masks
+775,2020-04-03,Mask - Gray,1,14.0,0.0,3.18,0.0,14.0,2020-04-03,2020-04-05,Exeter,CA,,United States,Kids,Mask
+776,2020-04-03,Unpaper Towels - Lemons,1,18.0,4.46,0.0,0.0,18.0,2020-04-03,2020-04-05,Mission Viejo,CA,,United States,,Unpaper Towels
+777,2020-04-03,Sandwich Bag - Soft Blue,1,14.0,0.0,0.0,0.0,14.0,2020-04-03,2020-04-05,Mission Viejo,CA,,United States,,Sandwich Bag
+778,2020-04-03,Mask - Yellow,1,15.0,0.0,0.0,0.0,15.0,2020-04-03,2020-04-05,Mission Viejo,CA,,United States,Teens and adults,Mask
+779,2020-04-03,Mask - Music Notes,1,12.0,0.0,3.05,0.0,12.0,2020-04-03,2020-04-05,Thornton,CO,,United States,Toddlers,Mask
+780,2020-04-03,Mask - Sketch Art,1,15.0,0.0,2.84,0.0,15.0,2020-04-03,2020-04-04,Marco Island,FL,,United States,Teens and adults,Mask
+781,2020-04-03,Mask - Red,1,15.0,0.0,2.78,0.0,15.0,2020-04-03,2020-04-05,NASHVILLE,TN,,United States,Teens and adults,Mask
+782,2020-04-03,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-04-03,2020-04-05,NASHVILLE,TN,,United States,Teens and adults,Mask
+783,2020-04-03,Mask - Light Gray,1,15.0,0.0,2.74,0.0,15.0,2020-04-03,2020-04-05,Falls Church,VA,,United States,Teens and adults,Mask
+784,2020-04-03,Mask - Dark Green,1,15.0,0.0,0.0,0.0,15.0,2020-04-03,2020-04-05,Falls Church,VA,,United States,Teens and adults,Mask
+785,2020-04-03,Unpaper Towels - Rainbow,1,22.0,0.0,2.84,0.0,22.0,2020-04-03,2020-04-04,Topeka,KS,,United States,,Unpaper Towels
+786,2020-04-03,Mask - Green,1,15.0,0.0,7.98,0.0,15.0,2020-04-03,2020-04-05,Austin,TX,,United States,Teens and adults,Mask
+787,2020-04-03,Mask - Sketch Art,1,15.0,0.0,2.93,0.0,15.0,2020-04-03,2020-04-05,Allen,TX,,United States,Teens and adults,Mask
+788,2020-04-03,Mask - Dark Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-03,2020-04-05,Allen,TX,,United States,Teens and adults,Mask
+789,2020-04-03,Mask - Dark Gray,1,15.0,0.0,2.74,0.0,15.0,2020-04-03,2020-04-05,Fairfax,VA,,United States,Teens and adults,Mask
+790,2020-04-03,Mask - Light Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-03,2020-04-05,Fairfax,VA,,United States,Teens and adults,Mask
+791,2020-04-03,Mask - Blue and Gold,1,15.0,2.74,0.0,0.0,15.0,2020-04-03,2020-04-05,Gaithersburg,MD,,United States,Teens and adults,Mask
+792,2020-04-03,Mask - Gustav Klimt,1,15.0,0.0,0.0,0.0,15.0,2020-04-03,2020-04-05,Gaithersburg,MD,,United States,Teens and adults,Mask
+793,2020-04-03,Mask - Music Notes,1,14.0,0.0,0.0,0.0,14.0,2020-04-03,2020-04-05,Gaithersburg,MD,,United States,Kids,Mask
+794,2020-04-03,Mask - Light Purple,2,15.0,2.78,0.0,0.0,30.0,2020-04-03,2020-04-05,CARMEL,NY,,United States,Teens and adults,Mask
+795,2020-04-03,Mask - Green,1,15.0,0.0,0.0,0.0,15.0,2020-04-03,2020-04-05,CARMEL,NY,,United States,Teens and adults,Mask
+796,2020-04-03,Mask - Blue,1,15.0,0.0,3.18,0.0,15.0,2020-04-03,2020-04-05,Modesto,CA,,United States,Teens and adults,Mask
+797,2020-04-03,Mask - Ivory,1,15.0,0.0,2.74,0.0,15.0,2020-04-03,2020-04-05,FUQUAY VARINA,NC,,United States,Teens and adults,Mask
+798,2020-04-03,Mask - Flowers,1,15.0,0.0,2.74,0.0,15.0,2020-04-03,2020-04-05,Efland,NC,,United States,Teens and adults,Mask
+799,2020-04-03,Mask - Gray,1,15.0,3.05,0.0,0.0,15.0,2020-04-03,2020-04-05,Denver,CO,,United States,Teens and adults,Mask
+800,2020-04-03,Mask - Dark Green,1,14.0,0.0,0.0,0.0,14.0,2020-04-03,2020-04-05,Denver,CO,,United States,Kids,Mask
+801,2020-04-03,Mask - Flowers,1,15.0,0.0,0.0,0.0,15.0,2020-04-03,2020-04-05,Denver,CO,,United States,Teens and adults,Mask
+802,2020-04-03,Mask - Dark Green,1,12.0,0.0,0.0,0.0,12.0,2020-04-03,2020-04-05,Denver,CO,,United States,Toddlers,Mask
+803,2020-04-03,Mask - Dark Green,1,15.0,0.0,2.76,0.0,15.0,2020-04-03,2020-04-05,Glenshaw,PA,,United States,Teens and adults,Mask
+804,2020-04-03,Mask - Ivory,1,15.0,0.0,3.18,0.0,15.0,2020-04-03,2020-04-04,Lompoc,CA,,United States,Teens and adults,Mask
+805,2020-04-03,Mask - Gustav Klimt II,1,15.0,0.0,2.74,0.0,15.0,2020-04-03,2020-04-05,Brandywine,MD,,United States,Teens and adults,Mask
+806,2020-04-03,Mask - Sketch Art,1,15.0,0.0,2.84,0.0,15.0,2020-04-03,2020-04-04,Mankato,MN,,United States,Teens and adults,Mask
+807,2020-04-03,Mask - Gustav Klimt II,1,15.0,0.0,2.78,0.0,15.0,2020-04-03,2020-04-05,MANCHESTER,MA,,United States,Teens and adults,Mask
+808,2020-04-03,Mask - Sketch Art,1,15.0,0.0,2.78,0.0,15.0,2020-04-03,2020-04-04,Londonderry,NH,,United States,Teens and adults,Mask
+809,2020-04-03,Mask - Sketch Art,1,15.0,0.0,2.93,0.0,15.0,2020-04-03,2020-04-04,Tyler,TX,,United States,Teens and adults,Mask
+810,2020-04-03,Mask - Music Notes,2,15.0,0.0,2.74,0.0,30.0,2020-04-03,2020-04-04,Ashburn,VA,,United States,Teens and adults,Mask
+811,2020-04-03,Mask - Gustav Klimt,2,15.0,0.0,2.78,0.0,30.0,2020-04-03,2020-04-04,BRENTWOOD,TN,,United States,Teens and adults,Mask
+812,2020-04-03,Mask - Sketch Art,1,15.0,0.0,7.98,0.0,15.0,2020-04-03,2020-04-04,Denton,TX,,United States,Teens and adults,Mask
+813,2020-04-03,Mask - Dark Green,1,15.0,2.74,0.0,0.0,15.0,2020-04-03,2020-04-04,Washington,DC,,United States,Teens and adults,Mask
+814,2020-04-03,Mask - Blue,1,15.0,0.0,0.0,0.0,15.0,2020-04-03,2020-04-04,Washington,DC,,United States,Teens and adults,Mask
+815,2020-04-03,Mask - Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-03,2020-04-04,Washington,DC,,United States,Teens and adults,Mask
+816,2020-04-03,Mask - Black Stripes,1,15.0,0.0,3.18,0.0,15.0,2020-04-03,2020-04-04,Oceanside,CA,,United States,Teens and adults,Mask
+817,2020-04-03,Mask - Black Stripes,1,15.0,0.0,2.93,0.0,15.0,2020-04-03,2020-04-05,SPRING,TX,,United States,Teens and adults,Mask
+818,2020-04-03,Pads - Blue Patches,1,45.0,3.18,0.0,0.0,45.0,2020-04-03,2020-04-06,Santa Ana,CA,,United States,,Pads
+819,2020-04-03,Mask - Green,1,12.0,0.0,2.74,0.0,12.0,2020-04-03,2020-04-05,Washington,DC,,United States,Toddlers,Mask
+820,2020-04-03,Mask - Ivory,1,12.0,0.0,2.78,0.0,12.0,2020-04-03,2020-04-04,Wilton,CT,,United States,Toddlers,Mask
+821,2020-04-03,Unpaper Towels - Rainbow,2,22.0,3.23,0.0,0.0,44.0,2020-04-03,2020-04-04,Ocean,NJ,,United States,,Unpaper Towels
+822,2020-04-03,Mask - Music Notes,1,12.0,0.0,2.78,0.0,12.0,2020-04-03,2020-04-03,Framingham,MA,,United States,Toddlers,Mask
+823,2020-04-03,Mask - Ivory,2,15.0,0.0,2.78,0.0,30.0,2020-04-03,2020-04-04,LOUISVILLE,KY,,United States,Teens and adults,Mask
+824,2020-04-03,Mask - Black Stripes,1,12.0,0.0,2.76,0.0,12.0,2020-04-03,2020-04-03,Malvern,PA,,United States,Toddlers,Mask
+825,2020-04-03,Mask - Ivory,1,15.0,0.0,2.78,0.0,15.0,2020-04-03,2020-04-04,Columbia,SC,,United States,Teens and adults,Mask
+826,2020-04-03,Mask - Ivory,1,15.0,0.0,2.74,0.0,15.0,2020-04-03,2020-04-04,Cleveland,NC,,United States,Teens and adults,Mask
+827,2020-04-03,Mask - Green,1,14.0,0.0,3.18,0.0,14.0,2020-04-03,2020-04-04,San Francisco,CA,,United States,Kids,Mask
+828,2020-04-03,Reusable Mask,1,15.0,0.0,2.0,0.0,15.0,2020-04-03,2020-04-04,Kirkland,WA,,United States,,Reusable Mask
+829,2020-04-02,Mask - Yellow,1,15.0,0.0,2.93,0.0,15.0,2020-04-02,2020-04-04,Dallas,TX,,United States,Teens and adults,Mask
+830,2020-04-02,Cotton Pads - White,1,12.0,0.0,3.18,0.0,12.0,2020-04-02,2020-04-05,Monrovia,CA,,United States,,Cotton Pads
+831,2020-04-02,Mask - Dark Gray,1,12.0,0.0,2.78,0.0,12.0,2020-04-02,2020-04-04,ALBANY,NY,,United States,Toddlers,Mask
+832,2020-04-02,Mask - Light Purple,1,12.0,0.0,2.93,0.0,12.0,2020-04-02,2020-04-04,Houston,TX,,United States,Toddlers,Mask
+833,2020-04-02,Mask - Gray,1,12.0,0.0,2.93,0.0,12.0,2020-04-02,2020-04-04,Houston,TX,,United States,Toddlers,Mask
+834,2020-04-02,Mask - Black Stripes,2,15.0,0.0,2.78,0.0,30.0,2020-04-02,2020-04-04,Watertown,MA,,United States,Teens and adults,Mask
+835,2020-04-02,Mask - Music Notes,1,15.0,0.0,3.18,0.0,15.0,2020-04-02,2020-04-04,Cotati,CA,,United States,Teens and adults,Mask
+836,2020-04-02,Mask - Sketch Art,1,15.0,0.0,2.78,0.0,15.0,2020-04-02,2020-04-04,Arlington,MA,,United States,Teens and adults,Mask
+837,2020-04-02,Mask - Gustav Klimt II,1,15.0,0.0,3.18,0.0,15.0,2020-04-02,2020-04-04,Bend,OR,,United States,Teens and adults,Mask
+838,2020-04-02,Mask - Music Notes,1,14.0,3.18,0.0,0.0,14.0,2020-04-02,2020-04-03,Costa Mesa,CA,,United States,Kids,Mask
+839,2020-04-02,Mask - Blue and Gold,1,15.0,0.0,0.0,0.0,15.0,2020-04-02,2020-04-03,Costa Mesa,CA,,United States,Teens and adults,Mask
+840,2020-04-02,Mask - Black Stripes,1,14.0,0.0,0.0,0.0,14.0,2020-04-02,2020-04-03,Costa Mesa,CA,,United States,Kids,Mask
+841,2020-04-02,Mask - Bananas on Pink,1,12.0,0.0,3.18,0.0,12.0,2020-04-02,2020-04-04,Woodland,WA,,United States,Toddlers,Mask
+842,2020-04-02,Mask - Bananas on Pink,1,14.0,0.0,0.0,0.0,14.0,2020-04-02,2020-04-04,Woodland,WA,,United States,Kids,Mask
+843,2020-04-02,Mask - Gustav Klimt,1,15.0,0.0,2.76,0.0,15.0,2020-04-02,2020-04-04,PITMAN,NJ,,United States,Teens and adults,Mask
+844,2020-04-02,Mask - Dark Gray,1,15.0,0.0,2.74,0.0,15.0,2020-04-02,2020-04-04,WASHINGTON,DC,,United States,Teens and adults,Mask
+845,2020-04-02,Mask - Light Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-02,2020-04-04,WASHINGTON,DC,,United States,Teens and adults,Mask
+846,2020-04-02,Mask - Gray,1,15.0,0.0,2.84,0.0,15.0,2020-04-02,2020-04-04,Fairway,KS,,United States,Teens and adults,Mask
+847,2020-04-02,Mask - Dark Green,1,15.0,0.0,3.18,0.0,15.0,2020-04-02,2020-04-04,SEATTLE,WA,,United States,Teens and adults,Mask
+848,2020-04-02,Mask - Bananas on Pink,1,15.0,0.0,3.18,0.0,15.0,2020-04-02,2020-04-03,Lehi,UT,,United States,Teens and adults,Mask
+849,2020-04-02,Mask - Blue and Gold,1,15.0,2.74,0.0,0.0,15.0,2020-04-02,2020-04-04,GREAT FALLS,VA,,United States,Teens and adults,Mask
+850,2020-04-02,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-04-02,2020-04-04,GREAT FALLS,VA,,United States,Teens and adults,Mask
+851,2020-04-02,Mask - Gustav Klimt,1,15.0,0.0,0.0,0.0,15.0,2020-04-02,2020-04-04,GREAT FALLS,VA,,United States,Teens and adults,Mask
+852,2020-04-01,Mask - Gray,1,12.0,0.0,2.93,0.0,12.0,2020-04-01,2020-04-03,Houston,TX,,United States,Toddlers,Mask
+853,2020-04-01,Mask - Gray,1,15.0,0.0,2.93,0.0,15.0,2020-04-01,2020-04-03,Houston,TX,,United States,Teens and adults,Mask
+854,2020-04-01,Mask - Gray,1,15.0,0.0,2.74,0.0,15.0,2020-04-01,2020-04-03,Leesburg,VA,,United States,Teens and adults,Mask
+855,2020-04-01,Mask - Music Notes,2,15.0,0.0,2.76,0.0,30.0,2020-04-01,2020-04-02,Philadelphia,PA,,United States,Teens and adults,Mask
+856,2020-04-01,Mask - Sketch Art,1,15.0,2.93,0.0,0.0,15.0,2020-04-01,2020-04-03,HOUSTON,TX,,United States,Teens and adults,Mask
+857,2020-04-01,Mask - Green,1,14.0,0.0,0.0,0.0,14.0,2020-04-01,2020-04-03,HOUSTON,TX,,United States,Kids,Mask
+858,2020-04-01,Mask - Light Gray,1,14.0,0.0,0.0,0.0,14.0,2020-04-01,2020-04-03,HOUSTON,TX,,United States,Kids,Mask
+859,2020-04-01,Mask - Dark Gray,1,14.0,2.76,0.0,0.0,14.0,2020-04-01,2020-04-03,Brooklyn,NY,,United States,Kids,Mask
+860,2020-04-01,Mask - Ivory,1,14.0,0.0,0.0,0.0,14.0,2020-04-01,2020-04-03,Brooklyn,NY,,United States,Kids,Mask
+861,2020-04-01,Mask - Yellow,1,15.0,0.0,0.0,0.0,15.0,2020-04-01,2020-04-03,Brooklyn,NY,,United States,Teens and adults,Mask
+862,2020-04-01,Mask - Red,1,15.0,0.0,0.0,0.0,15.0,2020-04-01,2020-04-03,Brooklyn,NY,,United States,Teens and adults,Mask
+863,2020-04-01,Mask - Dark Green,1,12.0,3.94,0.0,0.0,12.0,2020-04-01,2020-04-02,Los Angeles,CA,,United States,Toddlers,Mask
+864,2020-04-01,Mask - Dark Green,2,15.0,0.0,0.0,0.0,30.0,2020-04-01,2020-04-02,Los Angeles,CA,,United States,Teens and adults,Mask
+865,2020-04-01,Mask - Light Purple,1,14.0,0.0,3.54,0.0,14.0,2020-04-01,2020-04-02,WILTON,CT,,United States,Kids,Mask
+866,2020-04-01,Mask - Light Purple,1,15.0,0.0,0.0,0.0,15.0,2020-04-01,2020-04-02,WILTON,CT,,United States,Teens and adults,Mask
+867,2020-04-01,Mask - Light Purple,1,15.0,3.54,0.0,0.0,15.0,2020-04-01,2020-04-02,Milton,MA,,United States,Teens and adults,Mask
+868,2020-04-01,Mask - Ivory,2,15.0,0.0,0.0,0.0,30.0,2020-04-01,2020-04-02,Milton,MA,,United States,Teens and adults,Mask
+869,2020-04-01,Mask - Music Notes,2,15.0,0.0,3.18,0.0,30.0,2020-04-01,2020-04-02,Roseville,CA,,United States,Teens and adults,Mask
+870,2020-04-01,Mask - Gustav Klimt II,3,15.0,3.5,0.0,0.0,45.0,2020-04-01,2020-04-02,Toano,VA,,United States,Teens and adults,Mask
+871,2020-04-01,Mask - Yellow,1,15.0,0.0,3.54,0.0,15.0,2020-04-01,2020-04-02,Pendleton,SC,,United States,Teens and adults,Mask
+872,2020-04-01,Mask - Gustav Klimt,1,15.0,0.0,0.0,0.0,15.0,2020-04-01,2020-04-02,Pendleton,SC,,United States,Teens and adults,Mask
+873,2020-04-01,Mask - Light Gray,1,15.0,0.0,3.54,0.0,15.0,2020-04-01,2020-04-02,Cincinnati,OH,,United States,Teens and adults,Mask
+874,2020-04-01,Mask - Sketch Art,1,15.0,0.0,3.94,0.0,15.0,2020-04-01,2020-04-02,Tigard,OR,,United States,Teens and adults,Mask
+875,2020-04-01,Mask - Dark Green,1,14.0,0.0,3.94,0.0,14.0,2020-04-01,2020-04-02,Marina Del Rey,CA,,United States,Kids,Mask
+876,2020-04-01,Mask - Red,1,15.0,0.0,3.6,0.0,15.0,2020-04-01,2020-04-02,Minneapolis,MN,,United States,Teens and adults,Mask
+877,2020-04-01,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-04-01,2020-04-02,Minneapolis,MN,,United States,Teens and adults,Mask
+878,2020-04-01,Mask - Bananas on Pink,1,15.0,0.0,2.84,0.0,15.0,2020-04-01,2020-04-02,Raytown,MO,,United States,Teens and adults,Mask
+879,2020-04-01,Mask - Green,1,15.0,0.0,3.5,0.0,15.0,2020-04-01,2020-04-02,Richmond,VA,,United States,Teens and adults,Mask
+880,2020-04-01,Mask - Yellow,1,15.0,0.0,0.0,0.0,15.0,2020-04-01,2020-04-02,Richmond,VA,,United States,Teens and adults,Mask
+881,2020-04-01,Mask - Green,1,15.0,0.0,3.5,0.0,15.0,2020-04-01,2020-04-02,Washington,DC,,United States,Teens and adults,Mask
+882,2020-04-01,Mask - Yellow,1,15.0,0.0,0.0,0.0,15.0,2020-04-01,2020-04-02,Washington,DC,,United States,Teens and adults,Mask
+883,2020-04-01,Mask - Light Gray,2,15.0,0.0,3.6,0.0,30.0,2020-04-01,2020-04-02,Northbrook,IL,,United States,Teens and adults,Mask
+884,2020-04-01,Pads - Watercolor Rainbow,1,45.0,3.6,0.0,0.0,45.0,2020-04-01,2020-04-01,Boca Raton,FL,,United States,,Pads
+885,2020-04-01,Mask - Blue,2,15.0,3.5,0.0,0.0,30.0,2020-04-01,2020-04-02,Fairfax,VA,,United States,Teens and adults,Mask
+886,2020-04-01,Mask - Dark Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-01,2020-04-02,Fairfax,VA,,United States,Teens and adults,Mask
+887,2020-04-01,Mask - Flowers,1,15.0,0.0,0.0,0.0,15.0,2020-04-01,2020-04-02,Fairfax,VA,,United States,Teens and adults,Mask
+888,2020-04-01,Mask - Dark Green,2,15.0,0.0,3.69,0.0,30.0,2020-04-01,2020-04-02,FRISCO,TX,,United States,Teens and adults,Mask
+889,2020-04-01,Mask - Dark Green,1,15.0,0.0,3.81,0.0,15.0,2020-04-01,2020-04-02,Denver,CO,,United States,Teens and adults,Mask
+890,2020-04-01,Mask - Dark Green,1,15.0,0.0,3.94,0.0,15.0,2020-04-01,2020-04-02,SANTA MONICA,CA,,United States,Teens and adults,Mask
+891,2020-04-01,Mask - Ivory,3,15.0,3.6,0.0,0.0,45.0,2020-04-01,2020-04-02,Maple Lake,MN,,United States,Teens and adults,Mask
+892,2020-04-01,Mask - Dark Gray,1,15.0,0.0,3.54,0.0,15.0,2020-04-01,2020-04-01,East Walpole,MA,,United States,Teens and adults,Mask
+893,2020-04-01,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-04-01,2020-04-01,East Walpole,MA,,United States,Teens and adults,Mask
+894,2020-04-01,Mask - Gray,2,15.0,0.0,3.69,0.0,30.0,2020-04-01,2020-04-01,Dallas,TX,,United States,Teens and adults,Mask
+895,2020-04-01,Mask - Dark Gray,1,15.0,0.0,3.6,0.0,15.0,2020-04-01,2020-04-01,Prairie Village,KS,,United States,Teens and adults,Mask
+896,2020-04-01,Mask - Flowers,1,15.0,3.94,0.0,0.0,15.0,2020-04-01,2020-04-03,Lafayette,CA,,United States,Teens and adults,Mask
+897,2020-04-01,Mask - Gustav Klimt,1,15.0,0.0,0.0,0.0,15.0,2020-04-01,2020-04-03,Lafayette,CA,,United States,Teens and adults,Mask
+898,2020-04-01,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-04-01,2020-04-03,Lafayette,CA,,United States,Teens and adults,Mask
+899,2020-04-01,Mask - Flowers,1,15.0,2.93,0.0,0.0,15.0,2020-04-01,2020-04-01,Dallas,TX,,United States,Teens and adults,Mask
+900,2020-04-01,Mask - Gray,1,15.0,0.0,0.0,0.0,15.0,2020-04-01,2020-04-01,Dallas,TX,,United States,Teens and adults,Mask
+901,2020-04-01,Mask - Bananas on Pink,1,15.0,0.0,0.0,0.0,15.0,2020-04-01,2020-04-01,Dallas,TX,,United States,Teens and adults,Mask
+902,2020-04-01,Mask - Light Purple,3,15.0,3.54,0.0,0.0,45.0,2020-04-01,2020-04-01,Sherborn,MA,,United States,Teens and adults,Mask
+903,2020-04-01,Mask - Dark Green,4,15.0,3.54,0.0,0.0,60.0,2020-04-01,2020-04-01,Buffalo,NY,,United States,Teens and adults,Mask
+904,2020-04-01,Mask - Light Purple,1,14.0,0.0,3.54,0.0,14.0,2020-04-01,2020-04-01,Elkhart,IN,,United States,Kids,Mask
+905,2020-04-01,Mask - Light Purple,1,12.0,0.0,0.0,0.0,12.0,2020-04-01,2020-04-01,Elkhart,IN,,United States,Toddlers,Mask
+906,2020-04-01,Napkins - Camping,1,10.0,11.19,0.0,0.0,10.0,2020-04-01,2020-04-01,Fairview,OR,,United States,,Napkins
+907,2020-04-01,Napkins - Sloths,1,10.0,0.0,0.0,0.0,10.0,2020-04-01,2020-04-01,Fairview,OR,,United States,,Napkins
+908,2020-04-01,Napkins - Llamas,1,18.0,0.0,0.0,0.0,18.0,2020-04-01,2020-04-01,Fairview,OR,,United States,,Napkins
+909,2020-04-01,Napkins - Hedgehogs,1,10.0,0.0,0.0,0.0,10.0,2020-04-01,2020-04-01,Fairview,OR,,United States,,Napkins
+910,2020-04-01,Unpaper Towels - Oranges,1,18.0,0.0,0.0,0.0,18.0,2020-04-01,2020-04-01,Fairview,OR,,United States,,Unpaper Towels
+911,2020-04-01,Unpaper Towels - Lemons,1,18.0,0.0,0.0,0.0,18.0,2020-04-01,2020-04-01,Fairview,OR,,United States,,Unpaper Towels
+912,2020-04-01,Mask - Music Notes,1,15.0,0.0,2.84,0.0,15.0,2020-04-01,2020-04-01,Pensacola,FL,,United States,Teens and adults,Mask
+913,2020-04-01,Mask - Black Stripes,1,15.0,0.0,3.5,0.0,15.0,2020-04-01,2020-04-01,Millersville,MD,,United States,Teens and adults,Mask
+914,2020-04-01,Mask - Dark Green,2,15.0,0.0,3.94,0.0,30.0,2020-04-01,2020-04-01,Foster City,CA,,United States,Teens and adults,Mask
+915,2020-04-01,Mask - Dark Green,1,12.0,3.5,0.0,0.0,12.0,2020-04-01,2020-04-01,Greensboro,NC,,United States,Toddlers,Mask
+916,2020-04-01,Mask - Dark Green,2,15.0,0.0,0.0,0.0,30.0,2020-04-01,2020-04-01,Greensboro,NC,,United States,Teens and adults,Mask
+917,2020-04-01,Mask - Dark Green,1,15.0,0.0,8.32,0.0,15.0,2020-04-01,2020-04-01,Cohoes,NY,,United States,Teens and adults,Mask
+918,2020-04-01,Mask - Dark Green,1,15.0,3.69,0.0,0.0,15.0,2020-04-01,2020-04-01,San antonio,TX,,United States,Teens and adults,Mask
+919,2020-04-01,Mask - Bananas on Pink,1,15.0,0.0,2.93,0.0,15.0,2020-04-01,2020-04-01,Tulsa,OK,,United States,Teens and adults,Mask
+920,2020-03-31,Mask - Dark Green,1,15.0,0.0,8.74,0.0,15.0,2020-03-31,2020-04-01,San antonio,TX,,United States,Teens and adults,Mask
+921,2020-03-31,Custom order,1,36.0,3.52,0.0,0.0,36.0,2020-03-31,2020-04-01,Flushing,NY,,United States,Teens and adults,Custom order
+922,2020-03-31,Mask - Light Purple,3,15.0,3.94,0.0,0.0,45.0,2020-03-31,2020-04-01,ENCINITAS,CA,,United States,Teens and adults,Mask
+923,2020-03-31,Mask - Dark Green,2,15.0,0.0,3.94,0.0,30.0,2020-03-31,2020-04-01,Lake Elsinore,CA,,United States,Teens and adults,Mask
+924,2020-03-31,Mask - Blue and Gold,2,15.0,0.0,2.78,0.0,30.0,2020-03-31,2020-04-01,Asheville,NC,,United States,Teens and adults,Mask
+925,2020-03-31,Mask - Light Gray,1,15.0,0.0,3.5,0.0,15.0,2020-03-31,2020-04-01,VIENNA,VA,,United States,Teens and adults,Mask
+926,2020-03-31,Mask - Green,1,15.0,0.0,0.0,0.0,15.0,2020-03-31,2020-04-01,VIENNA,VA,,United States,Teens and adults,Mask
+927,2020-03-31,Mask - Dark Gray,2,15.0,0.0,3.69,0.0,30.0,2020-03-31,2020-04-01,Fort worth,TX,,United States,Teens and adults,Mask
+928,2020-03-31,Mask - Light Purple,1,14.0,0.0,3.5,0.0,14.0,2020-03-31,2020-03-31,Woodbridge,VA,,United States,Kids,Mask
+929,2020-03-31,Mask - Music Notes,1,15.0,0.0,2.78,0.0,15.0,2020-03-31,2020-04-01,Miamisburg,OH,,United States,Teens and adults,Mask
+930,2020-03-31,Cotton Pads - White,1,12.0,3.21,0.0,0.0,12.0,2020-03-31,2020-04-01,Richmond,VA,,United States,,Cotton Pads
+931,2020-03-31,Mask - Music Notes,1,15.0,0.0,0.0,0.0,15.0,2020-03-31,2020-04-01,Richmond,VA,,United States,Teens and adults,Mask
+932,2020-03-31,Mask - Black Stripes,1,15.0,0.0,0.0,0.0,15.0,2020-03-31,2020-04-01,Richmond,VA,,United States,Teens and adults,Mask
+933,2020-03-31,Mask - Bananas on Pink,2,15.0,0.0,2.76,0.0,30.0,2020-03-31,2020-03-31,UNION CITY,NJ,,United States,Teens and adults,Mask
+934,2020-03-31,Mask - Dark Green,2,15.0,0.0,8.32,0.0,30.0,2020-03-31,2020-03-31,New London,NH,,United States,Teens and adults,Mask
+935,2020-03-31,Mask - Light Purple,2,15.0,0.0,3.5,0.0,30.0,2020-03-31,2020-03-31,HANOVER,MD,,United States,Teens and adults,Mask
+936,2020-03-31,Mask - Bananas on Pink,1,15.0,0.0,2.93,0.0,15.0,2020-03-31,2020-03-31,HOUSTON,TX,,United States,Teens and adults,Mask
+937,2020-03-31,Mask - Sketch Art,1,15.0,0.0,3.81,0.0,15.0,2020-03-31,2020-03-31,Longmont,CO,,United States,Teens and adults,Mask
+938,2020-03-31,Mask - Blue,1,15.0,0.0,3.52,0.0,15.0,2020-03-31,2020-03-31,Philadelphia,PA,,United States,Teens and adults,Mask
+939,2020-03-31,Mask - Gray,1,15.0,0.0,0.0,0.0,15.0,2020-03-31,2020-03-31,Philadelphia,PA,,United States,Teens and adults,Mask
+940,2020-03-31,Mask - Gray,1,15.0,0.0,3.54,0.0,15.0,2020-03-31,2020-03-31,REDDING,CT,,United States,Teens and adults,Mask
+941,2020-03-31,Mask - Dark Green,1,15.0,0.0,0.0,0.0,15.0,2020-03-31,2020-03-31,REDDING,CT,,United States,Teens and adults,Mask
+942,2020-03-31,Mask - Sketch Art,1,15.0,0.0,3.54,0.0,15.0,2020-03-31,2020-03-31,Athens,GA,,United States,Teens and adults,Mask
+943,2020-03-31,Unpaper Towels - Rainbow,1,22.0,0.0,3.54,0.0,22.0,2020-03-31,2020-03-31,Fenton,MI,,United States,,Unpaper Towels
+944,2020-03-31,Mask - Dark Gray,2,15.0,3.5,0.0,0.0,30.0,2020-03-31,2020-03-31,Vienna,VA,,United States,Teens and adults,Mask
+945,2020-03-31,Mask - Gray,2,15.0,0.0,0.0,0.0,30.0,2020-03-31,2020-03-31,Vienna,VA,,United States,Teens and adults,Mask
+946,2020-03-31,Mask - Blue and Gold,1,15.0,0.0,2.74,0.0,15.0,2020-03-31,2020-03-31,Hampton,VA,,United States,Teens and adults,Mask
+947,2020-03-31,Mask - Bananas on Pink,1,14.0,3.18,0.0,0.0,14.0,2020-03-31,2020-03-31,Portland ,OR,,United States,Kids,Mask
+948,2020-03-31,Mask - Yellow,1,14.0,0.0,0.0,0.0,14.0,2020-03-31,2020-03-31,Portland ,OR,,United States,Kids,Mask
+949,2020-03-31,Mask - Light Gray,2,15.0,0.0,0.0,0.0,30.0,2020-03-31,2020-03-31,Portland ,OR,,United States,Teens and adults,Mask
+950,2020-03-31,Mask - Bananas on Pink,1,12.0,3.67,0.0,0.0,12.0,2020-03-31,2020-03-31,Piedmont,CA,,United States,Toddlers,Mask
+951,2020-03-31,Mask - Light Purple,1,12.0,0.0,0.0,0.0,12.0,2020-03-31,2020-03-31,Piedmont,CA,,United States,Toddlers,Mask
+952,2020-03-31,Mask - Dark Green,1,14.0,0.0,0.0,0.0,14.0,2020-03-31,2020-03-31,Piedmont,CA,,United States,Kids,Mask
+953,2020-03-31,Mask - Black Stripes,1,15.0,0.0,0.0,0.0,15.0,2020-03-31,2020-03-31,Piedmont,CA,,United States,Teens and adults,Mask
+954,2020-03-31,Mask - Flowers,1,15.0,0.0,0.0,0.0,15.0,2020-03-31,2020-03-31,Piedmont,CA,,United States,Teens and adults,Mask
+955,2020-03-31,Mask - Blue,1,15.0,0.0,0.0,0.0,15.0,2020-03-31,2020-03-31,Piedmont,CA,,United States,Teens and adults,Mask
+956,2020-03-31,Mask - Yellow,1,12.0,0.0,0.0,0.0,12.0,2020-03-31,2020-03-31,Piedmont,CA,,United States,Toddlers,Mask
+957,2020-03-30,Mask - Flowers,1,15.0,3.52,0.0,0.0,15.0,2020-03-30,2020-03-31,Flushing,NY,,United States,Teens and adults,Mask
+958,2020-03-30,Mask - Dark Green,1,15.0,0.0,0.0,0.0,15.0,2020-03-30,2020-03-31,Flushing,NY,,United States,Teens and adults,Mask
+959,2020-03-30,Mask - Light Purple,1,15.0,0.0,0.0,0.0,15.0,2020-03-30,2020-03-31,Flushing,NY,,United States,Teens and adults,Mask
+960,2020-03-30,Mask - Music Notes,1,15.0,2.78,0.0,0.0,15.0,2020-03-30,2020-03-31,Manorville,NY,,United States,Teens and adults,Mask
+961,2020-03-30,Mask - Dark Green,1,15.0,0.0,0.0,0.0,15.0,2020-03-30,2020-03-31,Manorville,NY,,United States,Teens and adults,Mask
+962,2020-03-30,Mask - Blue,1,15.0,0.0,0.0,0.0,15.0,2020-03-30,2020-03-31,Manorville,NY,,United States,Teens and adults,Mask
+963,2020-03-30,Mask - Bananas on Pink,1,15.0,0.0,2.74,0.0,15.0,2020-03-30,2020-03-31,Washington,DC,,United States,Teens and adults,Mask
+964,2020-03-30,Mask - Sketch Art,1,15.0,0.0,0.0,0.0,15.0,2020-03-30,2020-03-31,Washington,DC,,United States,Teens and adults,Mask
+965,2020-03-30,Mask - Blue,1,15.0,0.0,3.54,0.0,15.0,2020-03-30,2020-03-31,Sharon,MA,,United States,Teens and adults,Mask
+966,2020-03-30,Mask - Dark Green,2,15.0,0.0,3.54,0.0,30.0,2020-03-30,2020-03-31,Sharon,MA,,United States,Teens and adults,Mask
+967,2020-03-30,Mask - Gray,2,15.0,3.94,0.0,0.0,30.0,2020-03-30,2020-03-30,Reno,NV,,United States,Teens and adults,Mask
+968,2020-03-30,Mask - Ivory,2,15.0,0.0,0.0,0.0,30.0,2020-03-30,2020-03-30,Reno,NV,,United States,Teens and adults,Mask
+969,2020-03-30,Medium Wet Bag - Gustav Klimt,1,20.0,4.08,0.0,0.0,20.0,2020-03-30,2020-03-30,Waterloo,IA,,United States,finish:with strap,Medium Wet Bag
+970,2020-03-30,Pads - Cat Lady,1,45.0,0.0,0.0,0.0,45.0,2020-03-30,2020-03-30,Waterloo,IA,,United States,,Pads
+971,2020-03-30,Mask - Sketch Art,1,15.0,0.0,3.6,0.0,15.0,2020-03-30,2020-03-30,Winnetka,IL,,United States,Teens and adults,Mask
+972,2020-03-30,Mask - Dark Green,1,15.0,0.0,3.54,0.0,15.0,2020-03-30,2020-03-30,Ann Arbor,MI,,United States,Teens and adults,Mask
+973,2020-03-29,Pads - Celestial,1,45.0,0.0,14.54,0.0,45.0,2020-03-29,2020-03-29,Paris,,,France,,Pads
+974,2020-03-29,Large Wet Bag - Soft Blue,1,18.0,0.0,4.07,0.0,18.0,2020-03-29,2020-03-29,MORRISON,IL,,United States,,Large Wet Bag
+975,2020-03-29,Mask - Dark Gray,3,15.0,4.01,0.0,0.0,45.0,2020-03-29,2020-03-29,Nyack,NY,,United States,Teens and adults,Mask
+976,2020-03-29,Mask - Ivory,3,15.0,0.0,0.0,0.0,45.0,2020-03-29,2020-03-29,Nyack,NY,,United States,Teens and adults,Mask
+977,2020-03-29,Pads - Sunflowers on Acqua,1,45.0,3.31,0.0,0.0,45.0,2020-03-29,2020-03-29,Gladewater,TX,,United States,,Pads
+978,2020-03-29,Pads - Rainbow Pastel,1,45.0,0.0,0.0,0.0,45.0,2020-03-29,2020-03-29,Gladewater,TX,,United States,,Pads
+979,2020-03-29,Mask - Black Stripes,1,15.0,0.0,3.54,0.0,15.0,2020-03-29,2020-03-29,Caledonia,OH,,United States,Teens and adults,Mask
+980,2020-03-29,Mask - Gray,1,15.0,0.0,3.5,0.0,15.0,2020-03-29,2020-03-29,Washington,DC,,United States,Teens and adults,Mask
+981,2020-03-29,Mask - Flowers,1,15.0,0.0,0.0,0.0,15.0,2020-03-29,2020-03-29,Washington,DC,,United States,Teens and adults,Mask
+982,2020-03-29,Mask - Red,1,15.0,0.0,3.6,0.0,15.0,2020-03-29,2020-03-29,Greenacres,FL,,United States,Teens and adults,Mask
+983,2020-03-29,Pads - Celestial,1,45.0,3.5,0.0,0.0,45.0,2020-03-29,2020-03-29,Sterling,VA,,United States,,Pads
+984,2020-03-28,Mask - Music Notes,1,15.0,0.0,2.78,0.0,15.0,2020-03-28,2020-03-29,Providence,RI,,United States,Teens and adults,Mask
+985,2020-03-28,Mask - Bananas on Pink,1,15.0,0.0,7.35,0.0,15.0,2020-03-28,2020-03-28,Brooklyn,NY,,United States,Teens and adults,Mask
+986,2020-03-28,Mask - Dark Gray,1,15.0,0.0,0.0,0.0,15.0,2020-03-28,2020-03-28,Brooklyn,NY,,United States,Teens and adults,Mask
+987,2020-03-27,Mask - Sketch Art,1,15.0,0.0,3.94,0.0,15.0,2020-03-27,2020-03-28,Riverside,CA,,United States,Teens and adults,Mask
+988,2020-03-27,Mask - Dark Green,1,15.0,0.0,0.0,0.0,15.0,2020-03-27,2020-03-28,Riverside,CA,,United States,Teens and adults,Mask
+989,2020-03-27,Mask - Blue,1,15.0,3.5,0.0,0.0,15.0,2020-03-27,2020-03-28,Newport News,VA,,United States,Teens and adults,Mask
+990,2020-03-27,Mask - Red,1,15.0,0.0,0.0,0.0,15.0,2020-03-27,2020-03-28,Newport News,VA,,United States,Teens and adults,Mask
+991,2020-03-27,Mask - Flowers,1,15.0,0.0,0.0,0.0,15.0,2020-03-27,2020-03-28,Newport News,VA,,United States,Teens and adults,Mask
+992,2020-03-27,Mask - Green,1,15.0,0.0,0.0,0.0,15.0,2020-03-27,2020-03-28,Newport News,VA,,United States,Teens and adults,Mask
+993,2020-03-27,Unpaper Towels - Rainbow,1,22.0,4.76,0.0,0.0,22.0,2020-03-27,2020-03-28,Pine Bush,NY,,United States,,Unpaper Towels
+994,2020-03-27,Napkins - Avocado Snuggle,2,10.0,0.0,0.0,0.0,20.0,2020-03-27,2020-03-28,Pine Bush,NY,,United States,,Napkins
+995,2020-03-27,Mask - Sketch Art,1,15.0,0.0,3.52,0.0,15.0,2020-03-27,2020-03-27,West Reading,PA,,United States,Teens and adults,Mask
+996,2020-03-26,Mask - Bananas on Pink,1,15.0,0.0,2.78,0.0,15.0,2020-03-26,2020-03-27,INDIANAPOLIS,IN,,United States,Teens and adults,Mask
+997,2020-03-26,Mask - Bananas on Pink,1,15.0,0.0,2.78,0.0,15.0,2020-03-26,2020-03-27,CARMEL,NY,,United States,Teens and adults,Mask
+998,2020-03-26,Pads - Celestial,1,45.0,3.54,0.0,0.0,45.0,2020-03-26,2020-03-26,TERRE HAUTE,IN,,United States,,Pads
+999,2020-03-24,Mask - Yellow,1,15.0,0.0,7.02,0.0,15.0,2020-03-24,2020-03-25,ALEXANDRIA,VA,,United States,Teens and adults,Mask
+1000,2020-03-24,Mask - Black Stripes,1,15.0,0.0,0.0,0.0,15.0,2020-03-24,2020-03-25,ALEXANDRIA,VA,,United States,Teens and adults,Mask
+1001,2020-03-24,Mask - Ivory,1,15.0,0.0,0.0,0.0,15.0,2020-03-24,2020-03-25,ALEXANDRIA,VA,,United States,Teens and adults,Mask
+1002,2020-03-24,Mask - Light Gray,1,12.0,0.0,0.0,0.0,12.0,2020-03-24,2020-03-25,ALEXANDRIA,VA,,United States,Toddlers,Mask
+1003,2020-03-24,Mask - Bananas on Pink,1,15.0,0.0,0.0,0.0,15.0,2020-03-24,2020-03-25,ALEXANDRIA,VA,,United States,Teens and adults,Mask
+1004,2020-03-24,Mask - Sketch Art,2,15.0,0.0,3.81,0.0,30.0,2020-03-24,2020-03-25,Fort Collins,CO,,United States,Teens and adults,Mask
+1005,2020-03-24,Mask - Flowers,1,15.0,0.0,3.54,0.0,15.0,2020-03-24,2020-03-24,CHESTNUT HILL,MA,,United States,Teens and adults,Mask
+1006,2020-03-24,Mask - Gustav Klimt II,2,15.0,0.0,3.5,0.0,30.0,2020-03-24,2020-03-24,WILLIAMSBURG,VA,,United States,Teens and adults,Mask
+1007,2020-03-24,Mask - Bananas on Pink,1,15.0,3.94,0.0,0.0,15.0,2020-03-24,2020-03-24,SHERMAN OAKS,CA,,United States,Teens and adults,Mask
+1008,2020-03-24,Mask - Gray,1,15.0,0.0,0.0,0.0,15.0,2020-03-24,2020-03-24,SHERMAN OAKS,CA,,United States,Teens and adults,Mask
+1009,2020-03-24,Mask - Bananas on Pink,1,14.0,0.0,0.0,0.0,14.0,2020-03-24,2020-03-24,SHERMAN OAKS,CA,,United States,Kids,Mask
+1010,2020-03-23,Mask - Bananas on Pink,1,15.0,0.0,3.69,0.0,15.0,2020-03-23,2020-03-23,Burleson,TX,,United States,Teens and adults,Mask
+1011,2020-03-23,Cotton Pads - White,9,12.0,9.54,0.0,0.0,108.0,2020-03-23,2020-03-24,MIRAMAR,FL,,United States,,Cotton Pads
+1012,2020-03-23,Unpaper Towels - Rainbow,1,22.0,4.15,0.0,0.0,22.0,2020-03-23,2020-03-23,Houston,TX,,United States,,Unpaper Towels
+1013,2020-03-23,Mask - Dark Green,1,14.0,0.0,0.0,0.0,14.0,2020-03-23,2020-03-23,Houston,TX,,United States,Kids,Mask
+1014,2020-03-23,Mask - Bananas on Pink,1,14.0,0.0,0.0,0.0,14.0,2020-03-23,2020-03-23,Houston,TX,,United States,Kids,Mask
+1015,2020-03-23,Mask - Gray,2,15.0,0.0,0.0,0.0,30.0,2020-03-23,2020-03-23,Houston,TX,,United States,Teens and adults,Mask
+1016,2020-03-23,Mask - Bananas on Pink,1,12.0,0.0,0.0,0.0,12.0,2020-03-23,2020-03-23,Houston,TX,,United States,Toddlers,Mask
+1017,2020-03-23,Mask - Bananas on Pink,1,15.0,0.0,3.94,0.0,15.0,2020-03-23,2020-03-23,Gilbert,AZ,,United States,Teens and adults,Mask
+1018,2020-03-23,Mask - Sketch Art,1,15.0,0.0,3.54,0.0,15.0,2020-03-23,2020-03-23,Fiskdale,MA,,United States,Teens and adults,Mask
+1019,2020-03-23,Cotton Pads - White,2,12.0,0.0,4.07,0.0,24.0,2020-03-23,2020-03-24,MIRAMAR,FL,,United States,,Cotton Pads
+1020,2020-03-23,Mask - Sketch Art,1,15.0,0.0,3.94,0.0,15.0,2020-03-23,2020-03-23,Los Angeles,CA,,United States,Teens and adults,Mask
+1021,2020-03-23,Two Masks - Music Print Pattern,1,34.0,0.0,2.0,0.0,34.0,2020-03-23,2020-03-23,Nepean,ON,,Canada,,Two Masks
+1022,2020-03-23,Mask - Light Gray,1,15.0,0.0,3.52,0.0,15.0,2020-03-23,2020-03-23,New York,NY,,United States,Teens and adults,Mask
+1023,2020-03-23,Mask - Ivory,1,14.0,0.0,0.0,0.0,14.0,2020-03-23,2020-03-23,New York,NY,,United States,Kids,Mask
+1024,2020-03-23,Mask - Dark Gray,1,15.0,0.0,3.97,0.0,15.0,2020-03-23,2020-03-23,WASHINGTON,DC,,United States,Teens and adults,Mask
+1025,2020-03-23,Mask - Gray,1,15.0,0.0,0.0,0.0,15.0,2020-03-23,2020-03-23,WASHINGTON,DC,,United States,Teens and adults,Mask
+1026,2020-03-23,Large Wet Bag - Soft Blue,1,18.0,0.0,0.0,0.0,18.0,2020-03-23,2020-03-23,WASHINGTON,DC,,United States,,Large Wet Bag
+1027,2020-03-22,Mask - Dark Green,2,15.0,3.6,0.0,0.0,30.0,2020-03-22,2020-03-22,Lawrence,KS,,United States,Teens and adults,Mask
+1028,2020-03-22,Mask - Dark Green,1,12.0,0.0,0.0,0.0,12.0,2020-03-22,2020-03-22,Lawrence,KS,,United States,Toddlers,Mask
+1029,2020-03-22,Mask - Light Gray,1,15.0,0.0,3.52,0.0,15.0,2020-03-22,2020-03-22,Lewes,DE,,United States,Teens and adults,Mask
+1030,2020-03-22,Mask - Blue,1,15.0,0.0,0.0,0.0,15.0,2020-03-22,2020-03-22,Lewes,DE,,United States,Teens and adults,Mask
+1031,2020-03-22,Pads - Celestial,1,45.0,3.6,0.0,0.0,45.0,2020-03-22,2020-03-22,Waterloo,IA,,United States,,Pads
+1032,2020-03-22,Mask - Dark Gray,4,15.0,4.01,0.0,0.0,60.0,2020-03-22,2020-03-23,Southbury,CT,,United States,Teens and adults,Mask
+1033,2020-03-22,Mask - Gray,2,15.0,0.0,0.0,0.0,30.0,2020-03-22,2020-03-23,Southbury,CT,,United States,Teens and adults,Mask
+1034,2020-03-22,Mask - Ivory,2,15.0,0.0,0.0,0.0,30.0,2020-03-22,2020-03-23,Southbury,CT,,United States,Teens and adults,Mask
+1035,2020-03-22,Mask - Dark Green,1,15.0,0.0,3.94,0.0,15.0,2020-03-22,2020-03-22,Santa Barbara,CA,,United States,Teens and adults,Mask
+1036,2020-03-22,Mask - Gray,1,15.0,0.0,3.54,0.0,15.0,2020-03-22,2020-03-22,Ann Arbor,MI,,United States,Teens and adults,Mask
+1037,2020-03-22,Mask - Dark Green,1,15.0,0.0,0.0,0.0,15.0,2020-03-22,2020-03-22,Ann Arbor,MI,,United States,Teens and adults,Mask
+1038,2020-03-22,Pads - Celestial,1,45.0,3.54,0.0,0.0,45.0,2020-03-22,2020-03-22,Buffalo,NY,,United States,,Pads
+1039,2020-03-21,Mask - Light Purple,1,15.0,0.0,3.6,0.0,15.0,2020-03-21,2020-03-22,Clearwater,FL,,United States,Teens and adults,Mask
+1040,2020-03-21,Mask - Black Stripes,1,15.0,0.0,0.0,0.0,15.0,2020-03-21,2020-03-22,Clearwater,FL,,United States,Teens and adults,Mask
+1041,2020-03-21,Mask - Dark Green,1,15.0,0.0,3.54,0.0,15.0,2020-03-21,2020-03-21,SALEM,MA,,United States,Teens and adults,Mask
+1042,2020-03-21,Mask - Dark Green,2,12.0,0.0,3.94,0.0,24.0,2020-03-21,2020-03-21,Holladay,UT,,United States,Toddlers,Mask
+1043,2020-03-20,Mask - Gustav Klimt,1,15.0,0.0,3.54,0.0,15.0,2020-03-20,2020-03-21,Lewis Center,OH,,United States,Teens and adults,Mask
+1044,2020-03-20,Mask - Dark Green,1,15.0,0.0,0.0,0.0,15.0,2020-03-20,2020-03-21,Lewis Center,OH,,United States,Teens and adults,Mask
+1045,2020-03-20,Mask - Light Purple,1,15.0,0.0,3.5,0.0,15.0,2020-03-20,2020-03-21,Richmond,VA,,United States,Teens and adults,Mask
+1046,2020-03-20,Mask - Ivory,1,15.0,0.0,0.0,0.0,15.0,2020-03-20,2020-03-21,Richmond,VA,,United States,Teens and adults,Mask
+1047,2020-03-20,Mask - Dark Green,1,15.0,4.01,0.0,0.0,15.0,2020-03-20,2020-03-21,Watertown,MA,,United States,Teens and adults,Mask
+1048,2020-03-20,Mask - Dark Gray,1,15.0,0.0,0.0,0.0,15.0,2020-03-20,2020-03-21,Watertown,MA,,United States,Teens and adults,Mask
+1049,2020-03-20,Small Wet Bag- Soft Blue,1,8.5,0.0,0.0,0.0,8.5,2020-03-20,2020-03-21,Watertown,MA,,United States,,Small Wet Bag
+1050,2020-03-20,Mask - Bananas on Pink,1,15.0,0.0,3.54,0.0,15.0,2020-03-20,2020-03-20,Somerville,MA,,United States,Teens and adults,Mask
+1051,2020-03-20,Mask - Sketch Art,1,15.0,0.0,3.5,0.0,15.0,2020-03-20,2020-03-20,Williamsburg,VA,,United States,Teens and adults,Mask
+1052,2020-03-20,Mask - Light Purple,1,15.0,0.0,3.5,0.0,15.0,2020-03-20,2020-03-20,WILMINGTON,NC,,United States,Teens and adults,Mask
+1053,2020-03-20,Mask - Yellow,1,12.0,0.0,3.6,0.0,12.0,2020-03-20,2020-03-20,Bar Harbor,ME,,United States,Toddlers,Mask
+1054,2020-03-19,Mask - Bananas on Pink,1,15.0,0.0,3.6,0.0,15.0,2020-03-19,2020-03-19,Kenner,LA,,United States,Teens and adults,Mask
+1055,2020-03-18,Pads - Sunflowers on Acqua,1,45.0,2.84,0.0,0.0,45.0,2020-03-18,2020-03-18,Lawrence,KS,,United States,,Pads
+1056,2020-03-12,"Silver Scrunchie - Modern, Unique and Flashy",1,8.0,3.21,0.0,0.0,8.0,2020-03-12,2020-03-12,Newport News,VA,,United States,,Silver Scrunchie
+1057,2020-03-12,"Gold Scrunchie - Modern, Unique and Flashy",1,8.0,0.0,0.0,0.0,8.0,2020-03-12,2020-03-12,Newport News,VA,,United States,,Gold Scrunchie
+1058,2020-03-12,"Cool Print Scrunchie - Modern, Unique and Flashy",1,8.0,0.0,0.0,0.0,8.0,2020-03-12,2020-03-12,Newport News,VA,,United States,,Cool Print Scrunchie
+1059,2020-03-04,Pads - Sunflowers on Acqua,1,45.0,3.25,0.0,0.0,45.0,2020-03-04,2020-03-06,Bristol,CT,,United States,,Pads
+1060,2020-03-04,Pads - Celestial,1,45.0,0.0,0.0,0.0,45.0,2020-03-04,2020-03-06,Bristol,CT,,United States,,Pads
+1061,2020-03-03,Teething Ring - Watermelon,1,9.5,3.5,0.0,0.0,9.5,2020-03-03,2020-03-03,Hampton,VA,,United States,,Teething Ring
+1062,2020-03-03,Pads - Grey Triangles,1,45.0,3.54,0.0,0.0,45.0,2020-03-03,2020-03-03,Ypsilanti,MI,,United States,,Pads
+1063,2020-03-02,Pads - Grey Triangles,1,45.0,3.54,0.0,0.0,45.0,2020-03-02,2020-03-03,Leo,IN,,United States,,Pads
+1064,2020-02-27,Pads - Celestial,1,45.0,3.6,0.0,0.0,45.0,2020-02-27,2020-02-27,columbus,WI,,United States,,Pads
+1065,2020-02-16,Pads - Sunflowers on Acqua,1,45.0,3.18,0.0,0.0,45.0,2020-02-16,2020-02-17,SANTA CLARA,CA,,United States,,Pads
+1066,2020-02-14,Embroidery - Heart,1,36.0,2.74,0.0,0.0,36.0,2020-02-14,2020-02-17,Norfolk,VA,,United States,finish:medium circular,Embroidery
+1067,2020-02-10,Pads - Sunflowers on Acqua,1,45.0,0.0,0.0,0.0,45.0,2020-02-10,2020-02-10,Orem,UT,,United States,,Pads
+1068,2020-01-30,Pads - Sunflowers on Acqua,1,45.0,0.0,0.0,0.0,45.0,2020-01-30,2020-01-30,Plympton,MA,,United States,,Pads
+1069,2020-01-19,Napkins - Hedgehogs,1,10.0,0.0,3.85,0.0,10.0,2020-01-19,2020-01-21,Cornelius,OR,,United States,,Napkins
+1070,2020-01-11,Napkins - Sloths,1,10.0,0.0,14.3,0.0,10.0,2020-01-11,2020-01-12,Edinburgh,UK,,United Kingdom,,Napkins
+1071,2020-01-11,Napkins - Dinosaurs,1,10.0,0.0,0.0,0.0,10.0,2020-01-11,2020-01-12,Edinburgh,UK,,United Kingdom,,Napkins
+1072,2020-01-11,Pads - Pastel Geometric,1,45.0,0.0,0.0,0.0,45.0,2020-01-11,2020-01-12,Fresno,CA,,United States,,Pads
