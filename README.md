@@ -1,6 +1,7 @@
 # E-Commerce-Data-Visualization
 This repository is a data visualization project of an Etsy Store (Mindful Mom Art).
 
-Data Cleaning
-The first step is to clean the data named 
-Run Data Cleaning.ipynb to clean the data and save it in a new csv file named DataCleaned.csv
+a) Data Cleaning
+The first step is to clean the data named 'EtsySoldOrderItems2020.csv'.
+Run the Jupyter Notebook 'Data Cleaning.ipynb' to clean the data and save it in a new csv file named 'DataCleaned.csv'.
+The file is used to replace the item names to optimized item names.
