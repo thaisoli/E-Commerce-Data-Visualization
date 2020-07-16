@@ -8,5 +8,6 @@ Run the Jupyter Notebook 'Data Cleaning.ipynb' to clean the data and save it in 
 The file 'NewItemNames.xlsx' is used to replace the item names to optimized names.
 
 b) Mask Study
+
 The second step is to visualize some of the data related to the masks sold in the store. This can be done by running the Jupyter notebook 
 code 'Masks Study.ipynb'.
