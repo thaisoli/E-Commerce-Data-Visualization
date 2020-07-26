@@ -1,5 +1,5 @@
-# E-Commerce-Data-Visualization
-This repository is a data visualization project of an Etsy Store (Mindful Mom Art).
+# Selling Masks in the Pandemic Times
+This repository is a data visualization project of the masks sold on an online store in pandemic times.
 
 a) Data Cleaning
 
